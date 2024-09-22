@@ -1,0 +1,54 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "creationDeviceType" : "iMac",
+  "creationDate" : "2021-10-23T14:59:30Z",
+  "modifiedDate" : "2021-10-23T15:00:47Z",
+  "editingTime" : 74.241984963417053,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1326}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"12EE69B3-8877-4EE2-B78E-32B29BB5C009\"}},\"text\":\"Proscenium\\n\"},{\"text\":\"Filled in online application. The application is targeted towards working people, not retirees. I filled in some income fields with Social Security info. There was no \"}]}",
+  "text" : "Proscenium\nFilled in online application\\. The application is targeted towards working people, not retirees\\. I filled in some income fields with Social Security info\\. There was no",
+  "weather" : {
+    "sunsetDate" : "2021-10-24T00:44:30Z",
+    "temperatureCelsius" : 17.799999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2021-10-23T13:39:19Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1010,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 43,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 17.799999237060547
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iMac19,2",
+  "timeZone" : "America\/Phoenix",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "2A53F59F5AEC4051B2458B8D9D34A702",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83481597900391,
+        "latitude" : 33.581298828125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83481597900391,
+    "placeName" : "10501–10533 N 114th St",
+    "latitude" : 33.581298828125
+  },
+  "creationOSVersion" : "11.6",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac"
+}
+]}

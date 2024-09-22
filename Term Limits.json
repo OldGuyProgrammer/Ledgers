@@ -1,0 +1,2883 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.71637725830078,
+        "latitude" : 33.599029541015625
+      },
+      "radius" : 75
+    },
+    "localityName" : "Fountain Hills",
+    "country" : "United States",
+    "longitude" : -111.71637725830078,
+    "administrativeArea" : "AZ",
+    "placeName" : "12545 N Saguaro Blvd",
+    "latitude" : 33.599029541015625
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "947979AA42F84F168CFB40C144B2C3FF",
+  "creationDeviceType" : "iPhone",
+  "isAllDay" : false,
+  "creationOSVersion" : "12.4.1",
+  "creationDeviceModel" : "iPhone11,8",
+  "starred" : false,
+  "modifiedDate" : "2019-09-13T14:16:16Z",
+  "text" : "# Ken Clark\nPhone call\\. I can go after Kyrsten Sinema on my own\\. \nRemember that she’s a politician and will try and dance around questions she doesn’t want to answer\\. I’m to be persistence and she will try and stay on message\\. \nKen is sending me an email\\. I’m to study it and get back to him\\. \nKen will put me in touch with Kelly Thompson\\. She is in the AZ assembly, but he’s not sure where\\.\nSalsa has my contact info\\. \nThere’s Salsa training today at 0800 MST\\. I can’t do that\\.",
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 111
+  },
+  "richText" : "{\"meta\":{\"created\":{\"version\":535,\"platform\":\"com.bloombuilt.dayone-ios\"},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Ken Clark\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Phone call. I can go after Kyrsten Sinema on my own. \\nRemember that she’s a politician and will try and dance around questions she doesn’t want to answer. I’m to be persistence and she will try and stay on message. \\nKen is sending me an email. I’m to study it and get back to him. \\nKen will put me in touch with Kelly Thompson. She is in the AZ assembly, but he’s not sure where.\\nSalsa has my contact info. \\nThere’s Salsa training today at 0800 MST. I can’t do that. \"}]}",
+  "creationDate" : "2019-09-13T14:10:19Z",
+  "creationDevice" : "Jim’s iPhone",
+  "timeZone" : "America\/Phoenix",
+  "creationOSName" : "iOS",
+  "weather" : {
+    "sunsetDate" : "2019-09-14T01:36:35Z",
+    "temperatureCelsius" : 28,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 30,
+    "sunriseDate" : "2019-09-13T13:08:57Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1011,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 16,
+    "windSpeedKPH" : 19,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 28
+  }
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83450317382812,
+        "latitude" : 33.58111572265625
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83450317382812,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.58111572265625
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "2C0E0F4DAA9B407689612DA8B408192C",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.14.6",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-09-27T00:34:06Z",
+  "text" : "# Conference\nRick Gray, majority leader AZ is against Term Limits\nBob Berry, former TL regional director thinks Fann is weak\\.\nIan Phillips, TL Utah Director\\.\nBarrelli pledged yes to Term Limits, but always opposes\\.",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Conference\\n\"},{\"text\":\"Rick Gray, majority leader AZ is against Term Limits\\nBob Berry, former TL regional director thinks Fann is weak.\\nIan Phillips, TL Utah Director.\\nBarrelli pledged yes to Term Limits, but always opposes.\\n\"}],\"meta\":{\"version\":1,\"created\":{\"version\":1095,\"platform\":\"com.bloombuilt.dayone-mac\"},\"small-lines-removed\":true}}",
+  "creationDate" : "2019-09-26T14:30:00Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-09-27T01:19:26Z",
+    "temperatureCelsius" : 23,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-09-26T13:18:31Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1013,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 66,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 24
+  }
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83451080322266,
+        "latitude" : 33.581058502197266
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83451080322266,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581058502197266
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "85AFAFA41BFD448C8BE144D0F6636922",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.14.6",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-09-27T01:08:17Z",
+  "text" : "# Conference\nRon Hooper’s territory is huge\\!\nToday’s theme is insider trading\\. They’ve listed many pols who got rich with insider information\\. \nRobert Yates wrote for term limits in 1788\\. He was an anti\\-federalist\\.\nArticle V: 34 Applications that must be identical\\. There have been more than 400 resolutions passed for other reasons\\. There has been none that are the same, therefore no convention for any amendments yet\\.\nThen the states give their delegates binding instructions\\.",
+  "richText" : "{\"contents\":[{\"text\":\"Conference\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Ron Hooper’s territory is huge!\\nToday’s theme is insider trading. They’ve listed many pols who got rich with insider information. \\nRobert Yates wrote for term limits in 1788. He was an anti-federalist.\\nArticle V: 34 Applications that must be identical. There have been more than 400 resolutions passed for other reasons. There has been none that are the same, therefore no convention for any amendments yet.\\nThen the states give their delegates binding instructions.\\n\"}],\"meta\":{\"created\":{\"version\":1095,\"platform\":\"com.bloombuilt.dayone-mac\"},\"small-lines-removed\":true,\"version\":1}}",
+  "creationDate" : "2019-09-27T00:33:39Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-09-27T01:19:26Z",
+    "temperatureCelsius" : 28,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 190,
+    "sunriseDate" : "2019-09-26T13:18:31Z",
+    "conditionsDescription" : "Cloudy",
+    "pressureMB" : 1009,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 40,
+    "windSpeedKPH" : 13,
+    "weatherCode" : "cloudy",
+    "windChillCelsius" : 29
+  }
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83437347412109,
+        "latitude" : 33.581062316894531
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83437347412109,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581062316894531
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "E3E6DC5E532A45BD8351B35F577E7957",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.14.6",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-09-30T17:38:47Z",
+  "text" : "# Conference Call\nPolitician say they’re against an Article 5 Convention, but they’re really against Term Limits\\.\nWolfpack: Progressive group wanting to create an Amendment to regulate spending during elections\\. This could be a challenge to Citizen’s United\\.\nNever discuss why another Article 5 amendment is wrong\\.\nOur amendment does not require politicians to make further right choices after the amendment is passed\\. Ie\\. The Wolfpack amendment requires politicians to regulate campaign spending \\(and speech\\) the correct way\\.\nDetroit: Jeff Tillman went and saw Justin Amash speak\\. Amash does not sign pledges, talked about longer terms 16 years?\\!\\! He dodged the question of Term Limits\\.He said 2 terms of 3 years is not long enough for Michigan\\.",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Conference Call\\n\"},{\"text\":\"Politician say they’re against an Article 5 Convention, but they’re really against Term Limits.\\nWolfpack: Progressive group wanting to create an Amendment to regulate spending during elections. This could be a challenge to Citizen’s United.\\nNever discuss why another Article 5 amendment is wrong.\\nOur amendment does not require politicians to make further right choices after the amendment is passed. Ie. The Wolfpack amendment requires politicians to regulate campaign spending (and speech) the correct way.\\nDetroit: Jeff Tillman went and saw Justin Amash speak. Amash does not sign pledges, talked about longer terms 16 years?!! He dodged the question of Term Limits.He said 2 terms of 3 years is not long enough for Michigan.\"}],\"meta\":{\"created\":{\"version\":1095,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1,\"small-lines-removed\":true}}",
+  "creationDate" : "2019-09-30T17:01:43Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-10-01T01:13:57Z",
+    "temperatureCelsius" : 26,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : -1,
+    "sunriseDate" : "2019-09-30T13:21:19Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1007,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 34,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 26
+  }
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83449554443359,
+        "latitude" : 33.581035614013672
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83449554443359,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581035614013672
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "FEB85FE202F540A28D75292325E0F976",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.14.6",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-10-03T11:42:27Z",
+  "text" : "# Conference Call\nRon Hooper, Ian Phillips\nWe will talk to Kelly Townend, R leader in AZ Government\\.\nCall Jeff Tillman to get personal Swag\\.",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1095},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Conference Call\\n\"},{\"text\":\"Ron Hooper, Ian Phillips\\nWe will talk to Kelly Townend, R leader in AZ Government.\\nCall Jeff Tillman to get personal Swag.\"}]}",
+  "creationDate" : "2019-10-02T17:00:23Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "temperatureCelsius" : 0,
+    "weatherServiceName" : "HAMweather",
+    "sunriseDate" : "2019-10-02T13:22:44Z",
+    "conditionsDescription" : "Sunny",
+    "weatherCode" : "clear",
+    "sunsetDate" : "2019-10-03T01:11:14Z"
+  }
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83437347412109,
+        "latitude" : 33.581024169921875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83437347412109,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581024169921875
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "3C829483691E47479E342F23DB091E12",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.14.6",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-10-04T01:19:43Z",
+  "text" : "# Video Conference\nKenClark: We support all Article 5 movements\\.\nTop fund raisers get to be committee chairmen\\.\nThere have been over 400 Article 5 resolution, but they have been different\\.",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Video Conference\\n\"},{\"text\":\"KenClark: We support all Article 5 movements.\\nTop fund raisers get to be committee chairmen.\\nThere have been over 400 Article 5 resolution, but they have been different.\"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1095},\"small-lines-removed\":true,\"version\":1}}",
+  "creationDate" : "2019-10-04T00:30:12Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-10-04T01:09:54Z",
+    "temperatureCelsius" : 33,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 280,
+    "sunriseDate" : "2019-10-03T13:23:27Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 18,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 34
+  }
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83446502685547,
+        "latitude" : 33.580986022949219
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83446502685547,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580986022949219
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "11A7A4B8DAEB48BF8C518A04201F567A",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.14.6",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-10-08T22:12:17Z",
+  "text" : "# Conference Call\nNick Tomboulides\nRon Hooper\nConstantine Querard\nTerm Limits Bills: Senate SCR1014\nCQ is <almost> exclusive for TL in AZ\\.\nNT: says a heavy carrot and stick approach might work in AZ because it worked in MS and LA\\.\nCQ: AZ was close\\. 4 D house sponsors, 2 defected\\. In the House 32\\-26\\-2\\. 2 D Votes\\. D Caucus are BIG against TL\\. Hernandez Bro and Sis are for TL\\. Majority of the R Caucus is with us\\. D’s supporters are against it\\. There’s hasn’t been repercussions yet for yes or no votes\\. Steve Pierce replaced a guy who resigned, Yavapai Co \\(Prescott\\)\\. \nNT: Send a person with a pledge to a “Town Hall” type of meeting\\.\nCQ: the house is not a problem\\. \nNT: It’s too close for comfort\\.\nCQ: AZ will be in session Jan \\- Apr\\. They will start to campaign after April 2020\\.\nNT: The House doesn’t want to move until they get a sense from the Senate\\. How do we break this log\\-jam\\.\nCQ: Committee chairs are a problem in the Senate\\. The bill did get through Appropriations but didn’t make it  to the Senate floor\\. Fann is the same district as Pierce\\. The Farnsworths are against TL and work against it\\.\nNT: Fann wimped out on us\\. If D’s go against their pledge, R’s can use it against them\\.\nCQ: Fann might have done it because of Rick Gray\\.\nNT: Ron and I should “reset” with Fann\\. Ron and I are the new sheriff’s in town\\. Willing to primary R Gray using TL\\. He thinks grassroots pressure will overpower contributor pressure\\.\nCQ: Finding opponents to run against Fann and Gray\\. He wants a vote, even no votes\\. That way TL’s have a target\\. We will be aggressive against people that go against our pledges D’s or R’s\\.",
+  "richText" : "{\"contents\":[{\"text\":\"Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Nick Tomboulides\\nRon Hooper\\nConstantine Querard\\nTerm Limits Bills: Senate SCR1014\\nCQ is <almost> exclusive for TL in AZ.\\nNT: says a heavy carrot and stick approach might work in AZ because it worked in MS and LA.\\nCQ: AZ was close. 4 D house sponsors, 2 defected. In the House 32-26-2. 2 D Votes. D Caucus are BIG against TL. Hernandez Bro and Sis are for TL. Majority of the R Caucus is with us. D’s supporters are against it. There’s hasn’t been repercussions yet for yes or no votes. Steve Pierce replaced a guy who resigned, Yavapai Co (Prescott). \\nNT: Send a person with a pledge to a “Town Hall” type of meeting.\\nCQ: the house is not a problem. \\nNT: It’s too close for comfort.\\nCQ: AZ will be in session Jan - Apr. They will start to campaign after April 2020.\\nNT: The House doesn’t want to move until they get a sense from the Senate. How do we break this log-jam.\\nCQ: Committee chairs are a problem in the Senate. The bill did get through Appropriations but didn’t make it  to the Senate floor. Fann is the same district as Pierce. The Farnsworths are against TL and work against it.\\nNT: Fann wimped out on us. If D’s go against their pledge, R’s can use it against them.\\nCQ: Fann might have done it because of Rick Gray.\\nNT: Ron and I should “reset” with Fann. Ron and I are the new sheriff’s in town. Willing to primary R Gray using TL. He thinks grassroots pressure will overpower contributor pressure.\\nCQ: Finding opponents to run against Fann and Gray. He wants a vote, even no votes. That way TL’s have a target. We will be aggressive against people that go against our pledges D’s or R’s.\"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1100},\"version\":1,\"small-lines-removed\":true}}",
+  "creationDate" : "2019-10-04T16:31:52Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-10-05T01:08:33Z",
+    "temperatureCelsius" : 25,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-10-04T13:24:10Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1013,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 42,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 26
+  }
+},
+{
+  "modifiedDate" : "2019-10-04T18:48:52Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Anita Bennett\nAgreed to work with Facebook and other administrative things\\. She’s eager and wants to work with us\\. Like me, she thought the Term Limits movement was new and didn’t know that the organization has been active for a long time\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83439636230469,
+        "latitude" : 33.581069946289062
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83439636230469,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581069946289062
+  },
+  "starred" : false,
+  "uuid" : "A64EAEE4185C4561B2B33240E36827D2",
+  "creationOSVersion" : "10.14.6",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1095}},\"contents\":[{\"text\":\"Anita Bennett\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Agreed to work with Facebook and other administrative things. She’s eager and wants to work with us. Like me, she thought the Term Limits movement was new and didn’t know that the organization has been active for a long time.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-10-04T18:27:13Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-05T01:08:33Z",
+    "temperatureCelsius" : 30,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 310,
+    "sunriseDate" : "2019-10-04T13:24:10Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1012,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 27,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 30
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-10-07T17:21:08Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# All Staff Conference Call\nDebbie Ingram \\(VT\\) sign the pledge\\. \nKen Quinn testimony in Wis\\. Robert Kelly is the Legal Director of COS\\. Senator Fred Risser was in Wisconsin Gov’t since 1956\\.\nLast week got over 100 pledges in Louisiana\\.\nLooking for creative ways to recruit more people\/volunteers\\.\nLegislators should be contacted by people in their districts\\. \nToday is the first day of TL’s internship program\\. We have 8 interns\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83453369140625,
+        "latitude" : 33.581192016601562
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83453369140625,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581192016601562
+  },
+  "starred" : false,
+  "uuid" : "9FD3D7B25A704E14B5DBE8BC58DFEAE9",
+  "creationOSVersion" : "10.14.6",
+  "richText" : "{\"contents\":[{\"text\":\"All Staff Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Debbie Ingram (VT) sign the pledge. \\nKen Quinn testimony in Wis. Robert Kelly is the Legal Director of COS. Senator Fred Risser was in Wisconsin Gov’t since 1956.\\nLast week got over 100 pledges in Louisiana.\\nLooking for creative ways to recruit more people\\\/volunteers.\\nLegislators should be contacted by people in their districts. \\nToday is the first day of TL’s internship program. We have 8 interns.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1100}}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-10-07T16:56:42Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-08T01:04:35Z",
+    "temperatureCelsius" : 26,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-10-07T13:26:22Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1014,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 16,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 26
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-10-08T22:07:09Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Conference Call\nRon Hooper\nConstantine Querard\nJim Olivi\nCQ: They get people elected, but no emphasis on issues\\. Although they’re big on Article 5\\. They run  the races, recruit the candidates, coach them\\. Funded by the campaigns they’re helping\\.\nSean Bowie\\. Dem\\. Elected 2016\\. Dems think Term Limits will be used against them\\. He will be a Repub target\\. His district will get tougher because of re\\-districting\\. Suzzan Sharer\nBob Berry was not mean or coercive\\. Karen Fann was a little too sensitive\\. \nEvery Dem in AZ that supports TL has been suggestion\\.\nRick Gray feels strong in this district\\.\nSuzette Meyers worked with Bob Berry in Term Limits\\.\nHowie Rich, TL chairman\\.\nCQ thinks 3 terms in the house is too short\\. We need to emphasize that we want the Article 5 convention for term limits without numbers\\.\nKaren Fann is in a safe Repub district\\.\nTL should be a bi\\-partisan bill\\. If it fails again, then it’s a Repub failure\\. If the Dems won’t vote “for”, then get them to vote “no” and use that against them\\.\nAlternate, get TL’s as a ballot initiative for a change to the AZ Constitution\\. Could cost $1M to do this\\. This is a last\\-ditch move\\. It would be better to make it clear that we’re tired of pussy\\-footing around and we can push hard\\.\nCheck with Suzzete Meyers about D’Allessandro\\.\nRusty Bowers\\. Courtesy call\\. Maybe called his Chief of Staff, Micheal Hunter, he’s a Libertarian, and former worker for Goldwater Institute\\.\nEspinoza, might be worth a friendly call\\.\nSteve Pierce, kind of an unknown\\. But, might be able to influence\/smooth relationship with K Fann\\.\nPawlik Repub top target\\. Vulnerable in this regard\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83470153808594,
+        "latitude" : 33.5811767578125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83470153808594,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.5811767578125
+  },
+  "starred" : false,
+  "uuid" : "EF3C5393B42D447EA6EC179E82330FD5",
+  "creationOSVersion" : "10.15",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1100}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Conference Call\\n\"},{\"text\":\"Ron Hooper\\nConstantine Querard\\nJim Olivi\\nCQ: They get people elected, but no emphasis on issues. Although they’re big on Article 5. They run  the races, recruit the candidates, coach them. Funded by the campaigns they’re helping.\\nSean Bowie. Dem. Elected 2016. Dems think Term Limits will be used against them. He will be a Repub target. His district will get tougher because of re-districting. Suzzan Sharer\\nBob Berry was not mean or coercive. Karen Fann was a little too sensitive. \\nEvery Dem in AZ that supports TL has been suggestion.\\nRick Gray feels strong in this district.\\nSuzette Meyers worked with Bob Berry in Term Limits.\\nHowie Rich, TL chairman.\\nCQ thinks 3 terms in the house is too short. We need to emphasize that we want the Article 5 convention for term limits without numbers.\\nKaren Fann is in a safe Repub district.\\nTL should be a bi-partisan bill. If it fails again, then it’s a Repub failure. If the Dems won’t vote “for”, then get them to vote “no” and use that against them.\\nAlternate, get TL’s as a ballot initiative for a change to the AZ Constitution. Could cost $1M to do this. This is a last-ditch move. It would be better to make it clear that we’re tired of pussy-footing around and we can push hard.\\nCheck with Suzzete Meyers about D’Allessandro.\\nRusty Bowers. Courtesy call. Maybe called his Chief of Staff, Micheal Hunter, he’s a Libertarian, and former worker for Goldwater Institute.\\nEspinoza, might be worth a friendly call.\\nSteve Pierce, kind of an unknown. But, might be able to influence\\\/smooth relationship with K Fann.\\nPawlik Repub top target. Vulnerable in this regard.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-10-08T21:02:01Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-09T01:03:17Z",
+    "temperatureCelsius" : 33,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 180,
+    "sunriseDate" : "2019-10-08T13:27:06Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 11,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 33
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-10-09T17:19:45Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Conference Call\nRon Hooper\nIan Phillips\n\nSuzette Meyers might be a loose cannon\\.",
+  "uuid" : "79961CD8441943A88E9EDFEB7A2A27A0",
+  "starred" : false,
+  "creationOSVersion" : "10.15",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1100},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Ron Hooper\\nIan Phillips\\n\\nSuzette Meyers might be a loose cannon.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-10-09T17:06:23Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-10-11T00:57:29Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# National Video Conference\nSubject: Corruption, Insider Trading\\.\nKen Quinn went to Vermont, appeared on TV\\.\nThere were 12,000 amendments proposed since 1789\\.\nThis year, 60\\.\nAaron Dukette: New Director for W\\. Virginia and Kentucky\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83441162109375,
+        "latitude" : 33.580959320068359
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83441162109375,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580959320068359
+  },
+  "starred" : false,
+  "uuid" : "03B83F7C45344E6EAE75AC8F8ED9E6AC",
+  "creationOSVersion" : "10.15",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1100},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"National Video Conference\\n\"},{\"text\":\"Subject: Corruption, Insider Trading.\\nKen Quinn went to Vermont, appeared on TV.\\nThere were 12,000 amendments proposed since 1789.\\nThis year, 60.\\nAaron Dukette: New Director for W. Virginia and Kentucky.\\n\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-10-11T00:29:54Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-11T01:00:42Z",
+    "temperatureCelsius" : 29,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 270,
+    "sunriseDate" : "2019-10-10T13:28:36Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1007,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 8,
+    "windSpeedKPH" : 17,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 29
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-10-11T16:46:04Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# James Ellis\nIs running for Surprise AZ city council\\. Wants to sign the pledge\\. He will write a pledge on his letterhead and we will thank him with a Facebook posting and a press release\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83432769775391,
+        "latitude" : 33.581161499023438
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83432769775391,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581161499023438
+  },
+  "starred" : false,
+  "uuid" : "4F8BD8E8CC26498C9F2723979C87DEBC",
+  "creationOSVersion" : "10.15",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1100},\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"James Ellis\\n\"},{\"text\":\"Is running for Surprise AZ city council. Wants to sign the pledge. He will write a pledge on his letterhead and we will thank him with a Facebook posting and a press release.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-10-11T16:13:58Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-12T00:59:25Z",
+    "temperatureCelsius" : 21,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-10-11T13:29:21Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1016,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 8,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 21
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "richText" : "{\"meta\":{\"created\":{\"version\":1100,\"platform\":\"com.bloombuilt.dayone-mac\"},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Conference Call\\n\"},{\"text\":\"Some talk about 2nd amendment group that’s against an Article V convention. National Association for Gun Rights (NAGR).\\n\\nLouisiana Elections: we got 10 additional pledges. 18 in house and 3 in Senate. 18 house pledge signers won 3 in run-offs, Senate 5 won and a couple in run-offs. Where they lost, it was very close.\\n\\nI had dropped calls. Switched to Lynn’s phone and lost a lot of the conversation.\"}]}",
+  "isPinned" : false,
+  "creationOSVersion" : "10.15",
+  "starred" : false,
+  "text" : "# Conference Call\nSome talk about 2nd amendment group that’s against an Article V convention\\. National Association for Gun Rights \\(NAGR\\)\\.\n\nLouisiana Elections: we got 10 additional pledges\\. 18 in house and 3 in Senate\\. 18 house pledge signers won 3 in run\\-offs, Senate 5 won and a couple in run\\-offs\\. Where they lost, it was very close\\.\n\nI had dropped calls\\. Switched to Lynn’s phone and lost a lot of the conversation\\.",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83441162109375,
+        "latitude" : 33.581123352050781
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83441162109375,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581123352050781
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "creationDeviceType" : "iMac",
+  "modifiedDate" : "2019-10-15T17:25:12Z",
+  "uuid" : "2CB643205FB24E1D98A22CA372769C1E",
+  "creationDate" : "2019-10-15T17:00:59Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-16T00:54:25Z",
+    "temperatureCelsius" : 25,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : -1,
+    "sunriseDate" : "2019-10-15T13:32:26Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1015,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 33,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 26
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "richText" : "{\"meta\":{\"created\":{\"version\":1100,\"platform\":\"com.bloombuilt.dayone-mac\"},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"AWS Webinar\\n\"},{\"text\":\"\\tAdd and use on demand IT resources. World wide. Hardware is owned and maintained by Amazon.\\n\\tI can choose where the data resides. There’s data centers world wide. An availability zone (AZ) is a cluster of data centers.  Resources are replicated within the AZ. Almost 100% safety. Not all services are available in all regions. There are also Points of Presence cache locations so requests might not have to transit the entire earth.\\n\\tIt offers virtual machines that appear as if its owned by the client, but it’s in an AWS facility. 4TB of RAM \\\/ virtual Machine. Can select the OS we’re presented with, database engines, etc\\n\\tOffers Elastic Block Storage (EBS) devices that look like Windows, linux etc drives. Redundant storage for rapid healing. Can look like Solid State or spinning disk drives, depending on needs and what is paid for. Complete with daily backups. Encryption offered. \\n\\tLow cost storage available. Single object storage up to 5TB . Addressed to look like a file system. Very secure.\\nSecurity Group. Can allow what traffic is allowed in. Ie 10.0.1.0\\\/24 is the same as a subnet of 255.255.255.0. Assumption  is everything is denied. \\tRules are set up by “allow”. Security is set up in tiers.\\n\\tPerformance is monitored. Upgrades and downgrades can be automated. Can be on a daily basis.\\n\\tSecurity prioritized. Regulatory compliant. Customer and AWS security set up cooperatively. AWS provides a bare virtual machine, customer chooses security. Uses Roles and permission schema. Root User idea is used. \\n\\tPricing: Talked about pricing levels, but no specific $ figures. Contracts not required, but there are pre-purchase discounts and customers can contract to lock in capacity. Is everything built on the idea of a virtual machine? Is simple data storage available?\"}]}",
+  "isPinned" : false,
+  "creationOSVersion" : "10.15",
+  "starred" : false,
+  "text" : "# AWS Webinar\n\tAdd and use on demand IT resources\\. World wide\\. Hardware is owned and maintained by Amazon\\.\n\tI can choose where the data resides\\. There’s data centers world wide\\. An availability zone \\(AZ\\) is a cluster of data centers\\.  Resources are replicated within the AZ\\. Almost 100% safety\\. Not all services are available in all regions\\. There are also Points of Presence cache locations so requests might not have to transit the entire earth\\.\n\tIt offers virtual machines that appear as if its owned by the client, but it’s in an AWS facility\\. 4TB of RAM \/ virtual Machine\\. Can select the OS we’re presented with, database engines, etc\n\tOffers Elastic Block Storage \\(EBS\\) devices that look like Windows, linux etc drives\\. Redundant storage for rapid healing\\. Can look like Solid State or spinning disk drives, depending on needs and what is paid for\\. Complete with daily backups\\. Encryption offered\\. \n\tLow cost storage available\\. Single object storage up to 5TB \\. Addressed to look like a file system\\. Very secure\\.\nSecurity Group\\. Can allow what traffic is allowed in\\. Ie 10\\.0\\.1\\.0\/24 is the same as a subnet of 255\\.255\\.255\\.0\\. Assumption  is everything is denied\\. \tRules are set up by “allow”\\. Security is set up in tiers\\.\n\tPerformance is monitored\\. Upgrades and downgrades can be automated\\. Can be on a daily basis\\.\n\tSecurity prioritized\\. Regulatory compliant\\. Customer and AWS security set up cooperatively\\. AWS provides a bare virtual machine, customer chooses security\\. Uses Roles and permission schema\\. Root User idea is used\\. \n\tPricing: Talked about pricing levels, but no specific $ figures\\. Contracts not required, but there are pre\\-purchase discounts and customers can contract to lock in capacity\\. Is everything built on the idea of a virtual machine? Is simple data storage available?",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83499145507812,
+        "latitude" : 33.581596374511719
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83499145507812,
+    "administrativeArea" : "AZ",
+    "placeName" : "10501–10533 N 114th St",
+    "latitude" : 33.581596374511719
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "creationDeviceType" : "iMac",
+  "modifiedDate" : "2019-10-16T19:13:17Z",
+  "uuid" : "AFC69EB340344FA3A9DA732DDFBC846B",
+  "creationDate" : "2019-10-16T15:53:45Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-17T00:53:12Z",
+    "temperatureCelsius" : 20,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 300,
+    "sunriseDate" : "2019-10-16T13:33:13Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1014,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 30,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 21
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "isAllDay" : false,
+  "creationOSName" : "macOS",
+  "creationDeviceType" : "iMac",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"National Video Conference\\n\"},{\"text\":\"Ted Cruz has a resolution for a term limits amendment in the Senate. This specifies 3 for the Reps, 2 for the Senate.\"}],\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1100}}}",
+  "uuid" : "D5922C27F7D64DF8A83605E45BD1EAB0",
+  "text" : "# National Video Conference\nTed Cruz has a resolution for a term limits amendment in the Senate\\. This specifies 3 for the Reps, 2 for the Senate\\.",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83464050292969,
+        "latitude" : 33.581092834472656
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83464050292969,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581092834472656
+  },
+  "creationOSVersion" : "10.15",
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-10-18T00:43:27Z",
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2019-10-18T00:52:00Z",
+    "temperatureCelsius" : 32,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 260,
+    "sunriseDate" : "2019-10-17T13:34:01Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1001,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 17,
+    "windSpeedKPH" : 19,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 32
+  },
+  "modifiedDate" : "2019-10-18T00:55:31Z",
+  "duration" : 0
+},
+{
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":1100,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1},\"contents\":[{\"text\":\"Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Run by Nick T.\\nBig push in Penn.\\nUS House Sponsor is retiring. Need to get a new one. Will try to get a Dem.\\nReach out to Campaigners in Penn.\\n11,000 viewed the Facebook live video. Since then we got 9,000.\\nMeeting with Kelly Townsend to be set up.\"}]}",
+  "isPinned" : false,
+  "creationOSVersion" : "10.15",
+  "starred" : false,
+  "text" : "# Conference Call\nRun by Nick T\\.\nBig push in Penn\\.\nUS House Sponsor is retiring\\. Need to get a new one\\. Will try to get a Dem\\.\nReach out to Campaigners in Penn\\.\n11,000 viewed the Facebook live video\\. Since then we got 9,000\\.\nMeeting with Kelly Townsend to be set up\\.",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83442687988281,
+        "latitude" : 33.5810546875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83442687988281,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.5810546875
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "creationDeviceType" : "iMac",
+  "modifiedDate" : "2019-10-21T17:26:40Z",
+  "uuid" : "9CA7EBBF6F614D52A48468754D8CF7CA",
+  "creationDate" : "2019-10-21T17:07:01Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-22T00:47:19Z",
+    "temperatureCelsius" : 21,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-10-21T13:37:14Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1016,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 16,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 22
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Scott Tillman\\n\"},{\"text\":\"Have James Ellis sign the pledge, we keep it. Then later send him a copy. It can be framed. Scott also suggests audio, video, photos. A press conference atmosphere will work.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1100,\"platform\":\"com.bloombuilt.dayone-mac-agent\"}}}",
+  "isPinned" : false,
+  "creationOSVersion" : "10.15",
+  "starred" : false,
+  "text" : "# Scott Tillman\nHave James Ellis sign the pledge, we keep it\\. Then later send him a copy\\. It can be framed\\. Scott also suggests audio, video, photos\\. A press conference atmosphere will work\\.",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83429299434739,
+        "latitude" : 33.581182611801353
+      },
+      "identifier" : "<+33.58118261,-111.83429299> radius 70.62",
+      "radius" : 70.618705140656076
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83441925048828,
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581180572509766
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "creationDeviceType" : "iMac",
+  "modifiedDate" : "2019-10-21T21:11:55Z",
+  "uuid" : "2FB0BA968E204448B35285C02EE26736",
+  "creationDate" : "2019-10-21T21:11:55Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-22T00:47:19Z",
+    "temperatureCelsius" : 21,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-10-21T13:37:14Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1016,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 16,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 22
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "isPinned" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":555}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"James Ellis\\n\"},{\"text\":\"We need to put him on a VIP mailing list. He knows R Gray. \"}]}",
+  "creationOSVersion" : "13.1.3",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 1318
+  },
+  "text" : "# James Ellis\nWe need to put him on a VIP mailing list\\. He knows R Gray\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -112.23031616210938,
+        "latitude" : 33.6434326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Glendale",
+    "country" : "United States",
+    "longitude" : -112.23031616210938,
+    "administrativeArea" : "AZ",
+    "placeName" : "17505 N 79th Ave",
+    "latitude" : 33.6434326171875
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2019-10-22T20:34:53Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "197EC1088DAB48FCACD3153115952A8C",
+  "creationDate" : "2019-10-22T20:33:38Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-23T00:47:49Z",
+    "temperatureCelsius" : 29,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : -1,
+    "sunriseDate" : "2019-10-22T13:39:30Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1016,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 12,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 29
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "isAllDay" : false,
+  "creationOSName" : "macOS",
+  "creationDeviceType" : "iMac",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":1102,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"National Video Conference\\n\"},{\"text\":\"Senate J R 1 and House J R 20 are term limits proposal in state leges.\\nThere have been 12,000 amendments proposed by congress.\"}]}",
+  "uuid" : "B320F45805754BBAADDB3D666C2ECD88",
+  "text" : "# National Video Conference\nSenate J R 1 and House J R 20 are term limits proposal in state leges\\.\nThere have been 12,000 amendments proposed by congress\\.",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83480834960938,
+        "latitude" : 33.581199645996094
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83480834960938,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.581199645996094
+  },
+  "creationOSVersion" : "10.15",
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-10-25T00:26:21Z",
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2019-10-25T00:43:58Z",
+    "temperatureCelsius" : 26,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 30,
+    "sunriseDate" : "2019-10-24T13:39:44Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1015,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 4,
+    "windSpeedKPH" : 30,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 27
+  },
+  "modifiedDate" : "2019-10-25T00:43:52Z",
+  "duration" : 0
+},
+{
+  "isAllDay" : false,
+  "creationOSName" : "macOS",
+  "creationDeviceType" : "iMac",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":1102,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1},\"contents\":[{\"text\":\"Constantine Querard\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Phone call re: Suzanne Sharer.\\nSend out a tweet. CQ emailed a Pledge, she signed and scanned it, sending it back to CQ.\"}]}",
+  "uuid" : "D0D2B4F69FB941598AE40BAC2F44B3FF",
+  "text" : "# Constantine Querard\nPhone call re: Suzanne Sharer\\.\nSend out a tweet\\. CQ emailed a Pledge, she signed and scanned it, sending it back to CQ\\.",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "creationOSVersion" : "10.15",
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-10-28T15:45:08Z",
+  "creationDevice" : "OliviHomeiMac",
+  "modifiedDate" : "2019-10-28T15:51:38Z",
+  "duration" : 0
+},
+{
+  "richText" : "{\"meta\":{\"created\":{\"version\":1102,\"platform\":\"com.bloombuilt.dayone-mac\"},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"text\":\"Suzanne Sharer\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Phone call, no answer. Sent text.\"}]}",
+  "isPinned" : false,
+  "creationOSVersion" : "10.15",
+  "starred" : false,
+  "text" : "# Suzanne Sharer\nPhone call, no answer\\. Sent text\\.",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83354187011719,
+        "latitude" : 33.581153869628906
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83354187011719,
+    "administrativeArea" : "AZ",
+    "placeName" : "10565 N 114th St",
+    "latitude" : 33.581153869628906
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "creationDeviceType" : "iMac",
+  "modifiedDate" : "2019-10-28T15:53:34Z",
+  "uuid" : "90FB1BF2B42D4B29B29BD0E7A1FAAD72",
+  "creationDate" : "2019-10-28T15:53:08Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-29T00:39:46Z",
+    "temperatureCelsius" : 13,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 330,
+    "sunriseDate" : "2019-10-28T13:43:08Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1013,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 28,
+    "windSpeedKPH" : 13,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 14
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "isPinned" : false,
+  "richText" : "{\"contents\":[{\"text\":\"National Conference  Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Report from a Nashville conference. Totally no-partisan, but Term Limits were big. \\n\\nStacey was also at an event. There were a lot of lobbyists there, they ignored her. \\n\\nIn Michigan, the pols and lobbyists blame everything bad on term Limits. \\n\\nState legislators are very well paid. \\n\\nWhen is our reg deadline?\"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":555},\"version\":1}}",
+  "creationOSVersion" : "13.1.3",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 1107
+  },
+  "text" : "# National Conference  Call\nReport from a Nashville conference\\. Totally no\\-partisan, but Term Limits were big\\. \n\nStacey was also at an event\\. There were a lot of lobbyists there, they ignored her\\. \n\nIn Michigan, the pols and lobbyists blame everything bad on term Limits\\. \n\nState legislators are very well paid\\. \n\nWhen is our reg deadline?",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.73508453369141,
+        "latitude" : 33.452114105224609
+      },
+      "radius" : 75
+    },
+    "localityName" : "Mesa",
+    "country" : "United States",
+    "longitude" : -111.73508453369141,
+    "administrativeArea" : "AZ",
+    "placeName" : "Commemorative Air Force Airbase Arizona",
+    "latitude" : 33.452114105224609
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2019-10-28T17:34:26Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "22976382EEC44C2FBD22F401C669F73E",
+  "creationDate" : "2019-10-28T17:04:05Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-29T00:39:10Z",
+    "temperatureCelsius" : 18,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 20,
+    "sunriseDate" : "2019-10-28T13:42:08Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1013,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 19,
+    "windSpeedKPH" : 11,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 18
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Suzanne Sharer\\n\"},{\"text\":\"She returned my call...\\nWe agreed to meet at Spinato’s Auwatukee 11\\\/7 lunch.\\nBring \"}],\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"version\":1102,\"platform\":\"com.bloombuilt.dayone-mac\"}}}",
+  "isPinned" : false,
+  "creationOSVersion" : "10.15",
+  "starred" : false,
+  "text" : "# Suzanne Sharer\nShe returned my call\\.\\.\\.\nWe agreed to meet at Spinato’s Auwatukee 11\/7 lunch\\.\nBring",
+  "duration" : 0,
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "creationDeviceType" : "iMac",
+  "modifiedDate" : "2019-10-28T20:33:04Z",
+  "uuid" : "C01CA961235244B8800CFCCCCDF1DA5E",
+  "creationDate" : "2019-10-28T20:21:20Z",
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "richText" : "{\"meta\":{\"created\":{\"version\":1102,\"platform\":\"com.bloombuilt.dayone-mac\"},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Conference Call\\n\"},{\"text\":\"Briefing for Townsend and Fann meetings\\nRon Hooper\\n\\nKelly Townsend. We need  to get address to meet. Dress code business casual.\\nOK with \"}]}",
+  "isPinned" : false,
+  "creationOSVersion" : "10.15",
+  "starred" : false,
+  "text" : "# Conference Call\nBriefing for Townsend and Fann meetings\nRon Hooper\n\nKelly Townsend\\. We need  to get address to meet\\. Dress code business casual\\.\nOK with",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83444976806641,
+        "latitude" : 33.581077575683594
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83444976806641,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581077575683594
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "creationDeviceType" : "iMac",
+  "modifiedDate" : "2019-10-29T16:12:14Z",
+  "uuid" : "4B8C810E2C51481B923D0C8A9ED97700",
+  "creationDate" : "2019-10-29T15:57:17Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-30T00:38:45Z",
+    "temperatureCelsius" : 10,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-10-29T13:44:00Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1011,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 35,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 10
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Kelly Townsend\\n\"},{\"text\":\"Met her with Ron Hooper.\\nShe advised us to go gently with Karen Fann and Rick Gray. Bob Berry and Suzette Meyers were bought to rude with them. Karen is for TL and Rick can probably be convinced if we take it gentle and use logic instead of threats. Rick might be religious. They are connected with the Eagle Forum and the John Birch Society (!?). Rick is also afraid of a run-away convention.\\n\\nAndy Biggs (former AZ legislator now US Congressman) tried to punish Townsend for supporting Term Limits. He is friends with the Farnsworth Bro’s\\n\\nKelly recommended that we get in touch with the phoenix Correspondence Commission.\\n\\nWarren Peterson is a Yes on TL.\\n\\nKelly is term limited in the AZ House and will run for AZ Senate next time.\\n\\nJohn Fillmore is a no on TL. We only want him to \"},{\"attributes\":{\"bold\":true},\"text\":\"not \"},{\"text\":\"kill it.\\n\\nCan I send an invitation to KT for the US Arizona dedication at the CAF.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1102,\"platform\":\"com.bloombuilt.dayone-mac\"}}}",
+  "isPinned" : false,
+  "creationOSVersion" : "10.15.1",
+  "starred" : false,
+  "text" : "# Kelly Townsend\nMet her with Ron Hooper\\.\nShe advised us to go gently with Karen Fann and Rick Gray\\. Bob Berry and Suzette Meyers were bought to rude with them\\. Karen is for TL and Rick can probably be convinced if we take it gentle and use logic instead of threats\\. Rick might be religious\\. They are connected with the Eagle Forum and the John Birch Society \\(\\!?\\)\\. Rick is also afraid of a run\\-away convention\\.\n\nAndy Biggs \\(former AZ legislator now US Congressman\\) tried to punish Townsend for supporting Term Limits\\. He is friends with the Farnsworth Bro’s\n\nKelly recommended that we get in touch with the phoenix Correspondence Commission\\.\n\nWarren Peterson is a Yes on TL\\.\n\nKelly is term limited in the AZ House and will run for AZ Senate next time\\.\n\nJohn Fillmore is a no on TL\\. We only want him to ​**not**​ kill it\\.\n\nCan I send an invitation to KT for the US Arizona dedication at the CAF\\.",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83431243896484,
+        "latitude" : 33.581012725830078
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83431243896484,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581012725830078
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "creationDeviceType" : "iMac",
+  "modifiedDate" : "2019-10-31T16:04:33Z",
+  "uuid" : "5933127DAA90460BA8C684237D87521A",
+  "creationDate" : "2019-10-30T15:34:58Z",
+  "weather" : {
+    "sunsetDate" : "2019-10-31T00:37:46Z",
+    "temperatureCelsius" : 12,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 30,
+    "sunriseDate" : "2019-10-30T13:44:52Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1021,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 5,
+    "windSpeedKPH" : 24,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 13
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1104},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Karen Fann\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Ron Hooper\\nDon Bonnell\\nKaren Fann\\nGarth Kamp\\nKaren and Garth began with probing questions, but later said they were playing devil’s advocate.\\nThey’re afraid of a runaway convention. Barbara Bleuster is a big opponent of term limits. Karen said that they do not give reasons, they’re just opposed.\\nRick Gray’s wife is Debbie Lesko’s (US House AZ D 8) assistant. R Gray replaced Lesko as AZ Rep LD 21 (AZ Capitol Times 1\\\/18\\\/18).He’s also tight with E Farnsworth.\\nRepublicans are worried about 2020. They think it will be a fight because D’s are really fighting.\"}]}",
+  "isPinned" : false,
+  "creationOSVersion" : "10.15.1",
+  "starred" : false,
+  "text" : "# Karen Fann\nRon Hooper\nDon Bonnell\nKaren Fann\nGarth Kamp\nKaren and Garth began with probing questions, but later said they were playing devil’s advocate\\.\nThey’re afraid of a runaway convention\\. Barbara Bleuster is a big opponent of term limits\\. Karen said that they do not give reasons, they’re just opposed\\.\nRick Gray’s wife is Debbie Lesko’s \\(US House AZ D 8\\) assistant\\. R Gray replaced Lesko as AZ Rep LD 21 \\(AZ Capitol Times 1\/18\/18\\)\\.He’s also tight with E Farnsworth\\.\nRepublicans are worried about 2020\\. They think it will be a fight because D’s are really fighting\\.",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83414459228516,
+        "latitude" : 33.581344604492188
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83414459228516,
+    "administrativeArea" : "AZ",
+    "placeName" : "10555 N 114th St",
+    "latitude" : 33.581344604492188
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "creationDeviceType" : "iMac",
+  "modifiedDate" : "2019-11-01T18:27:03Z",
+  "uuid" : "3357CFC8F76B4CEDA29A9D3824301135",
+  "creationDate" : "2019-10-31T16:58:15Z",
+  "weather" : {
+    "sunsetDate" : "2019-11-02T00:35:51Z",
+    "temperatureCelsius" : 15,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 290,
+    "sunriseDate" : "2019-11-01T13:46:38Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1020,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 14,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 16
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "modifiedDate" : "2019-11-01T16:58:15Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# National Video Conference\nThey tried to do the conference only on Facebook, and had bad luck\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83467864990234,
+        "latitude" : 33.581432342529297
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83467864990234,
+    "administrativeArea" : "AZ",
+    "placeName" : "10501–10533 N 114th St",
+    "latitude" : 33.581432342529297
+  },
+  "starred" : false,
+  "uuid" : "70506E9A53434F5FA0F6A57B203AB94C",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1104}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"National Video Conference\\n\"},{\"text\":\"They tried to do the conference only on Facebook, and had bad luck. \"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-01T00:17:48Z",
+  "weather" : {
+    "sunsetDate" : "2019-11-01T00:36:48Z",
+    "temperatureCelsius" : 23,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 160,
+    "sunriseDate" : "2019-10-31T13:45:45Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1017,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 5,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 23
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-04T18:17:51Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Weekly Conference Call\nPledge team is working\\. States have different rules depending on county, district or other stuff\\. Will be pursuing primary candidates also\\. Elections start in February and go through November\\.\nAaron Duckette went to Turning Point USA Great Lakes conference\\.  300\\+ people there\\.\nNick asked for podcast contributions\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83454132080078,
+        "latitude" : 33.581089019775391
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83454132080078,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581089019775391
+  },
+  "starred" : false,
+  "uuid" : "38B83293180A4B5EA15B304B67DFFB8D",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"small-lines-removed\":true},\"contents\":[{\"text\":\"Weekly Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Pledge team is working. States have different rules depending on county, district or other stuff. Will be pursuing primary candidates also. Elections start in February and go through November.\\nAaron Duckette went to Turning Point USA Great Lakes conference.  300+ people there.\\nNick asked for podcast contributions.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-04T18:17:52Z",
+  "weather" : {
+    "sunsetDate" : "2019-11-05T00:33:09Z",
+    "temperatureCelsius" : 12,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-11-04T13:49:18Z",
+    "conditionsDescription" : "Clear",
+    "pressureMB" : 1012,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 47,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear-night",
+    "windChillCelsius" : 12
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-06T23:51:49Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Don Bonnell\nPhone call\nHe likes the idea of dividing AZ legislator visits between the two of us\\. We will talk about this next week\\. I’m guessing I need for him to take the lead on this one\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83463287353516,
+        "latitude" : 33.581089019775391
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83463287353516,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581089019775391
+  },
+  "starred" : false,
+  "uuid" : "86DECEA98CA44A6FB145A3EC4B41F878",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac-agent\"},\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Don Bonnell\\n\"},{\"text\":\"Phone call\\nHe likes the idea of dividing AZ legislator visits between the two of us. We will talk about this next week. I’m guessing I need for him to take the lead on this one.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-06T21:34:30Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-07T16:33:03Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Karen Webster\nShe filled in volunteer form\\.\nI called and left a message\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83463287353516,
+        "latitude" : 33.581089019775391
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83463287353516,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581089019775391
+  },
+  "starred" : false,
+  "uuid" : "9026E8AB701640FE9A11E7E0FE023F7B",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"text\":\"Karen Webster\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"She filled in volunteer form.\\nI called and left a message.\"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"version\":1,\"small-lines-removed\":true}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-06T23:51:49Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-07T16:33:03Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# West Territory Conference\nRon Hooper\nIan Phillips\nGood meeting yesterday with Utah legislators\\.\nRon wants to get the State Directors more active\\.\nWe already have an email for petition signers\\. This encourages people to ask for other signers\\.\nAZ: Phoenix metro, Tucson, North\\.\nBring constituents to meetings\\. 20\\-1 boost\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83463287353516,
+        "latitude" : 33.581089019775391
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83463287353516,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581089019775391
+  },
+  "starred" : false,
+  "uuid" : "D4A201FE20E048FFBDA232A106616DB7",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac-agent\"},\"small-lines-removed\":true},\"contents\":[{\"text\":\"West Territory Conference\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Ron Hooper\\nIan Phillips\\nGood meeting yesterday with Utah legislators.\\nRon wants to get the State Directors more active.\\nWe already have an email for petition signers. This encourages people to ask for other signers.\\nAZ: Phoenix metro, Tucson, North.\\nBring constituents to meetings. 20-1 boost.\\n\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-07T16:33:03Z",
+  "weather" : {
+    "sunsetDate" : "2019-11-07T00:31:28Z",
+    "temperatureCelsius" : 27,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : -1,
+    "sunriseDate" : "2019-11-06T13:51:07Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1010,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 24,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 28
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "1EED1D1B9FF7432BB18E72508A06CE43",
+  "creationDeviceType" : "iMac",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.1",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-11-15T18:19:32Z",
+  "text" : "# Karen Webster\nShe returned my call\\. I called and we talked\\. I explained about US Term limits\\. She said she wants to get active but doesn’t know what to do\\. I asked her to contact her local legislators to get them to sign the pledge\\. I will support her in this\\. Later, maybe she can help me contact volunteers in the Tucson area\\.",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Karen Webster\\n\"},{\"text\":\"She returned my call. I called and we talked. I explained about US Term limits. She said she wants to get active but doesn’t know what to do. I asked her to contact her local legislators to get them to sign the pledge. I will support her in this. Later, maybe she can help me contact volunteers in the Tucson area.\"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"version\":1}}",
+  "creationDate" : "2019-11-08T00:15:20Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS"
+},
+{
+  "modifiedDate" : "2019-11-15T18:19:32Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Michelle Ugenti\\-Rita\nI spoke to Chris to set up a meeting\\. He said he will get back to me\\.",
+  "uuid" : "6A0F8FFE11CA46F18796785D5148DB6D",
+  "starred" : false,
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Michelle Ugenti-Rita\\n\"},{\"text\":\"I spoke to Chris to set up a meeting. He said he will get back to me.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac-agent\"}}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-12T16:19:06Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "CE5E434A9AE44F4CA01F11BF1571E343",
+  "creationDeviceType" : "iMac",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.1",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-11-15T18:19:32Z",
+  "text" : "# Walter Blackman\nCalled and spoke to an assistant\\. I got a meeting on 12\/16\/19 at 3:30\\.",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"version\":1},\"contents\":[{\"text\":\"Walter Blackman\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Called and spoke to an assistant. I got a meeting on 12\\\/16\\\/19 at 3:30.\"}]}",
+  "creationDate" : "2019-11-12T16:25:13Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS"
+},
+{
+  "modifiedDate" : "2019-11-15T18:19:32Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Bob Thorpe\nI called and left a message\\.",
+  "uuid" : "8935975E6D7C4DF3886F33A4E99DD668",
+  "starred" : false,
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"text\":\"Bob Thorpe\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I called and left a message.\"}],\"meta\":{\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac-agent\"},\"small-lines-removed\":true,\"version\":1}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-12T16:37:15Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-15T18:19:32Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# AZ Democratic Party\nDo you do vendor tables or booths at the state convention\\. No vendors\\.",
+  "uuid" : "357390E18C074CCBBDE85F8319719089",
+  "starred" : false,
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"text\":\"AZ Democratic Party\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Do you do vendor tables or booths at the state convention. No vendors.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-15T17:31:59Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-15T18:19:32Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# AZ Republican Party\nLeft Message asking for info about AZ Convention\\.\n\n There will not be a state convention this year\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83469390869141,
+        "latitude" : 33.581260681152344
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83469390869141,
+    "administrativeArea" : "AZ",
+    "placeName" : "10501–10533 N 114th St",
+    "latitude" : 33.581260681152344
+  },
+  "starred" : false,
+  "uuid" : "2429C58BE55642ECAE0ABC319EDC4EBE",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"AZ Republican Party\\n\"},{\"text\":\"Left Message asking for info about AZ Convention.\\n\\n There will not be a state convention this year.\"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-15T17:35:18Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "54266616A0194704AC595A230CF39A98",
+  "creationDeviceType" : "iMac",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.1",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-11-15T18:19:32Z",
+  "text" : "# Scottsdale Signing Petitions\nI talked to Christopher at the City Clerk’s office\\. I have to ask the building owner\\. So to set up in front of the library, I have to talk to the library supervisor\\. For City Hall, it’s OK as long as I don’t impede foot traffic I need to contact a City Hall person\\.",
+  "richText" : "{\"contents\":[{\"text\":\"Scottsdale Signing Petitions\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I talked to Christopher at the City Clerk’s office. I have to ask the building owner. So to set up in front of the library, I have to talk to the library supervisor. For City Hall, it’s OK as long as I don’t impede foot traffic I need to contact a City Hall person.\"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"small-lines-removed\":true,\"version\":1}}",
+  "creationDate" : "2019-11-15T18:19:32Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "isPinned" : false,
+  "modifiedDate" : "2019-11-15T18:25:09Z",
+  "creationOSName" : "macOS",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "7C747CC58659416FB06ECA47EABEA46E",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  },
+  "text" : "# Kelly Townsend\nI talked to her assistant about petition signing at the State Government campus\\. She will get back to me with details\\.",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Kelly Townsend\\n\"},{\"text\":\"I talked to her assistant about petition signing at the State Government campus. She will get back to me with details.\"}],\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104}}}",
+  "starred" : false,
+  "creationDate" : "2019-11-15T18:25:09Z",
+  "weather" : {
+    "temperatureCelsius" : 0,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "pressureMB" : 0,
+    "moonPhase" : 0,
+    "visibilityKM" : 0,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 0,
+    "windChillCelsius" : 0
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSVersion" : "10.15.1"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "isPinned" : false,
+  "modifiedDate" : "2019-11-19T22:36:47Z",
+  "creationOSName" : "macOS",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "422D0DE61F7748CFA1FDD20670C83AF8",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83457183837891,
+        "latitude" : 33.581169128417969
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83457183837891,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581169128417969
+  },
+  "text" : "# National Conference Call\nBernie Iliff, new director in Virginia\\.\nKen Quinn testified in Wisconsin on behalf of The Convention of States\\. One member of the committee questioning was brutal\\. She was bringing up irrelevant stuff\\. Ken saw that our single issue approach is the best\\. The John Birch society used to support an Article V convention\\. Convention Of States people supported Ken Q\\.\n\nLouisiana Elections: They might have to have a run\\-off election in December\\. Scott T did voter education publicizing the pols that signed the pledge\\. There will be notifications and results of primaries sent by one of our guys\\. Winning pledge signers \\- 6 Senate 28 House\\. That give us over 23% pledge signers\\.\n\nVirginia has a lot of pledges\\. AZ also\\. Mississippi\\. \n\nWe started with Article V pledges 3 years ago\\.\n\nWe have a 29,000 reach on FaceBook and maybe more\\. Stacey and Donna will pin the link on the FaceBook page\\.",
+  "richText" : "{\"contents\":[{\"text\":\"National Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Bernie Iliff, new director in Virginia.\\nKen Quinn testified in Wisconsin on behalf of The Convention of States. One member of the committee questioning was brutal. She was bringing up irrelevant stuff. Ken saw that our single issue approach is the best. The John Birch society used to support an Article V convention. Convention Of States people supported Ken Q.\\n\\nLouisiana Elections: They might have to have a run-off election in December. Scott T did voter education publicizing the pols that signed the pledge. There will be notifications and results of primaries sent by one of our guys. Winning pledge signers - 6 Senate 28 House. That give us over 23% pledge signers.\\n\\nVirginia has a lot of pledges. AZ also. Mississippi. \\n\\nWe started with Article V pledges 3 years ago.\\n\\nWe have a 29,000 reach on FaceBook and maybe more. Stacey and Donna will pin the link on the FaceBook page.\"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1104},\"version\":1}}",
+  "starred" : false,
+  "creationDate" : "2019-11-18T18:14:51Z",
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSVersion" : "10.15.1"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "isPinned" : false,
+  "modifiedDate" : "2019-11-19T22:36:47Z",
+  "creationOSName" : "macOS",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "6563CC10385B48AC8E0FB9AE82F355EE",
+  "text" : "# Suzanne Sharer\nSent text saying that she wasn’t feeling good and wanted to postpone our meeting until tomorrow\\.",
+  "richText" : "{\"meta\":{\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac-agent\"},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Suzanne Sharer\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Sent text saying that she wasn’t feeling good and wanted to postpone our meeting until tomorrow.\"}]}",
+  "starred" : false,
+  "creationDate" : "2019-11-19T22:36:47Z",
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSVersion" : "10.15.1"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "isPinned" : false,
+  "modifiedDate" : "2019-11-21T16:17:18Z",
+  "creationOSName" : "macOS",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "390B1FD51B8F4A5AA1DF403471304809",
+  "text" : "# AZ Conference Call\nThe referendum needs to go through the House again, It’s probably a done deal\\.\n",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"text\":\"AZ Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"The referendum needs to go through the House again, It’s probably a done deal.\\n\\n\"}]}",
+  "starred" : false,
+  "creationDate" : "2019-11-21T14:21:36Z",
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSVersion" : "10.15.1"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "isPinned" : false,
+  "modifiedDate" : "2019-11-21T16:17:18Z",
+  "creationOSName" : "macOS",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "76F8A93F11594D4F85E17B8C0827F28E",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  },
+  "text" : "# Justin Amash\nNot for term limits\\.\nMichigan does not have a TL Director\\.",
+  "richText" : "{\"meta\":{\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac-agent\"},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Justin Amash\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Not for term limits.\\nMichigan does not have a TL Director.\"}]}",
+  "starred" : false,
+  "creationDate" : "2019-11-21T14:21:59Z",
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSVersion" : "10.15.1"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "isPinned" : false,
+  "modifiedDate" : "2019-11-21T16:17:17Z",
+  "creationOSName" : "macOS",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "98B3256296D242C794B0F51C7D77C4B1",
+  "text" : "# Michelle Ugenti\\-Rita\nSend Email from AZleg\\.gov asking to meet her\\.",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Michelle Ugenti-Rita\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Send Email from AZleg.gov asking to meet her.\"}]}",
+  "starred" : false,
+  "creationDate" : "2019-11-21T16:17:17Z",
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSVersion" : "10.15.1"
+},
+{
+  "duration" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "isPinned" : false,
+  "modifiedDate" : "2019-11-21T16:20:42Z",
+  "creationOSName" : "macOS",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "54F35455C2D3447DAF1EB14D2C014834",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  },
+  "text" : "# Bob Thorpe\nSent email from AZleg\\.gov asking for a meeting\\.",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Bob Thorpe\\n\"},{\"text\":\"Sent email from AZleg.gov asking for a meeting.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac-agent\"}}}",
+  "starred" : false,
+  "creationDate" : "2019-11-21T16:20:42Z",
+  "weather" : {
+    "temperatureCelsius" : 0,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "pressureMB" : 0,
+    "moonPhase" : 0,
+    "visibilityKM" : 0,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 0,
+    "windChillCelsius" : 0
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSVersion" : "10.15.1"
+},
+{
+  "modifiedDate" : "2019-11-22T20:11:56Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Suzanne Sharer\nI had an appointment with her today at noon to give her a pledge and frame\\. She stood me up saying that she was stuck in the hair dresser\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83429077081398,
+        "latitude" : 33.581044948923967
+      },
+      "identifier" : "<+33.58104495,-111.83429077> radius 70.62",
+      "radius" : 70.618704090859111
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83439636230469,
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581043243408203
+  },
+  "starred" : false,
+  "uuid" : "504F0B8C7B704EC5918BD0B90C10CA6F",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"text\":\"Suzanne Sharer\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I had an appointment with her today at noon to give her a pledge and frame. She stood me up saying that she was stuck in the hair dresser.\"}],\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac-agent\"}}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-22T20:11:56Z",
+  "weather" : {
+    "sunsetDate" : "2019-11-23T00:21:40Z",
+    "temperatureCelsius" : 16,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-11-22T14:05:54Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1020,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 50,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 17
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-26T15:16:51Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Conference Call\nNick on sessions are starting\\. We need to reach out to friendlies for contact information\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83426666259766,
+        "latitude" : 33.581092834472656
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83426666259766,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581092834472656
+  },
+  "starred" : false,
+  "uuid" : "C7A7CE7DC9B54D4B8369E329A1778768",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"text\":\"Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Nick on sessions are starting. We need to reach out to friendlies for contact information.\"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"small-lines-removed\":true,\"version\":1}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-25T20:24:22Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-25T20:37:34Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Silvia Allen\nI talked with Lynn asking for a meeting\\. She said she would talk with Sen Allen and get back to me\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83430480957031,
+        "latitude" : 33.581150054931641
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83430480957031,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581150054931641
+  },
+  "starred" : false,
+  "uuid" : "C4714C23BF0846D5949A32201A87B0EC",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"text\":\"Silvia Allen\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I talked with Lynn asking for a meeting. She said she would talk with Sen Allen and get back to me.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac\"}}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-25T20:35:41Z",
+  "weather" : {
+    "sunsetDate" : "2019-11-26T00:20:39Z",
+    "temperatureCelsius" : 16,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 140,
+    "sunriseDate" : "2019-11-25T14:08:39Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1011,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 48,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 17
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-25T20:55:55Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Tim Dunn\nLeft Message\\.\nAndrea called back\\. She will give Mr Dunn my information and will get back to me to set an appointment\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83469390869141,
+        "latitude" : 33.581142425537109
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83469390869141,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.581142425537109
+  },
+  "starred" : false,
+  "uuid" : "DF95E22A605F4EBB8663C93B3838CFC5",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1104},\"version\":1},\"contents\":[{\"text\":\"Tim Dunn\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Left Message.\\nAndrea called back. She will give Mr Dunn my information and will get back to me to set an appointment.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-25T20:39:08Z",
+  "weather" : {
+    "sunsetDate" : "2019-11-26T00:20:39Z",
+    "temperatureCelsius" : 16,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 140,
+    "sunriseDate" : "2019-11-25T14:08:39Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1011,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 48,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 17
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-11-25T20:46:13Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Joanne Osborn\nI called and talked to Emma\\. I got an appointment for 1\/20\/20 at 10:30 AM\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83436584472656,
+        "latitude" : 33.581085205078125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83436584472656,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581085205078125
+  },
+  "starred" : false,
+  "uuid" : "4BF00C4EE5CB4A7DACE2DD398EB45781",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Joanne Osborn\\n\"},{\"text\":\"I called and talked to Emma. I got an appointment for 1\\\/20\\\/20 at 10:30 AM.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-25T20:45:30Z",
+  "weather" : {
+    "sunsetDate" : "2019-11-26T00:20:39Z",
+    "temperatureCelsius" : 16,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 140,
+    "sunriseDate" : "2019-11-25T14:08:39Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1011,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 48,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 17
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "84E93FDBD5234DDA99DBAE638B047920",
+  "creationDeviceType" : "iMac",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.1",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-11-25T20:51:39Z",
+  "text" : "# Sine Kerr\nPronounced “Seenah Kerr” I talked to Jennie\\. Jennie will contact the Senator and get back to me\\.",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1104}},\"contents\":[{\"text\":\"Sine Kerr\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Pronounced “Seenah Kerr” I talked to Jennie. Jennie will contact the Senator and get back to me.\"}]}",
+  "creationDate" : "2019-11-25T20:48:34Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS"
+},
+{
+  "modifiedDate" : "2019-11-26T15:16:51Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Sine Kerr\nHer assistant sent email proposing dates for a meeting\\. I choose 12\/9\/19 at 1:30\\.",
+  "uuid" : "7255C2002FFC4AB09DB0B2F6CDC6098E",
+  "starred" : false,
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Sine Kerr\\n\"},{\"text\":\"Her assistant sent email proposing dates for a meeting. I choose 12\\\/9\\\/19 at 1:30.\"}],\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"small-lines-removed\":true}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-26T15:16:51Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "EA22880E677D4E2782AB5FAC140F127D",
+  "creationDeviceType" : "iMac",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.1",
+  "editingTime" : 0,
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-11-27T17:45:08Z",
+  "text" : "# CiviCRM\nStacey offered to do an Online tutorial for me, Ron and Don\\. I sent out an email asking for possible times\\.",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"small-lines-removed\":true},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"CiviCRM\\n\"},{\"text\":\"Stacey offered to do an Online tutorial for me, Ron and Don. I sent out an email asking for possible times.\"}]}",
+  "creationDate" : "2019-11-26T15:32:57Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS"
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "A4A320A39608491FAD9DA230E2F35EBE",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.15.1",
+  "editingTime" : 0,
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-11-27T17:45:08Z",
+  "text" : "# Kelly Townsend\nI called and left message: I didn’t get the “official” text for the TL resolution from Scott Tillman yet\\.",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104},\"version\":1},\"contents\":[{\"text\":\"Kelly Townsend\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I called and left message: I didn’t get the “official” text for the TL resolution from Scott Tillman yet. \"}]}",
+  "creationDate" : "2019-11-26T21:00:49Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  }
+},
+{
+  "modifiedDate" : "2019-11-27T17:45:08Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "editingTime" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Attorneys for Freedom\nI called to ask for their support\\. I left a message on Mark Victor’s voice mail\\.",
+  "starred" : false,
+  "uuid" : "0964D0EDB68545DCA0088237003C88B5",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Attorneys for Freedom\\n\"},{\"text\":\"I called to ask for their support. I left a message on Mark Victor’s voice mail.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1104}}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-11-27T17:45:08Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-12-02T18:21:54Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "editingTime" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Joyce Tripp\nFilled out volunteer page\\. I’ll send an email welcoming her and asking if I can call\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  },
+  "starred" : false,
+  "uuid" : "D5CEB3600D3E46C98CF3B8913AF940D2",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"meta\":{\"created\":{\"version\":1104,\"platform\":\"com.bloombuilt.dayone-mac-agent\"},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Joyce Tripp\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Filled out volunteer page. I’ll send an email welcoming her and asking if I can call.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-12-02T16:26:40Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-12-02T18:27:38Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "editingTime" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Conference Call\nScott Tillman\\. Try to get a good list of Pledges\\. Michigan had “VAT” tax that hurt manufacturing\\. It’s not been repealed because of “Institutional Inertia”\\. Another example, is the drug war\\. Term Limits will get new people in, so that the inertia will be broken\\. The Michigan Term Limits initiative was 1992 and was Voter initiated\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  },
+  "starred" : false,
+  "uuid" : "4A1EEE24407B43AF89F7882A483FF4F2",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Conference Call\\n\"},{\"text\":\"Scott Tillman. Try to get a good list of Pledges. Michigan had “VAT” tax that hurt manufacturing. It’s not been repealed because of “Institutional Inertia”. Another example, is the drug war. Term Limits will get new people in, so that the inertia will be broken. The Michigan Term Limits initiative was 1992 and was Voter initiated. \"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"version\":1120,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-12-02T18:21:54Z",
+  "weather" : {
+    "temperatureCelsius" : 0,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "pressureMB" : 0,
+    "moonPhase" : 0,
+    "visibilityKM" : 0,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 0,
+    "windChillCelsius" : 0
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.93245697021484,
+        "latitude" : 33.625091552734375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Phoenix",
+    "country" : "United States",
+    "longitude" : -111.93245697021484,
+    "administrativeArea" : "AZ",
+    "placeName" : "6902 E Greenway Pkwy",
+    "latitude" : 33.625091552734375
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "24E6802EBE4645A0A8C14DEE5A69A2CC",
+  "creationDeviceType" : "iPhone",
+  "isAllDay" : false,
+  "creationOSVersion" : "13.2.3",
+  "editingTime" : 47.448763966560364,
+  "creationDeviceModel" : "iPhone11,8",
+  "starred" : false,
+  "modifiedDate" : "2019-12-06T20:09:54Z",
+  "text" : "# Doug Ducey\nSaid that being term limited is liberating for him\\.",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 2602
+  },
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":569},\"version\":1},\"contents\":[{\"text\":\"Doug Ducey\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Said that being term limited is liberating for him. \"}]}",
+  "creationDate" : "2019-12-06T20:05:46Z",
+  "creationDevice" : "Jim’s iPhone",
+  "timeZone" : "America\/Phoenix",
+  "creationOSName" : "iOS",
+  "weather" : {
+    "sunsetDate" : "2019-12-07T00:19:17Z",
+    "temperatureCelsius" : 20,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-12-06T14:18:06Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1020,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 41,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 21
+  }
+},
+{
+  "modifiedDate" : "2019-12-09T16:54:32Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "editingTime" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Conference Call\nRon Hooper\nDon Barnell\nWe talked about ALEC and about which legislators to call\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83472442626953,
+        "latitude" : 33.580924987792969
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83472442626953,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.580924987792969
+  },
+  "starred" : false,
+  "uuid" : "A25EA14412724375BCE118FF94E7F9B2",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Conference Call\\n\"},{\"text\":\"Ron Hooper\\nDon Barnell\\nWe talked about ALEC and about which legislators to call.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1124}}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-12-09T16:53:46Z",
+  "weather" : {
+    "sunsetDate" : "2019-12-10T00:19:34Z",
+    "temperatureCelsius" : 12,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 340,
+    "sunriseDate" : "2019-12-09T14:20:26Z",
+    "conditionsDescription" : "Partly Cloudy",
+    "pressureMB" : 1013,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 90,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 13
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-12-09T18:30:23Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "editingTime" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Conference Call\nNational members\n\nRon and Nick will talk about ALEC\\. Many interesting speakers including Ducey and Scott Walker\\. There’s a lot of interest, but we ran into the usual talking points against\\. Walker is all for Article V and states rights\\. Nick proposed that Karen Fann push for a vote\\. If it passes, she can brag about it, if it fails because of Democrats, she can use it against them\\.\n\nWant to start organizing for Term Limits Day\\. This year, try and make it more public and visible\\. Get legislators involved, ask them to post on social media\\. Sign waving got us media coverage\\. Niki Haley is for term limits\\. She already has activists and organization\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83447265625,
+        "latitude" : 33.581069946289062
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83447265625,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581069946289062
+  },
+  "starred" : false,
+  "uuid" : "0D1C145FF75B4CA8B29A6213275724E4",
+  "creationOSVersion" : "10.15.1",
+  "richText" : "{\"contents\":[{\"text\":\"Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"National members\\n\\nRon and Nick will talk about ALEC. Many interesting speakers including Ducey and Scott Walker. There’s a lot of interest, but we ran into the usual talking points against. Walker is all for Article V and states rights. Nick proposed that Karen Fann push for a vote. If it passes, she can brag about it, if it fails because of Democrats, she can use it against them.\\n\\nWant to start organizing for Term Limits Day. This year, try and make it more public and visible. Get legislators involved, ask them to post on social media. Sign waving got us media coverage. Niki Haley is for term limits. She already has activists and organization.\\n\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1124}}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-12-09T18:05:38Z",
+  "weather" : {
+    "sunsetDate" : "2019-12-10T00:19:34Z",
+    "temperatureCelsius" : 15,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 210,
+    "sunriseDate" : "2019-12-09T14:20:26Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1012,
+    "visibilityKM" : 14.484095573425293,
+    "relativeHumidity" : 81,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 15
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-12-17T15:54:35Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "editingTime" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# NCSL\nSimilar to ALEC, but a little more “Lefty”\\. Ron Hooper didn’t want to stay\\. I think we should have stayed to cultivate “Lefties”\\. We are supposed to be non\\-Partisan, so we need to cultivate D’s as well as R’s and L’s\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83438873291016,
+        "latitude" : 33.581012725830078
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83438873291016,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581012725830078
+  },
+  "starred" : false,
+  "uuid" : "A9C2177D3963425B966F95F794D1949A",
+  "creationOSVersion" : "10.15.2",
+  "richText" : "{\"contents\":[{\"text\":\"NCSL\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Similar to ALEC, but a little more “Lefty”. Ron Hooper didn’t want to stay. I think we should have stayed to cultivate “Lefties”. We are supposed to be non-Partisan, so we need to cultivate D’s as well as R’s and L’s.\"}],\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1124}}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-12-12T12:22:49Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-12-18T18:45:07Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "editingTime" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# AZ UT Conference Call\nDon Bonnell\nRon Hooper\nNick Tomboulides\nConstantine Querce\nRecap last weeks pledge meetings\\. \n“Jay’s a good guy, a client\\.” CQ\nKelly Townsend gave Nick T a list of districts where we should push\\. Nick T says Fann needs gentle nudges that Term Limits will be a help to Republicans\\.\nCQ says get her colleagues to talk to her about this\\. Lobbyists need to tread lightly\\. The TL will pass if the D’s vote yes\\. There will be a vote in the house, but the leader might want it in the Senate first\\.\nCQ: Go to D’s and get them to commit or not\\. If they don’t, hold their feet to the fire\\. Suzanne Sharer is being abandoned and is thinking about dropping out\\.\nRick Gray primary? No one knows yet?\nNick: Our bill is non\\-partisan, so a vote no is a vote against the People, not a vote against the other party\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83438873291016,
+        "latitude" : 33.581012725830078
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83438873291016,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581012725830078
+  },
+  "starred" : false,
+  "uuid" : "5E72A20363BF4E148BA03BA657C2828A",
+  "creationOSVersion" : "10.15.2",
+  "richText" : "{\"meta\":{\"created\":{\"version\":1124,\"platform\":\"com.bloombuilt.dayone-mac-agent\"},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"text\":\"AZ UT Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Don Bonnell\\nRon Hooper\\nNick Tomboulides\\nConstantine Querce\\nRecap last weeks pledge meetings. \\n“Jay’s a good guy, a client.” CQ\\nKelly Townsend gave Nick T a list of districts where we should push. Nick T says Fann needs gentle nudges that Term Limits will be a help to Republicans.\\nCQ says get her colleagues to talk to her about this. Lobbyists need to tread lightly. The TL will pass if the D’s vote yes. There will be a vote in the house, but the leader might want it in the Senate first.\\nCQ: Go to D’s and get them to commit or not. If they don’t, hold their feet to the fire. Suzanne Sharer is being abandoned and is thinking about dropping out.\\nRick Gray primary? No one knows yet?\\nNick: Our bill is non-partisan, so a vote no is a vote against the People, not a vote against the other party.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-12-18T18:45:07Z",
+  "weather" : {
+    "sunsetDate" : "2019-12-13T00:20:08Z",
+    "temperatureCelsius" : 7,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-12-12T14:22:37Z",
+    "conditionsDescription" : "Clear",
+    "pressureMB" : 1020,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 86,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear-night",
+    "windChillCelsius" : 8
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "2694EEF850774E87972AA5A6BF5BABD8",
+  "creationDeviceType" : "iMac",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.2",
+  "editingTime" : 0,
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2020-01-02T19:22:59Z",
+  "text" : "# Conference Call\nDon Bonnell\nRon Hooper\nNick Tombolaides\nMost Republican house seats are not at risk in AZ\\. We could get 2 Dem votes for\\. Therefore Fann has nothing to loose if it comes to a vote\\. Either it wins, or she can blame Dems for the loss\\.\nMaybe don’t spend a lot on voter ed unless we know that we can get votes\\.\nFor dems, don’t let the republicans own this\\. We might have some on the Left that can come in to vote\\.\nWe never will attack any \\(Republicans\\) one\\. If we get a vote, we will beat the drum for them, if not, we will be quiet\\.\nCQ Joined\nMaybe we can get Bowie, Peshlakai and D’Alessandro\\.\nThis is a bi\\-partisan bill\\.\nCQ: we will not be upset if no\\-supporters vote NO\\. We will attack those “Yes’s” who vote NO\\.\nCQ: Robert Meza LD30, Alma Hernandez LD3 and Dan Hernandez LD2 are Dem’s Thanks for the love  they’re getting on social media\\. CQ will talk to Meza to push it in the Dem caucus\\. \nIf Fann says no, then quietly go home and campaign against the R’s\\.\nPreventing a vote violates the pledge\\. If Karen Fann kills it and survives, then we might have to wait until Fann terms out\\. Borelli S5 \\-> check on him\\.\nIs Fann protecting anyone?\nSean Bowie \\(D\\) S18 might be one who will vote Yes\\.\nThere are Queries in Salsa specific to Districts\\.\nIn AZ, if a D breaks the pledge we attack\\. But if a R breaks the pledge, then we stay quiet because if the D’s get control of the Senate, we will never get a vote\\.",
+  "richText" : "{\"contents\":[{\"text\":\"Conference Call\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Don Bonnell\\nRon Hooper\\nNick Tombolaides\\nMost Republican house seats are not at risk in AZ. We could get 2 Dem votes for. Therefore Fann has nothing to loose if it comes to a vote. Either it wins, or she can blame Dems for the loss.\\nMaybe don’t spend a lot on voter ed unless we know that we can get votes.\\nFor dems, don’t let the republicans own this. We might have some on the Left that can come in to vote.\\nWe never will attack any (Republicans) one. If we get a vote, we will beat the drum for them, if not, we will be quiet.\\nCQ Joined\\nMaybe we can get Bowie, Peshlakai and D’Alessandro.\\nThis is a bi-partisan bill.\\nCQ: we will not be upset if no-supporters vote NO. We will attack those “Yes’s” who vote NO.\\nCQ: Robert Meza LD30, Alma Hernandez LD3 and Dan Hernandez LD2 are Dem’s Thanks for the love  they’re getting on social media. CQ will talk to Meza to push it in the Dem caucus. \\nIf Fann says no, then quietly go home and campaign against the R’s.\\nPreventing a vote violates the pledge. If Karen Fann kills it and survives, then we might have to wait until Fann terms out. Borelli S5 -> check on him.\\nIs Fann protecting anyone?\\nSean Bowie (D) S18 might be one who will vote Yes.\\nThere are Queries in Salsa specific to Districts.\\nIn AZ, if a D breaks the pledge we attack. But if a R breaks the pledge, then we stay quiet because if the D’s get control of the Senate, we will never get a vote.\"}],\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1124},\"small-lines-removed\":true}}",
+  "creationDate" : "2020-01-02T19:22:59Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS"
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83467102050781,
+        "latitude" : 33.581180572509766
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83467102050781,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.581180572509766
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "480F2B44F2EF4BCA86517856D949DE06",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.15.2",
+  "editingTime" : 0,
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2020-01-07T00:03:23Z",
+  "text" : "# Karen Fann\nMeeting with\nJim Olivi\nRon Hooper\nDon Bonnell\nGarth\nDuring most of the meeting, Sen Fann insisted that we \\(US Term Limit\\) need to provide polling data that shows that Term Limits will be a winning thing for AZ Republicans\\. She does not want to put her caucus in jeopardy of loosing their majority\\.\n\nRon H promised her that we wold get polling numbers showing that TL is a winning idea\\. But, Ron would not agree do let Pledge Signers off the hook\\. If a Pledge signer votes no or otherwise works against Term Limits, we will not take that lightly\\.\n\nWe need to prove to Sen Fann that Term Limits is a safe bet\\. Also, Sen Fann does not want to hand this over to a Dem victory\\. Here’s a chance for us to drive a wedge between her and any Repub opposition\\.\n\nWe need to meet with Sonny Borelli\\. Sen Fann hinted that if we get her caucus behind term limits, she might let it come to a vote\\.\n\nSen Fann says she’s a supporter of Term Limits but she will not jeopardies the Repub caucus\\.\n\n\n",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1124}},\"contents\":[{\"text\":\"Karen Fann\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Meeting with\\nJim Olivi\\nRon Hooper\\nDon Bonnell\\nGarth\\nDuring most of the meeting, Sen Fann insisted that we (US Term Limit) need to provide polling data that shows that Term Limits will be a winning thing for AZ Republicans. She does not want to put her caucus in jeopardy of loosing their majority.\\n\\nRon H promised her that we wold get polling numbers showing that TL is a winning idea. But, Ron would not agree do let Pledge Signers off the hook. If a Pledge signer votes no or otherwise works against Term Limits, we will not take that lightly.\\n\\nWe need to prove to Sen Fann that Term Limits is a safe bet. Also, Sen Fann does not want to hand this over to a Dem victory. Here’s a chance for us to drive a wedge between her and any Repub opposition.\\n\\nWe need to meet with Sonny Borelli. Sen Fann hinted that if we get her caucus behind term limits, she might let it come to a vote.\\n\\nSen Fann says she’s a supporter of Term Limits but she will not jeopardies the Repub caucus.\\n\\n\\n\\n\"}]}",
+  "creationDate" : "2020-01-06T23:40:03Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2020-01-07T00:34:08Z",
+    "temperatureCelsius" : 20,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 210,
+    "sunriseDate" : "2020-01-06T14:32:42Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1024,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 17,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 21
+  }
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83433532714844,
+        "latitude" : 33.581153869628906
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83433532714844,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581153869628906
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "11308046D1CC45358DBD75EC58DB5988",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.15.2",
+  "editingTime" : 0,
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2020-01-13T16:44:24Z",
+  "text" : "# AZ PBS\nI called the number on the web site and asked the lady if they would be interested in doing a report on Term Limits\\. She transferred me to the “New Desk”\\. No one answered and I was not able to leave a message\\.",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"AZ PBS\\n\"},{\"text\":\"I called the number on the web site and asked the lady if they would be interested in doing a report on Term Limits. She transferred me to the “New Desk”. No one answered and I was not able to leave a message.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1124}}}",
+  "creationDate" : "2020-01-13T16:44:24Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2020-01-14T00:40:13Z",
+    "temperatureCelsius" : 8,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2020-01-13T14:32:20Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1018,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 54,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 8
+  }
+},
+{
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "text" : "# David Smalley\nI submitted a “Be a Guest”\\.",
+  "starred" : false,
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.2",
+  "creationDate" : "2020-01-19T19:16:22Z",
+  "richText" : "{\"contents\":[{\"text\":\"David Smalley\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I submitted a “Be a Guest”.\"}],\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1124},\"small-lines-removed\":true}}",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac",
+  "uuid" : "707813CB23734E9083D1ADE1142F6A2F",
+  "modifiedDate" : "2020-01-20T11:49:00Z",
+  "duration" : 0,
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83492279052734,
+        "latitude" : 33.58135986328125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83492279052734,
+    "administrativeArea" : "AZ",
+    "placeName" : "10501–10533 N 114th St",
+    "latitude" : 33.58135986328125
+  }
+},
+{
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "text" : "# David Rubin\nI sent a tweet to him asking for an interview\\.",
+  "starred" : false,
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.2",
+  "creationDate" : "2020-01-20T11:48:58Z",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1124},\"version\":1},\"contents\":[{\"text\":\"David Rubin\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I sent a tweet to him asking for an interview.\"}]}",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac",
+  "uuid" : "5D7D3ACD9A3E459A9380A7CA35971772",
+  "modifiedDate" : "2020-01-21T14:15:50Z",
+  "duration" : 0,
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83492279052734,
+        "latitude" : 33.58135986328125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83492279052734,
+    "administrativeArea" : "AZ",
+    "placeName" : "10501–10533 N 114th St",
+    "latitude" : 33.58135986328125
+  }
+},
+{
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "text" : "# 2020 AZ Libertarian Convention\nTucson AZ\n\n Attended with Lynn \\(wife\\) and volunteers Gisela Aaron, Glenn Hamblin, Priscilla Monterroza\\. There was 75 attendees expected, I don’t know for sure how many showed up\\. The convention began as a business meeting were the Arizona State chairman, Howard Blitz, discussed routine business, then guest speakers appeared\\.  After lunch, 8 presidential candidates spoke and answered questions\\.\n\nI was able to “work the room” and get people to sign our petition during breaks\\. We got 29 signatures\\. Most people were supportive of Term Limits, 2 did not want their names put into a database, and one lady argued that we should not take away people’s right to vote for whomever they wish\\.\n\nThere were no other candidates identified other than the presidential candidates\\. I did not get pledges from the presidential candidates because I couldn’t tell for sure if they are serious\\.\n\nI feel it was a good experience for me in that I learned how to handle this type of venue\\.\n\nGlenn and Gisela could become  the core of a Tucson committee\\. Glenn is still working and Gisela participates in other volunteer organizations\\. They both were out\\-going and tried to engage people and were able to clearly articulate Term Limits arguments\\. Gisela said that she would try and get me invited to speak at her German\\-American club\\. Priscilla was not that out\\-going at the table, and did not engage with the crowd\\. However, she was eager to learn and might be an asset in the future\\. ",
+  "starred" : false,
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.2",
+  "creationDate" : "2020-01-25T15:53:57Z",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"2020 AZ Libertarian Convention\\n\"},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"Tucson AZ\\n\"},{\"attributes\":{\"line\":{\"header\":0}},\"text\":\"\\n\"},{\"text\":\" Attended with Lynn (wife) and volunteers Gisela Aaron, Glenn Hamblin, Priscilla Monterroza. There was 75 attendees expected, I don’t know for sure how many showed up. The convention began as a business meeting were the Arizona State chairman, Howard Blitz, discussed routine business, then guest speakers appeared.  After lunch, 8 presidential candidates spoke and answered questions.\\n\",\"attributes\":{\"line\":{\"header\":0}}},{\"text\":\"\\nI was able to “work the room” and get people to sign our petition during breaks. We got 29 signatures. Most people were supportive of Term Limits, 2 did not want their names put into a database, and one lady argued that we should not take away people’s right to vote for whomever they wish.\\n\\nThere were no other candidates identified other than the presidential candidates. I did not get pledges from the presidential candidates because I couldn’t tell for sure if they are serious.\\n\\nI feel it was a good experience for me in that I learned how to handle this type of venue.\\n\\nGlenn and Gisela could become  the core of a Tucson committee. Glenn is still working and Gisela participates in other volunteer organizations. They both were out-going and tried to engage people and were able to clearly articulate Term Limits arguments. Gisela said that she would try and get me invited to speak at her German-American club. Priscilla was not that out-going at the table, and did not engage with the crowd. However, she was eager to learn and might be an asset in the future.  \"}],\"meta\":{\"created\":{\"version\":1124,\"platform\":\"com.bloombuilt.dayone-mac\"},\"version\":1,\"small-lines-removed\":true}}",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac",
+  "uuid" : "C12D3B3F258E4F179CA50E5FC6D447E3",
+  "modifiedDate" : "2020-01-27T17:16:56Z",
+  "duration" : 0,
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83451843261719,
+        "latitude" : 33.581214904785156
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83451843261719,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581214904785156
+  }
+},
+{
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "text" : "# RC Maxwell\nCalled and left message\\.",
+  "starred" : false,
+  "creationDeviceModel" : "iMac14,3",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"RC Maxwell\\n\"},{\"text\":\"Called and left message.\"}],\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1124},\"small-lines-removed\":true}}",
+  "creationOSVersion" : "10.15.2",
+  "creationDate" : "2020-01-26T21:57:47Z",
+  "isAllDay" : false,
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac",
+  "duration" : 0,
+  "modifiedDate" : "2020-01-27T17:16:56Z",
+  "editingTime" : 0,
+  "uuid" : "E71B5ED09EA140A58585BFDC2D8949D2",
+  "creationDeviceType" : "iMac"
+},
+{
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "text" : "# Paul Maryniak\nTimes Publications\\.\nI send him the Term Limits PR and survey\\.",
+  "starred" : false,
+  "creationDeviceModel" : "iMac14,3",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":1124,\"platform\":\"com.bloombuilt.dayone-mac-agent\"},\"small-lines-removed\":true},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Paul Maryniak\\n\"},{\"text\":\"Times Publications.\\nI send him the Term Limits PR and survey.\"}]}",
+  "creationOSVersion" : "10.15.2",
+  "creationDate" : "2020-01-27T17:16:56Z",
+  "isAllDay" : false,
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac",
+  "duration" : 0,
+  "modifiedDate" : "2020-01-27T17:16:56Z",
+  "editingTime" : 0,
+  "uuid" : "4BD7E0EC17064ECA93EC514FF22C10D0",
+  "creationDeviceType" : "iMac"
+},
+{
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "text" : "# Yuma Sun\nI sent the Term Limits Survey",
+  "starred" : false,
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.2",
+  "creationDate" : "2020-01-27T17:20:10Z",
+  "richText" : "{\"contents\":[{\"text\":\"Yuma Sun\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I sent the Term Limits Survey\"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1124},\"version\":1}}",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac",
+  "uuid" : "1A1148D54C4E48E28050FB2A6BEC8CB2",
+  "modifiedDate" : "2020-01-27T17:24:23Z",
+  "duration" : 0,
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  }
+},
+{
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "text" : "# Brenden Bowers\nLake Havasu News\nI send a copy of the AZ Term Limits survey\\.",
+  "starred" : false,
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.2",
+  "creationDate" : "2020-01-27T17:24:23Z",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"version\":1124,\"platform\":\"com.bloombuilt.dayone-mac-agent\"}},\"contents\":[{\"text\":\"Brenden Bowers\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Lake Havasu News\\nI send a copy of the AZ Term Limits survey.\"}]}",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac",
+  "uuid" : "2FFA6624F9A741878C2B585E2B67488F",
+  "modifiedDate" : "2020-01-27T17:27:29Z",
+  "duration" : 0,
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  }
+},
+{
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "text" : "# Mohave Valley Daily News\nBill McMillan\nI sent a copy of the AZ Term Limits survey",
+  "starred" : false,
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.2",
+  "creationDate" : "2020-01-27T17:27:29Z",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1124},\"version\":1},\"contents\":[{\"text\":\"Mohave Valley Daily News\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Bill McMillan\\nI sent a copy of the AZ Term Limits survey\"}]}",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac",
+  "uuid" : "2448B58BB66C463CA63163610C9ECE1C",
+  "modifiedDate" : "2020-01-27T17:32:20Z",
+  "duration" : 0,
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  }
+},
+{
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "text" : "# AZCentral\nI sent a copy of the AZ Term Limits survey",
+  "starred" : false,
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.15.2",
+  "creationDate" : "2020-01-27T17:32:20Z",
+  "richText" : "{\"contents\":[{\"text\":\"AZCentral\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I sent a copy of the AZ Term Limits survey\"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1124},\"version\":1,\"small-lines-removed\":true}}",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac",
+  "uuid" : "7D8309AA263F48589FC2539BD707CA54",
+  "modifiedDate" : "2020-01-27T17:33:00Z",
+  "duration" : 0,
+  "editingTime" : 0,
+  "creationDeviceType" : "iMac",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  }
+},
+{
+  "modifiedDate" : "2020-01-27T17:33:00Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "editingTime" : 0,
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Tucson Paper\nSarah Garrecht\nI sent a copy of the AZ Term Limits survey\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : 0,
+        "latitude" : 0
+      },
+      "radius" : 75
+    },
+    "longitude" : 0,
+    "latitude" : 0
+  },
+  "starred" : false,
+  "uuid" : "B6C584117E0B40E389D7B2E16002EC35",
+  "creationOSVersion" : "10.15.2",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"version\":1124,\"platform\":\"com.bloombuilt.dayone-mac-agent\"}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Tucson Paper\\n\"},{\"text\":\"Sarah Garrecht\\nI sent a copy of the AZ Term Limits survey.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2020-01-27T17:33:00Z",
+  "weather" : {
+    "temperatureCelsius" : 0,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "pressureMB" : 0,
+    "moonPhase" : 0,
+    "visibilityKM" : 0,
+    "relativeHumidity" : 0,
+    "windSpeedKPH" : 0,
+    "windChillCelsius" : 0
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83428192138672,
+        "latitude" : 33.580780029296875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83428192138672,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580780029296875
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "98C8C4D6E6294D1BAFA182CA944EDEF1",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.15.3",
+  "editingTime" : 644.28372597694397,
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2020-02-05T19:28:33Z",
+  "text" : "I met with Charlene Fernandez \\(AZ Democratic house leader\\) and Randall Frieze \\(assistant Democratic leader\\) today\\. I began by giving them each a copy of the McLaughlin survey of Arizonans and pointed out that 83% of Democratic voters support Congressional Term Limits\\. They started off questioning the wisdom of using an Article V convention\\. The second objection is that term limits don’t give people enough time to learn their jobs\\. The third objection is that term limits isn’t working in Arizona\\.\n\nI countered with the standard answers, an Article V convention will not result in a runaway convention; two years is not long enough to learn a job is not supported in the private sector; and that Arizona’s term limits allow persons to flip from the House to the Senate then back to the House and on and on and on, so there really isn’t effective term limits here\\. \n\nI asked them if there is a way to force it through the Senate\\. To do so in Arizona, a supermajority petition must be passed\\.\n\nI left them with a request to sign the pledge and to put me in touch with Arizona Democratic Party leadership\\. It was generally a friendly meeting\\.\n\nFriese said that he personally can support Term Limits except for the Article V worry\\. Additionally, he said that he gets many emails from his constituents supporting Term Limits, but he is worried about a runaway convention\\. Does this mean he has a vulnerability?",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1140}},\"contents\":[{\"text\":\"I met with Charlene Fernandez (AZ Democratic house leader) and Randall Frieze (assistant Democratic leader) today. I began by giving them each a copy of the McLaughlin survey of Arizonans and pointed out that 83% of Democratic voters support Congressional Term Limits. They started off questioning the wisdom of using an Article V convention. The second objection is that term limits don’t give people enough time to learn their jobs. The third objection is that term limits isn’t working in Arizona.\\n\\nI countered with the standard answers, an Article V convention will not result in a runaway convention; two years is not long enough to learn a job is not supported in the private sector; and that Arizona’s term limits allow persons to flip from the House to the Senate then back to the House and on and on and on, so there really isn’t effective term limits here. \\n\\nI asked them if there is a way to force it through the Senate. To do so in Arizona, a supermajority petition must be passed.\\n\\nI left them with a request to sign the pledge and to put me in touch with Arizona Democratic Party leadership. It was generally a friendly meeting.\\n\\nFriese said that he personally can support Term Limits except for the Article V worry. Additionally, he said that he gets many emails from his constituents supporting Term Limits, but he is worried about a runaway convention. Does this mean he has a vulnerability?\"}]}",
+  "creationDate" : "2020-02-05T19:12:21Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2020-02-06T01:02:17Z",
+    "temperatureCelsius" : 8,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : -1,
+    "sunriseDate" : "2020-02-05T14:20:58Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1019,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 15,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 7
+  }
+},
+{
+  "creationDeviceModel" : "iPhone11,8",
+  "duration" : 0,
+  "creationOSVersion" : "13.3.1",
+  "creationOSName" : "iOS",
+  "isAllDay" : false,
+  "modifiedDate" : "2020-05-07T23:51:14Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83467864990234,
+        "latitude" : 33.580963134765625
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83467864990234,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.580963134765625
+  },
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":632,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"McSally Project\\n\"},{\"text\":\"Donna V and Stacey both helped me with the CTA. My I’d does not work creating an Activity. We done know if we can tag Tweets. The ladies are contacting Salsa for answers. \"}]}",
+  "creationDate" : "2020-05-07T23:49:33Z",
+  "starred" : false,
+  "isPinned" : false,
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-05-08T02:15:45Z",
+    "temperatureCelsius" : 38.900001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 280,
+    "sunriseDate" : "2020-05-07T12:32:35Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 7,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 38.900001525878906
+  },
+  "creationDeviceType" : "iPhone",
+  "editingTime" : 98.916077017784119,
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "DDE5F3A9C0284CFBB749BBB2113A5C37",
+  "text" : "# McSally Project\nDonna V and Stacey both helped me with the CTA\\. My I’d does not work creating an Activity\\. We done know if we can tag Tweets\\. The ladies are contacting Salsa for answers\\."
+},
+{
+  "creationDeviceType" : "iMac",
+  "creationDate" : "2020-12-30T13:15:52Z",
+  "modifiedDate" : "2020-01-02T19:22:59Z",
+  "editingTime" : 0,
+  "isAllDay" : false,
+  "richText" : "{\"contents\":[{\"text\":\"Mary Ann Monaco\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"She filled in the Volunteer part of the TL web site.  I called her, she returned the call.\\nShe seemed enthusiastic about TL, but after asking her to contact friends and to get me a speaking gig at one of her associations, she seemed to back off a bit.\\nShe knows Shawwna Bolick and says that she’s been active in national politics.\\nI left her with a promise to get together again and she said she will work fir TL.\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1124,\"platform\":\"com.bloombuilt.dayone-mac-agent\"}}}",
+  "text" : "# Mary Ann Monaco\nShe filled in the Volunteer part of the TL web site\\.  I called her, she returned the call\\.\nShe seemed enthusiastic about TL, but after asking her to contact friends and to get me a speaking gig at one of her associations, she seemed to back off a bit\\.\nShe knows Shawwna Bolick and says that she’s been active in national politics\\.\nI left her with a promise to get together again and she said she will work fir TL\\.",
+  "duration" : 0,
+  "creationDeviceModel" : "iMac14,3",
+  "timeZone" : "America\/Phoenix",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "6453DF23ADC74271B0E07A1AB8138079",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83450317382812,
+        "latitude" : 33.581222534179688
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83450317382812,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581222534179688
+  },
+  "creationOSVersion" : "10.15.2",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "creationDeviceType" : "iPhone",
+  "creationDate" : "2021-03-24T13:20:50Z",
+  "modifiedDate" : "2021-03-25T13:22:09Z",
+  "editingTime" : 58.448392987251282,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":721}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"FF2BA1CC-0DBF-4F9E-9B10-3FA8ABDA10C1\",\"header\":1}},\"text\":\"Hi-Point 9mm Carbine\\n\"},{\"text\":\"Sold to Fountain Hills Gun Shop, Jay, for $175 cash. \"}]}",
+  "text" : "# Hi\\-Point 9mm Carbine\nSold to Fountain Hills Gun Shop, Jay, for $175 cash\\.",
+  "weather" : {
+    "sunsetDate" : "2021-03-26T01:43:14Z",
+    "temperatureCelsius" : 10.600000381469727,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 140,
+    "sunriseDate" : "2021-03-25T13:23:41Z",
+    "conditionsDescription" : "Clear",
+    "pressureMB" : 1010,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 38,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear-night",
+    "windChillCelsius" : 10.600000381469727
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "timeZone" : "America\/Phoenix",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "0943F041B05B4E079A93EE83B2E2DFDC",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83538055419922,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83538055419922,
+    "placeName" : "10437 N 113th Pl",
+    "latitude" : 33.5809326171875
+  },
+  "creationOSVersion" : "14.4.1",
+  "creationOSName" : "iOS",
+  "creationDevice" : "Jim’s iPhone"
+}
+]}

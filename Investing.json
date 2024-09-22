@@ -1,0 +1,100 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "creationDeviceType" : "iMac",
+  "creationDate" : "2020-09-14T15:59:13Z",
+  "modifiedDate" : "2020-09-14T16:07:47Z",
+  "editingTime" : 98.214614987373352,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1216}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Charles Schwab\\n\"},{\"text\":\"I’m checking on the options application. Aaronsaid that they need more information. I said we gave the info and he said, oh yeah, it looks like the info was filled in. Aaron then said that the wait times are very long and that he would call me back.\"}]}",
+  "text" : "# Charles Schwab\nI’m checking on the options application\\. Aaronsaid that they need more information\\. I said we gave the info and he said, oh yeah, it looks like the info was filled in\\. Aaron then said that the wait times are very long and that he would call me back\\.",
+  "weather" : {
+    "sunsetDate" : "2020-09-15T01:35:01Z",
+    "temperatureCelsius" : 33.900001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 90,
+    "sunriseDate" : "2020-09-14T13:10:52Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1015,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 16,
+    "windSpeedKPH" : 15,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 33.900001525878906
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iMac19,2",
+  "timeZone" : "America\/Phoenix",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "A352E745A4C1490EB9A3088D2A7A1A08",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83470153808594,
+        "latitude" : 33.581024169921875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83470153808594,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.581024169921875
+  },
+  "creationOSVersion" : "10.15.6",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "creationDeviceType" : "iMac",
+  "creationDate" : "2020-09-14T16:30:58Z",
+  "modifiedDate" : "2020-09-14T16:56:46Z",
+  "editingTime" : 67.144451141357422,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1216}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Charles Schwab\\n\"},{\"text\":\"Talked to Bill.  He said that I can count IRA money as liquid, then he made the options level 2.\"}]}",
+  "text" : "# Charles Schwab\nTalked to Bill\\.  He said that I can count IRA money as liquid, then he made the options level 2\\.",
+  "weather" : {
+    "sunsetDate" : "2020-09-15T01:35:01Z",
+    "temperatureCelsius" : 33.900001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 90,
+    "sunriseDate" : "2020-09-14T13:10:52Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1015,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 16,
+    "windSpeedKPH" : 15,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 33.900001525878906
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iMac19,2",
+  "timeZone" : "America\/Phoenix",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "92C297B1FCF147DEA68495580B70983C",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83438873291016,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83438873291016,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.5809326171875
+  },
+  "creationOSVersion" : "10.15.6",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac"
+}
+]}

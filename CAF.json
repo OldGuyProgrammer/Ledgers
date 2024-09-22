@@ -1,0 +1,784 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "creationDeviceType" : "iPhone",
+  "text" : "Day 2 of CAF tour. Yesterday, my suitcase broke and I bought a new one at WalMart. Waiting in hotel for Lyft to Greyhound station.",
+  "duration" : 0,
+  "timeZone" : "America\/New_York",
+  "creationOSVersion" : "11.4.1",
+  "creationOSName" : "iOS",
+  "creationDeviceModel" : "iPhone10,5",
+  "creationDevice" : "Jim’s iPhone",
+  "starred" : false,
+  "isAllDay" : false,
+  "creationDate" : "2018-07-26T12:24:35Z",
+  "modifiedDate" : "2018-11-13T17:12:55Z",
+  "uuid" : "121DE001A6AC45BE860122C4ACB49B32",
+  "isPinned" : false,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -78.728553771972656,
+        "latitude" : 42.93035888671875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Buffalo",
+    "country" : "United States",
+    "longitude" : -78.728553771972656,
+    "administrativeArea" : "NY",
+    "placeName" : "4243 Genesee St",
+    "latitude" : 42.93035888671875
+  },
+  "weather" : {
+    "sunsetDate" : "2018-07-27T00:42:11Z",
+    "weatherCode" : "mostly-cloudy",
+    "weatherServiceName" : "HAMweather",
+    "temperatureCelsius" : 21,
+    "windBearing" : 200,
+    "sunriseDate" : "2018-07-26T10:00:45Z",
+    "conditionsDescription" : "Mostly Cloudy",
+    "pressureMB" : 1011,
+    "moonPhase" : 0,
+    "visibilityKM" : 11.265407562255859,
+    "relativeHumidity" : 94,
+    "windSpeedKPH" : 11,
+    "windChillCelsius" : 21
+  }
+},
+{
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone10,5",
+  "creationOSName" : "iOS",
+  "creationDevice" : "Jim’s iPhone",
+  "isAllDay" : false,
+  "timeZone" : "America\/New_York",
+  "isPinned" : false,
+  "text" : "B-25 40 minutes. FLM",
+  "creationOSVersion" : "11.4.1",
+  "starred" : false,
+  "uuid" : "26AB174805EB4EE4AD10CF6B17336D61",
+  "creationDeviceType" : "iPhone",
+  "modifiedDate" : "2018-11-13T17:12:59Z",
+  "creationDate" : "2018-07-27T23:59:26Z"
+},
+{
+  "creationOSName" : "iOS",
+  "modifiedDate" : "2018-11-13T17:13:03Z",
+  "uuid" : "94580DAB887F40E3A89051AEE9E8E613",
+  "duration" : 0,
+  "creationDevice" : "Jim’s iPhone",
+  "isAllDay" : false,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -75.241172790527344,
+        "latitude" : 39.874420166015625
+      },
+      "radius" : 75
+    },
+    "localityName" : "Philadelphia",
+    "country" : "United States",
+    "longitude" : -75.241172790527344,
+    "administrativeArea" : "PA",
+    "placeName" : "Philadelphia International Airport",
+    "latitude" : 39.874420166015625
+  },
+  "isPinned" : false,
+  "starred" : false,
+  "creationDeviceModel" : "iPhone10,5",
+  "creationDate" : "2018-07-29T00:01:20Z",
+  "weather" : {
+    "weatherCode" : "partly-cloudy",
+    "temperatureCelsius" : 26,
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 280,
+    "sunriseDate" : "1970-01-01T00:00:00Z",
+    "conditionsDescription" : "Partly Cloudy",
+    "pressureMB" : 1015.3300170898438,
+    "moonPhase" : 0,
+    "visibilityKM" : 16.090000152587891,
+    "relativeHumidity" : 58,
+    "windSpeedKPH" : 7.3499999046325684,
+    "sunsetDate" : "1970-01-01T00:00:00Z"
+  },
+  "creationOSVersion" : "11.4.1",
+  "text" : "B-25 Flight 50 Minutes. FLM *2",
+  "timeZone" : "America\/New_York",
+  "creationDeviceType" : "iPhone"
+},
+{
+  "creationOSName" : "iOS",
+  "modifiedDate" : "2018-11-13T17:13:05Z",
+  "uuid" : "DDF03FF6A6434E19BA825F18F3FDBA36",
+  "duration" : 0,
+  "creationDevice" : "Jim’s iPhone",
+  "isAllDay" : false,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -75.241188049316406,
+        "latitude" : 39.874397277832031
+      },
+      "radius" : 75
+    },
+    "localityName" : "Philadelphia",
+    "country" : "United States",
+    "longitude" : -75.241188049316406,
+    "administrativeArea" : "PA",
+    "placeName" : "Philadelphia International Airport",
+    "latitude" : 39.874397277832031
+  },
+  "isPinned" : false,
+  "starred" : false,
+  "creationDeviceModel" : "iPhone10,5",
+  "creationDate" : "2018-07-30T00:02:53Z",
+  "weather" : {
+    "weatherCode" : "partly-cloudy",
+    "temperatureCelsius" : 25,
+    "weatherServiceName" : "Forecast.io",
+    "windBearing" : 295,
+    "sunriseDate" : "1970-01-01T00:00:00Z",
+    "conditionsDescription" : "Partly Cloudy",
+    "pressureMB" : 1019.4099731445312,
+    "moonPhase" : 0,
+    "visibilityKM" : 15.899999618530273,
+    "relativeHumidity" : 54,
+    "windSpeedKPH" : 3.9900000095367432,
+    "sunsetDate" : "1970-01-01T00:00:00Z"
+  },
+  "creationOSVersion" : "11.4.1",
+  "text" : "B-25 flight. 40 minutes. FLM",
+  "timeZone" : "America\/New_York",
+  "creationDeviceType" : "iPhone"
+},
+{
+  "duration" : 0,
+  "modifiedDate" : "2018-11-13T17:13:09Z",
+  "uuid" : "4830CBFE52B142B8B3AD7FB5F99CC0CA",
+  "creationDevice" : "Jim’s iPhone",
+  "isAllDay" : false,
+  "isPinned" : false,
+  "starred" : false,
+  "creationDeviceModel" : "iPhone10,5",
+  "creationDate" : "2018-07-30T20:32:02Z",
+  "text" : "Flew in B-25 for first time from Peterborough ON to  Kingston ON. About 40 minutes.",
+  "creationOSVersion" : "11.4.1",
+  "creationDeviceType" : "iPhone",
+  "timeZone" : "America\/Toronto",
+  "creationOSName" : "iOS"
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83457946777344,
+        "latitude" : 33.581058502197266
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83457946777344,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500 E Cochise Dr",
+    "latitude" : 33.581058502197266
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "A4740E012A95476FB772D84AFD319EE0",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.14.1",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2018-11-13T17:22:21Z",
+  "text" : "# C47 FLM\n\nFlew two Veteran’s Day flyovers\\. One to Peoria AZ, the other to Downtown Mesa AZ Parade\\.",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"C47 FLM\\n\"},{\"text\":\"\\n\"},{\"text\":\"Flew two Veteran’s Day flyovers. One to Peoria AZ, the other to Downtown Mesa AZ Parade.\"}],\"meta\":{\"version\":1}}",
+  "creationDate" : "2018-11-12T17:20:31Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2018-11-13T00:26:18Z",
+    "temperatureCelsius" : 16,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 50,
+    "sunriseDate" : "2018-11-12T13:57:35Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1025,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 9,
+    "windSpeedKPH" : 24,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 17
+  }
+},
+{
+  "creationDeviceModel" : "iPhone11,8",
+  "duration" : 0,
+  "creationOSVersion" : "12.1",
+  "creationOSName" : "iOS",
+  "isAllDay" : false,
+  "modifiedDate" : "2018-12-26T17:51:53Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.73530578613281,
+        "latitude" : 33.452507019042969
+      },
+      "radius" : 75
+    },
+    "localityName" : "Mesa",
+    "country" : "United States",
+    "longitude" : -111.73530578613281,
+    "administrativeArea" : "AZ",
+    "placeName" : "Falcon Field Airport",
+    "latitude" : 33.452507019042969
+  },
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 828
+  },
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":2}},\"text\":\"Volunteer IT Comittee\\n\"},{\"text\":\"\\n\"},{\"text\":\"I talked to Mike Mueller about getting an IT group together.\\n\"},{\"text\":\"\\n\"},{\"text\":\"We agreed that but would be a good idea but critical stuff should still be referred to the paid company. \\n\\nWe also talked about the Ride System. We agreed that the present system is ok but could be better. \\n\\nWe will continue to talk about this.  \"}],\"meta\":{\"version\":1}}",
+  "creationDate" : "2018-12-26T17:35:57Z",
+  "starred" : false,
+  "isPinned" : false,
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2018-12-27T00:26:23Z",
+    "temperatureCelsius" : 10,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 190,
+    "sunriseDate" : "2018-12-26T14:29:30Z",
+    "conditionsDescription" : "Cloudy",
+    "pressureMB" : 1012,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 77,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "cloudy",
+    "windChillCelsius" : 10
+  },
+  "creationDeviceType" : "iPhone",
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "EAE2CE696B154668A86BE16E8C690C5A",
+  "text" : "## Volunteer IT Comittee\n\nI talked to Mike Mueller about getting an IT group together\\.\n\nWe agreed that but would be a good idea but critical stuff should still be referred to the paid company\\. \n\nWe also talked about the Ride System\\. We agreed that the present system is ok but could be better\\. \n\nWe will continue to talk about this\\. "
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Ecobee\\n\"},{\"text\":\"\\n\"},{\"text\":\"Talked to Sonal. She will check with support to find out why the refund has not been sent yet. \"}]}",
+  "creationDevice" : "Jim’s iPhone",
+  "creationDate" : "2019-01-21T15:51:32Z",
+  "creationDeviceModel" : "iPhone11,8",
+  "uuid" : "F496ACFA51E14D47A5CB9B6ADC2B18C7",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 371
+  },
+  "creationDeviceType" : "iPhone",
+  "creationOSName" : "iOS",
+  "weather" : {
+    "sunsetDate" : "2019-01-22T00:48:14Z",
+    "temperatureCelsius" : 13,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 140,
+    "sunriseDate" : "2019-01-21T14:28:32Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1010,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 39,
+    "windSpeedKPH" : 19,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 13
+  },
+  "text" : "# Ecobee\n\nTalked to Sonal\\. She will check with support to find out why the refund has not been sent yet\\.",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "12.1.2",
+  "modifiedDate" : "2019-01-21T15:52:30Z",
+  "isAllDay" : false,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.73448944091797,
+        "latitude" : 33.4521484375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Mesa",
+    "country" : "United States",
+    "longitude" : -111.73448944091797,
+    "administrativeArea" : "AZ",
+    "placeName" : "Falcon Field Airport",
+    "latitude" : 33.4521484375
+  }
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "starred" : false,
+  "creationDevice" : "OliviHomeiMac",
+  "creationDate" : "2019-02-08T19:32:06Z",
+  "creationDeviceModel" : "iMac14,3",
+  "uuid" : "2CE9CDCAFBBD4461A9BD8330A70E3658",
+  "creationDeviceType" : "iMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-02-09T01:06:08Z",
+    "temperatureCelsius" : 14,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-02-08T14:17:33Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1019,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 21,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 14
+  },
+  "text" : "RGIS\n\nI talked to Rose Ball\\. She said she’s playing phone tag with a rep at RGIS",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "10.14.2",
+  "isAllDay" : false,
+  "modifiedDate" : "2019-02-08T19:32:06Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83448791503906,
+        "latitude" : 33.581123352050781
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83448791503906,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500 E Cochise Dr",
+    "latitude" : 33.581123352050781
+  }
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "starred" : false,
+  "creationDevice" : "OliviHomeiMac",
+  "creationDate" : "2019-02-08T20:31:57Z",
+  "creationDeviceModel" : "iMac14,3",
+  "uuid" : "9EC04AE359964AD8A02FE4A3231C86C3",
+  "creationDeviceType" : "iMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-02-09T01:06:08Z",
+    "temperatureCelsius" : 16,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : -1,
+    "sunriseDate" : "2019-02-08T14:17:33Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1018,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 17,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 17
+  },
+  "text" : "RGIS\n\nRose B called me to tell me that RGIS is too busy to help me today and to continue Monday\\.",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "10.14.2",
+  "isAllDay" : false,
+  "modifiedDate" : "2019-02-08T20:31:57Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83440399169922,
+        "latitude" : 33.581108093261719
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83440399169922,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500 E Cochise Dr",
+    "latitude" : 33.581108093261719
+  }
+},
+{
+  "uuid" : "B78FD015B8F64E4AB9DF0169EF4FC6FF",
+  "duration" : 0,
+  "isPinned" : false,
+  "isAllDay" : false,
+  "weather" : {
+    "sunsetDate" : "2019-02-09T01:06:08Z",
+    "temperatureCelsius" : 16,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : -1,
+    "sunriseDate" : "2019-02-08T14:17:33Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1018,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 17,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 17
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "creationOSVersion" : "10.14.2",
+  "creationDeviceType" : "iMac",
+  "creationOSName" : "macOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83440399169922,
+        "latitude" : 33.581108093261719
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83440399169922,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500 E Cochise Dr",
+    "latitude" : 33.581108093261719
+  },
+  "text" : "Rose and Jackie\n\nRose told me on another phone call that the auditors from Dallas were not happy with Jackie’s behavior on 2\/7\/19\\.",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-02-08T20:32:42Z",
+  "creationDevice" : "OliviHomeiMac",
+  "modifiedDate" : "2019-02-08T20:32:42Z"
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83448028564453,
+        "latitude" : 33.580982208251953
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83448028564453,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580982208251953
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "447D3248D64B4815A84732B0A57B6502",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.14.4",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-05-06T18:50:03Z",
+  "text" : "# Active Products\n\nI made the following products active: 50\\-Cal Bullets, Aircraft rides\\. I made the following inactive: Admissions , Fees\\.",
+  "richText" : "{\"meta\":{\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Active Products\\n\"},{\"text\":\"\\n\"},{\"text\":\"I made the following products active: 50-Cal Bullets, Aircraft rides. I made the following inactive: Admissions , Fees.\"}]}",
+  "creationDate" : "2019-05-06T18:48:27Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-05-07T02:15:01Z",
+    "temperatureCelsius" : 25,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 150,
+    "sunriseDate" : "2019-05-06T12:33:26Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 16,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 25
+  }
+},
+{
+  "modifiedDate" : "2019-06-29T19:47:00Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iPhone",
+  "creationDevice" : "Jim’s iPhone",
+  "text" : "# B25 flight 20 minutes\\. \nDoyle Gaines shadowed me on first flight\\. \n2 flights all day\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -112.07041168212891,
+        "latitude" : 43.512989044189453
+      },
+      "radius" : 75
+    },
+    "localityName" : "Idaho Falls",
+    "country" : "United States",
+    "longitude" : -112.07041168212891,
+    "administrativeArea" : "ID",
+    "placeName" : "Idaho Falls Regional Airport",
+    "latitude" : 43.512989044189453
+  },
+  "starred" : false,
+  "uuid" : "1206AAD2ADDC46CCA3BBFA191290D100",
+  "creationOSVersion" : "12.3.1",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"text\":\"B25 flight 20 minutes. \\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Doyle Gaines shadowed me on first flight. \\n\"},{\"text\":\"2 flights all day. \"}]}",
+  "timeZone" : "America\/Boise",
+  "creationDate" : "2019-06-21T17:57:09Z",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 3746
+  },
+  "weather" : {
+    "sunsetDate" : "2019-06-22T03:12:54Z",
+    "temperatureCelsius" : 10,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2019-06-21T11:47:14Z",
+    "conditionsDescription" : "Mostly Sunny",
+    "pressureMB" : 1016,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 41,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "partly-cloudy",
+    "windChillCelsius" : 11
+  },
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "isAllDay" : false
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -122.41541290283203,
+        "latitude" : 48.472770690917969
+      },
+      "radius" : 75
+    },
+    "localityName" : "Burlington",
+    "country" : "United States",
+    "longitude" : -122.41541290283203,
+    "administrativeArea" : "WA",
+    "placeName" : "Skagit Regional Airport",
+    "latitude" : 48.472770690917969
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "03914B954572480AB4C3580D03997B18",
+  "creationDeviceType" : "iPhone",
+  "isAllDay" : false,
+  "creationOSVersion" : "12.3.1",
+  "creationDeviceModel" : "iPhone11,8",
+  "starred" : false,
+  "modifiedDate" : "2019-06-29T17:27:07Z",
+  "text" : "# B25 flight 40 minutes\\.",
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 2672
+  },
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"B25 flight 40 minutes. \"}]}",
+  "creationDate" : "2019-06-29T17:26:42Z",
+  "creationDevice" : "Jim’s iPhone",
+  "timeZone" : "America\/Los_Angeles",
+  "creationOSName" : "iOS",
+  "weather" : {
+    "sunsetDate" : "2019-06-30T04:15:21Z",
+    "temperatureCelsius" : 22,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 170,
+    "sunriseDate" : "2019-06-29T12:10:59Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1022,
+    "visibilityKM" : 14.484095573425293,
+    "relativeHumidity" : 57,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 22
+  }
+},
+{
+  "creationDeviceType" : "iPhone",
+  "creationDate" : "2023-02-07T23:22:08Z",
+  "modifiedDate" : "2023-02-07T23:23:19Z",
+  "editingTime" : 59.787430047988892,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":2337}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"568C3CD6-B092-497E-9D65-23486CEC278D\"}},\"text\":\"Waiver Forms\\n\"},{\"text\":\"I sent an email to D Oliver asking him about API’s for sending flight info to HQ\"}]}",
+  "text" : "Waiver Forms\nI sent an email to D Oliver asking him about API’s for sending flight info to HQ",
+  "weather" : {
+    "moonPhaseCode" : "full",
+    "weatherCode" : "mostly-cloudy",
+    "weatherServiceName" : "WeatherKit",
+    "temperatureCelsius" : 9.3000001907348633,
+    "windBearing" : 281,
+    "sunriseDate" : "2023-02-07T12:47:00Z",
+    "conditionsDescription" : "Mostly Cloudy",
+    "pressureMB" : 1020.739990234375,
+    "moonPhase" : 0.5,
+    "visibilityKM" : 29.421340942382812,
+    "relativeHumidity" : 66,
+    "windSpeedKPH" : 11.640000343322754,
+    "sunsetDate" : "2023-02-07T23:10:56Z"
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "timeZone" : "America\/Indiana\/Indianapolis",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "83FF3B33B5C341DEA9B0B7C714704DAC",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -86.128326416015625,
+        "latitude" : 39.96185302734375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Carmel",
+    "country" : "United States",
+    "timeZoneName" : "America\/Indiana\/Indianapolis",
+    "administrativeArea" : "IN",
+    "longitude" : -86.128326416015625,
+    "placeName" : "1212 S Rangeline Rd",
+    "latitude" : 39.96185302734375
+  },
+  "creationOSVersion" : "16.2",
+  "creationOSName" : "iOS",
+  "creationDevice" : "Jim’s iPhone (2)"
+},
+{
+  "creationDeviceType" : "iPhone",
+  "creationDate" : "2023-02-09T17:38:25Z",
+  "modifiedDate" : "2023-02-09T17:39:32Z",
+  "editingTime" : 64.612298011779785,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":2337}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"5261EE93-AD37-48DF-8E11-16084CD745A0\"}},\"text\":\"Dave Oliver\\n\"},{\"text\":\"Answered my email. I replied that I want\\nTo talk with him about details. \\n\\nI want to talk about the Indy Warbirds system. \"}]}",
+  "text" : "Dave Oliver\nAnswered my email\\. I replied that I want\nTo talk with him about details\\. \n\nI want to talk about the Indy Warbirds system\\.",
+  "weather" : {
+    "moonPhaseCode" : "waning-gibbous",
+    "weatherCode" : "wind",
+    "weatherServiceName" : "WeatherKit",
+    "temperatureCelsius" : 9.7100000381469727,
+    "windBearing" : 217,
+    "sunriseDate" : "2023-02-09T12:44:47Z",
+    "conditionsDescription" : "Breezy",
+    "pressureMB" : 1004.3099975585938,
+    "moonPhase" : 0.62,
+    "visibilityKM" : 21.264030456542969,
+    "relativeHumidity" : 76,
+    "windSpeedKPH" : 36.349998474121094,
+    "sunsetDate" : "2023-02-09T23:13:20Z"
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "timeZone" : "America\/Indiana\/Indianapolis",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "9083455657A340E6AF412775C7E78E8F",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -86.128425598144531,
+        "latitude" : 39.961822509765625
+      },
+      "radius" : 75
+    },
+    "localityName" : "Carmel",
+    "country" : "United States",
+    "timeZoneName" : "America\/Indiana\/Indianapolis",
+    "administrativeArea" : "IN",
+    "longitude" : -86.128425598144531,
+    "placeName" : "1212 S Rangeline Rd",
+    "latitude" : 39.961822509765625
+  },
+  "creationOSVersion" : "16.2",
+  "creationOSName" : "iOS",
+  "creationDevice" : "Jim’s iPhone (2)"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "Sent another request to D Oliver to connect with IT for waiver files\\.",
+  "creationDevice" : "Jim’s iPhone (2)",
+  "weather" : {
+    "moonPhaseCode" : "last-quarter",
+    "weatherCode" : "wind",
+    "weatherServiceName" : "WeatherKit",
+    "temperatureCelsius" : 11.449999809265137,
+    "windBearing" : 226,
+    "sunriseDate" : "2023-02-15T12:37:34Z",
+    "conditionsDescription" : "Breezy",
+    "pressureMB" : 1007.1500244140625,
+    "moonPhase" : 0.75,
+    "visibilityKM" : 24.573139190673828,
+    "relativeHumidity" : 70,
+    "windSpeedKPH" : 30.709999084472656,
+    "sunsetDate" : "2023-02-15T23:20:28Z"
+  },
+  "duration" : 0,
+  "creationDate" : "2023-02-15T13:26:24Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "6F903117F2F14FCB878A3556BA9F681B",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -86.128402709960938,
+        "latitude" : 39.961883544921875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Carmel",
+    "country" : "United States",
+    "timeZoneName" : "America\/Indiana\/Indianapolis",
+    "administrativeArea" : "IN",
+    "longitude" : -86.128402709960938,
+    "placeName" : "1212 S Rangeline Rd",
+    "latitude" : 39.961883544921875
+  },
+  "editingTime" : 29.861124038696289,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":2384}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"3AE7F5E4-3B46-4A27-BD69-618FA287B2CE\"}},\"text\":\"Sent another request to D Oliver to connect with IT for waiver files. \"}]}",
+  "timeZone" : "America\/Indiana\/Indianapolis",
+  "creationOSVersion" : "16.2",
+  "modifiedDate" : "2023-02-15T13:26:57Z",
+  "creationOSName" : "iOS"
+},
+{
+  "creationDeviceType" : "iMac",
+  "creationDate" : "2023-03-27T19:14:27Z",
+  "modifiedDate" : "2023-03-27T19:12:58Z",
+  "editingTime" : 0,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac-agent\",\"version\":1476}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"B2424A68-AC5A-43B8-ADA3-9725F4A0B4F2\"}},\"text\":\"Indiana:\\n\"},{\"text\":\"Called Mark Van Zant. Left message: I can help with the IndyCAF website and to please call me.\"}]}",
+  "text" : "# Indiana:\nCalled Mark Van Zant\\. Left message: I can help with the IndyCAF website and to please call me\\.",
+  "duration" : 0,
+  "creationDeviceModel" : "iMac19,2",
+  "timeZone" : "America\/Indiana\/Indianapolis",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "55ED3239F4DF4DC6A2EA8F0B50B278DE",
+  "creationOSVersion" : "13.2.1",
+  "creationOSName" : "macOS",
+  "creationDevice" : "Jim’s iMac"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "Wardbirds Booking App\nDeployed to Heroku: https:\/\/indycaf\\-warbirds\\-ff8ed80184fd\\.herokuapp\\.com\/",
+  "creationDevice" : "Jim’s iMac",
+  "duration" : 0,
+  "creationDate" : "2023-08-09T12:58:34Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "0DBBE5F14913480E8B3824EA43105EE6",
+  "editingTime" : 40.238379955291748,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1496}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"F7451490-B2FD-4272-85DF-312D910EE2FA\"}},\"text\":\"Wardbirds Booking App\\n\"},{\"text\":\"Deployed to Heroku: \"},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/indycaf-warbirds-ff8ed80184fd.herokuapp.com\\\/\"}]}",
+  "starred" : false,
+  "timeZone" : "America\/Indiana\/Indianapolis",
+  "creationOSVersion" : "13.4.1",
+  "modifiedDate" : "2023-08-09T12:59:17Z",
+  "creationOSName" : "macOS"
+}
+]}

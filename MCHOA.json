@@ -1,0 +1,2508 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "ED391AD799F645A994CC13B7DD6C71FE",
+  "isAllDay" : false,
+  "creationDeviceType" : "MacBook Air",
+  "creationOSVersion" : "10.15.2",
+  "editingTime" : 672.95002102851868,
+  "creationDeviceModel" : "MacBookAir8,1",
+  "starred" : false,
+  "modifiedDate" : "2020-02-04T20:34:05Z",
+  "text" : "# Executive Meeting\nFrank G wants me to handle the Cox contract\\.\n2 lawsuits: \n1. Elderly couple \\(Shaunessey?\\) bought the unit sight\\-unseen\\. Long before they bough, there was a water leak that was repaired\\. The new owner suspects water and mold problems\\. There was an inspection and no mold was found\\. Unit 1144\\.\n2. Unit 1101\\. Water is seeping into a garage\\. The lower unit owner is not there\\. Plumbing of the upper unit was leaking between the floor and ceiling\\.\\. The unit was unoccupied for a long time\\. It is not known how long the water was leaking\\. The claim was denied because the unit was unoccupied for more than 14 days\\.\n3. Problem with Lobby’s place\\. He owes the HOA over $13,000\\. They want to settle for $12,000\\. There’s a long history of L not paying and not doing required repairs\\.\nOur CCNR’s need to be updated\\. $1,200 est\\. to review\\.\nWe are bound by an implied non\\-disclosure because we are on the board\\.",
+  "richText" : "{\"contents\":[{\"text\":\"Executive Meeting\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Frank G wants me to handle the Cox contract.\\n2 lawsuits: \\n\"},{\"attributes\":{\"line\":{\"header\":0,\"indentLevel\":1,\"listStyle\":\"numbered\",\"listIndex\":1}},\"text\":\"Elderly couple (Shaunessey?) bought the unit sight-unseen. Long before they bough, there was a water leak that was repaired. The new owner suspects water and mold problems. There was an inspection and no mold was found. Unit 1144.\\n\"},{\"attributes\":{\"line\":{\"listStyle\":\"numbered\",\"listIndex\":2,\"indentLevel\":1,\"header\":0}},\"text\":\"Unit 1101. Water is seeping into a garage. The lower unit owner is not there. Plumbing of the upper unit was leaking between the floor and ceiling.. The unit was unoccupied for a long time. It is not known how long the water was leaking. The claim was denied because the unit was unoccupied for more than 14 days.\\n\"},{\"attributes\":{\"line\":{\"header\":0,\"listStyle\":\"numbered\",\"listIndex\":3,\"indentLevel\":1}},\"text\":\"Problem with Lobby’s place. He owes the HOA over $13,000. They want to settle for $12,000. There’s a long history of L not paying and not doing required repairs.\\n\"},{\"text\":\"Our CCNR’s need to be updated. $1,200 est. to review.\\nWe are bound by an implied non-disclosure because we are on the board.\\n\"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1140},\"version\":1}}",
+  "creationDate" : "2020-02-04T19:33:01Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "Little Mac",
+  "creationOSName" : "macOS",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83229688972524,
+        "latitude" : 33.580099609312192
+      },
+      "identifier" : "<+33.58009961,-111.83229689> radius 70.62",
+      "radius" : 70.618696903624794
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83229827880859,
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580078125
+  }
+},
+{
+  "modifiedDate" : "2020-02-04T21:18:17Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "MacBook Air",
+  "editingTime" : 0,
+  "creationDevice" : "Little Mac",
+  "text" : "# Gothic Landscaping\nMichelle, Morgan and Trevor\\.\nMichelle was promoted and will no longer be our rep\\. Acct mgr will also be operations: Morgan\\. M is 2 levels above the on\\-site foreman\\. They trim and clean 1\/4 of the property each week\\. Mow once per week\\. They spray for weeds every time, as needed\\. A full day is 7 hours\\.  1\/2 days are 3\\.5 hours\\.\nDan observes that they are never here until 3\\.\nTrevor offered to report hours to Jeff\\. He also says that they use Paid Time Off on rains days\\. There were at most 4 rain days last year\\. Rain days are called for the entire valley\\. \nDon stated that we want to be sure that we get the time we pay for\\.\nThere is growth all year round\\.\nFrank said that the last 2 years, irrigation cost has gone down\\.\nThey will only irrigate plants they put in\\. Owners are not allowed to plant their own\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.8326727,
+        "latitude" : 33.580318400000003
+      },
+      "identifier" : "<+33.58031840,-111.83267270> radius 70.62",
+      "radius" : 70.618698567708051
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83235931396484,
+    "placeName" : "11500 E Cochise Dr",
+    "latitude" : 33.5802001953125
+  },
+  "starred" : false,
+  "uuid" : "E8C58C71450D4E18BFD9D1FA5F881205",
+  "creationOSVersion" : "10.15.2",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1140,\"platform\":\"com.bloombuilt.dayone-mac-agent\"}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Gothic Landscaping\\n\"},{\"text\":\"Michelle, Morgan and Trevor.\\nMichelle was promoted and will no longer be our rep. Acct mgr will also be operations: Morgan. M is 2 levels above the on-site foreman. They trim and clean 1\\\/4 of the property each week. Mow once per week. They spray for weeds every time, as needed. A full day is 7 hours.  1\\\/2 days are 3.5 hours.\\nDan observes that they are never here until 3.\\nTrevor offered to report hours to Jeff. He also says that they use Paid Time Off on rains days. There were at most 4 rain days last year. Rain days are called for the entire valley. \\nDon stated that we want to be sure that we get the time we pay for.\\nThere is growth all year round.\\nFrank said that the last 2 years, irrigation cost has gone down.\\nThey will only irrigate plants they put in. Owners are not allowed to plant their own.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2020-02-04T21:18:17Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "MacBookAir8,1",
+  "isAllDay" : false
+},
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83446502685547,
+        "latitude" : 33.581085205078125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83446502685547,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581085205078125
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "E259CCD7BB3449A88461AF580DC8177F",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.15.3",
+  "editingTime" : 17.297173976898193,
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2020-02-24T16:50:37Z",
+  "text" : "# Cox\nI called Danny W and left a message\\.",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Cox\\n\"},{\"text\":\"I called Danny W and left a message.\"}],\"meta\":{\"version\":1,\"created\":{\"version\":1140,\"platform\":\"com.bloombuilt.dayone-mac\"},\"small-lines-removed\":true}}",
+  "creationDate" : "2020-02-24T16:50:16Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2020-02-25T01:19:40Z",
+    "temperatureCelsius" : 10,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 160,
+    "sunriseDate" : "2020-02-24T14:02:05Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1022,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 77,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 11
+  }
+},
+{
+  "creationDeviceModel" : "iMac14,3",
+  "duration" : 0,
+  "creationOSVersion" : "10.15.3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false,
+  "modifiedDate" : "2020-02-24T16:52:37Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83464813232422,
+        "latitude" : 33.581207275390625
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83464813232422,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581207275390625
+  },
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1140,\"platform\":\"com.bloombuilt.dayone-mac\"}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"City of Scottsdale\\n\"},{\"text\":\"They told me Cox and Century Link.\"}]}",
+  "creationDate" : "2020-02-24T16:52:16Z",
+  "starred" : false,
+  "isPinned" : false,
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2020-02-25T01:19:40Z",
+    "temperatureCelsius" : 10,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 160,
+    "sunriseDate" : "2020-02-24T14:02:05Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1022,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 77,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 11
+  },
+  "creationDeviceType" : "iMac",
+  "editingTime" : 17.60512900352478,
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "8D014959FA044EEAB35B840A6A32E0AD",
+  "text" : "# City of Scottsdale\nThey told me Cox and Century Link\\."
+},
+{
+  "creationDeviceModel" : "iMac14,3",
+  "duration" : 0,
+  "creationOSVersion" : "10.15.3",
+  "creationOSName" : "macOS",
+  "isAllDay" : false,
+  "modifiedDate" : "2020-05-14T22:31:47Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83460998535156,
+        "latitude" : 33.58135986328125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83460998535156,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.58135986328125
+  },
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":1151,\"platform\":\"com.bloombuilt.dayone-mac\"}},\"contents\":[{\"text\":\"Century Link\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"I finally talked to a person. It turns out that I had to ask for someone in “Multi-Dwelling Unit”. Karen took my information and will refer to the appropriate sales reps.\"}]}",
+  "creationDate" : "2020-03-03T23:10:52Z",
+  "starred" : false,
+  "isPinned" : false,
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2020-03-04T01:26:23Z",
+    "temperatureCelsius" : 23,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 250,
+    "sunriseDate" : "2020-03-03T13:52:25Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1007,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 23,
+    "windSpeedKPH" : 19,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 23
+  },
+  "creationDeviceType" : "iMac",
+  "editingTime" : 93.367257952690125,
+  "timeZone" : "America\/Phoenix",
+  "uuid" : "0FECF584FF0B46239E025516740D1801",
+  "text" : "# Century Link\nI finally talked to a person\\. It turns out that I had to ask for someone in “Multi\\-Dwelling Unit”\\. Karen took my information and will refer to the appropriate sales reps\\."
+},
+{
+  "creationDeviceModel" : "iPhone11,8",
+  "duration" : 0,
+  "creationOSVersion" : "13.3.1",
+  "creationOSName" : "iOS",
+  "isAllDay" : false,
+  "modifiedDate" : "2020-05-07T23:49:22Z",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83469390869141,
+        "latitude" : 33.580902099609375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83469390869141,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.580902099609375
+  },
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 11753
+  },
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"Frank G and I fixed up a few chairs and lounges by reloading the footies. We then brought broken ones into the clubhouse garage. \"}],\"meta\":{\"created\":{\"version\":632,\"platform\":\"com.bloombuilt.dayone-ios\"},\"version\":1,\"small-lines-removed\":true}}",
+  "creationDate" : "2020-05-07T23:48:04Z",
+  "starred" : false,
+  "isPinned" : false,
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-05-08T02:15:45Z",
+    "temperatureCelsius" : 38.900001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 280,
+    "sunriseDate" : "2020-05-07T12:32:35Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 7,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 38.900001525878906
+  },
+  "creationDeviceType" : "iPhone",
+  "editingTime" : 74.046069979667664,
+  "uuid" : "5F58980DFBE94D4383A467C6D6DCCD5C",
+  "timeZone" : "America\/Phoenix",
+  "text" : "# Pool\nFrank G and I fixed up a few chairs and lounges by reloading the footies\\. We then brought broken ones into the clubhouse garage\\."
+},
+{
+  "isPinned" : false,
+  "richText" : "{\"meta\":{\"created\":{\"version\":1180,\"platform\":\"com.bloombuilt.dayone-mac\"},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"3 people in pool area. 2 in water, I on a lounge chair.\"}]}",
+  "editingTime" : 26.158275008201599,
+  "creationOSVersion" : "10.15.4",
+  "starred" : false,
+  "text" : "# Pool\n3 people in pool area\\. 2 in water, I on a lounge chair\\.",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83450317382812,
+        "latitude" : 33.580848693847656
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83450317382812,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580848693847656
+  },
+  "creationDeviceModel" : "iMac14,3",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2020-05-17T21:48:52Z",
+  "creationDeviceType" : "iMac",
+  "uuid" : "6AA639F090E445438AD3137F3C385AB1",
+  "creationDate" : "2020-05-17T21:48:23Z",
+  "weather" : {
+    "sunsetDate" : "2020-05-18T02:23:13Z",
+    "temperatureCelsius" : 34.400001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2020-05-17T12:24:58Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1009,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 14,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 34.400001525878906
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"3 adults in chairs. 5 school aged kids in the water. The kids were supervised. \"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":637},\"version\":1}}",
+  "isPinned" : false,
+  "editingTime" : 54.062394022941589,
+  "creationOSVersion" : "13.4.1",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 12692
+  },
+  "text" : "# Pool\n3 adults in chairs\\. 5 school aged kids in the water\\. The kids were supervised\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83464813232422,
+        "latitude" : 33.581249237060547
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83464813232422,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581249237060547
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2020-05-18T01:14:31Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "C27A83B852444BEDAEE2B986AD3006E1",
+  "creationDate" : "2020-05-18T01:13:35Z",
+  "weather" : {
+    "sunsetDate" : "2020-05-18T02:23:13Z",
+    "temperatureCelsius" : 36.099998474121094,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2020-05-17T12:24:58Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1007,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 10,
+    "windSpeedKPH" : 15,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 36.099998474121094
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 3596
+  },
+  "isAllDay" : false,
+  "creationOSName" : "iOS",
+  "creationDeviceType" : "iPhone",
+  "editingTime" : 28.437515020370483,
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"Separated 3 chairs. 2 adults in the pool. \"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":637,\"platform\":\"com.bloombuilt.dayone-ios\"}}}",
+  "uuid" : "44144269178D4D508B08D34E3B8C4D2C",
+  "text" : "# Pool\nSeparated 3 chairs\\. 2 adults in the pool\\.",
+  "creationDeviceModel" : "iPhone11,8",
+  "starred" : false,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.8345947265625,
+        "latitude" : 33.58099365234375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.8345947265625,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.58099365234375
+  },
+  "creationOSVersion" : "13.4.1",
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2020-05-18T15:21:09Z",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-05-19T02:23:56Z",
+    "temperatureCelsius" : 26.700000762939453,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2020-05-18T12:24:20Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1011,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 23,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 26.700000762939453
+  },
+  "modifiedDate" : "2020-05-18T15:21:45Z",
+  "duration" : 0
+},
+{
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 9591
+  },
+  "isAllDay" : false,
+  "creationOSName" : "iOS",
+  "creationDeviceType" : "iPhone",
+  "editingTime" : 53.914034962654114,
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":637,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"2 adults. A family of 4 (little boy and little girl) and a unicorn. \"}]}",
+  "uuid" : "1AA5F363F9BB4AB0BEB3E093DC08D0DB",
+  "text" : "# Pool\n2 adults\\. A family of 4 \\(little boy and little girl\\) and a unicorn\\.",
+  "creationDeviceModel" : "iPhone11,8",
+  "starred" : false,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83469390869141,
+        "latitude" : 33.58087158203125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83469390869141,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.58087158203125
+  },
+  "creationOSVersion" : "13.4.1",
+  "isPinned" : false,
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2020-05-18T23:38:51Z",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-05-19T02:23:56Z",
+    "temperatureCelsius" : 36.099998474121094,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 250,
+    "sunriseDate" : "2020-05-18T12:24:20Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 11,
+    "windSpeedKPH" : 19,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 36.099998474121094
+  },
+  "modifiedDate" : "2020-05-18T23:40:14Z",
+  "duration" : 0
+},
+{
+  "richText" : "{\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Family of 4. 2 adults and a unicorn. \"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":637},\"version\":1}}",
+  "isPinned" : false,
+  "editingTime" : 21.079254031181335,
+  "creationOSVersion" : "13.4.1",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 10363
+  },
+  "text" : "# Pool\nFamily of 4\\. 2 adults and a unicorn\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83455657958984,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83455657958984,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.5809326171875
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2020-05-20T00:34:18Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "27151435D8CF4839BF07230DE452ECA8",
+  "creationDate" : "2020-05-20T00:33:42Z",
+  "weather" : {
+    "sunsetDate" : "2020-05-20T02:24:39Z",
+    "temperatureCelsius" : 29.399999618530273,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2020-05-19T12:23:44Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1007,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 17,
+    "windSpeedKPH" : 19,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 29.399999618530273
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "richText" : "{\"meta\":{\"created\":{\"version\":637,\"platform\":\"com.bloombuilt.dayone-ios\"},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"No one in pool. Chairs almost well spaced. Spa working. \"}]}",
+  "isPinned" : false,
+  "editingTime" : 24.245300889015198,
+  "creationOSVersion" : "13.4.1",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 3541
+  },
+  "text" : "# Pool\nNo one in pool\\. Chairs almost well spaced\\. Spa working\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83452606201172,
+        "latitude" : 33.580902099609375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83452606201172,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580902099609375
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2020-05-20T14:58:47Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "9D7CA88352884F1EADD16C91C526A0FC",
+  "creationDate" : "2020-05-20T14:58:10Z",
+  "weather" : {
+    "sunsetDate" : "2020-05-21T02:25:21Z",
+    "temperatureCelsius" : 19.399999618530273,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 140,
+    "sunriseDate" : "2020-05-20T12:23:08Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1014,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 20,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 19.399999618530273
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"6 adults. \"}],\"meta\":{\"version\":1,\"created\":{\"version\":637,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true}}",
+  "isPinned" : false,
+  "editingTime" : 8.0127420425415039,
+  "creationOSVersion" : "13.4.1",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 10159
+  },
+  "text" : "# Pool\n6 adults\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.8345947265625,
+        "latitude" : 33.580944061279297
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.8345947265625,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580944061279297
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2020-05-22T23:48:53Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "B8A79573BBD248F5B5A6679AD948E883",
+  "creationDate" : "2020-05-22T23:48:24Z",
+  "weather" : {
+    "sunsetDate" : "2020-05-23T02:26:45Z",
+    "temperatureCelsius" : 33.299999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 190,
+    "sunriseDate" : "2020-05-22T12:22:03Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1005,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 9,
+    "windSpeedKPH" : 7,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 33.299999237060547
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":637}},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"8 adults\"}]}",
+  "isPinned" : false,
+  "editingTime" : 10.164776086807251,
+  "creationOSVersion" : "13.4.1",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 12521
+  },
+  "text" : "# Pool\n8 adults",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83455657958984,
+        "latitude" : 33.580902099609375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83455657958984,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580902099609375
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2020-05-24T00:10:47Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "C1394BE67847424DA46847D4C8C03099",
+  "creationDate" : "2020-05-23T23:00:14Z",
+  "weather" : {
+    "sunsetDate" : "2020-05-24T02:27:26Z",
+    "temperatureCelsius" : 32.200000762939453,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 220,
+    "sunriseDate" : "2020-05-23T12:21:32Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1005,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 10,
+    "windSpeedKPH" : 20,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 32.200000762939453
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":637,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"20 adults. 4 children. And a unicorn. \"}]}",
+  "isPinned" : false,
+  "editingTime" : 28.785984039306641,
+  "creationOSVersion" : "13.4.1",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 13912
+  },
+  "text" : "# Pool\n20 adults\\. 4 children\\. And a unicorn\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83465576171875,
+        "latitude" : 33.581024169921875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83465576171875,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581024169921875
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2020-05-24T23:28:47Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "4434622BE8054C3781A4F56E0AC8C682",
+  "creationDate" : "2020-05-24T23:28:07Z",
+  "weather" : {
+    "sunsetDate" : "2020-05-25T02:28:07Z",
+    "temperatureCelsius" : 32.799999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 180,
+    "sunriseDate" : "2020-05-24T12:21:03Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 10,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 32.799999237060547
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":637},\"small-lines-removed\":true},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"30 adults, 2 children. And a unicorn. \"}]}",
+  "isPinned" : false,
+  "editingTime" : 30.513912916183472,
+  "creationOSVersion" : "13.4.1",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 11313
+  },
+  "text" : "# Pool\n30 adults, 2 children\\. And a unicorn\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83458709716797,
+        "latitude" : 33.58087158203125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83458709716797,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.58087158203125
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2020-05-25T23:12:55Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "6B8782EF25644E2796791F4C8D78E690",
+  "creationDate" : "2020-05-25T23:12:15Z",
+  "weather" : {
+    "sunsetDate" : "2020-05-26T02:28:47Z",
+    "temperatureCelsius" : 34.400001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 230,
+    "sunriseDate" : "2020-05-25T12:20:36Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 8,
+    "windSpeedKPH" : 20,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 34.400001525878906
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":637},\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"We found 5 extra chairs within the pool fence. The entrance door, by the mail area might have been unlocked. The garage people door was ajar. \"}]}",
+  "isPinned" : false,
+  "editingTime" : 88.17551600933075,
+  "creationOSVersion" : "13.4.1",
+  "starred" : false,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 4779
+  },
+  "text" : "# Pool\nWe found 5 extra chairs within the pool fence\\. The entrance door, by the mail area might have been unlocked\\. The garage people door was ajar\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83454895019531,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83454895019531,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.5809326171875
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2020-05-26T14:49:27Z",
+  "creationDeviceType" : "iPhone",
+  "uuid" : "59239E28F4094899ACE728E1E8E32AF7",
+  "creationDate" : "2020-05-26T14:47:41Z",
+  "weather" : {
+    "sunsetDate" : "2020-05-27T02:29:27Z",
+    "temperatureCelsius" : 24.399999618530273,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2020-05-26T12:20:10Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1009,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 26,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 24.399999618530273
+  },
+  "isAllDay" : false,
+  "creationDevice" : "Jim’s iPhone"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\nNo one there\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-05-28T02:30:05Z",
+    "temperatureCelsius" : 40,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2020-05-27T12:19:45Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1005,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 9,
+    "windSpeedKPH" : 11,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 40
+  },
+  "duration" : 0,
+  "creationDate" : "2020-05-28T01:52:55Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "B0C8C5D015F2466DBA5762DD40A2BE38",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83469390869141,
+        "latitude" : 33.580959320068359
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83469390869141,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.580959320068359
+  },
+  "editingTime" : 16.34492301940918,
+  "starred" : false,
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"No one there. \"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":645},\"version\":1,\"small-lines-removed\":true}}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "13.4.1",
+  "modifiedDate" : "2020-05-28T01:53:21Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# I helped put away outdoor furniture with Jeff Hench, Kirkland and the missus\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-05-30T02:31:21Z",
+    "temperatureCelsius" : 38.900001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2020-05-29T12:19:01Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1010,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 12,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 38.900001525878906
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 7998
+  },
+  "creationDate" : "2020-05-29T19:51:39Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "86B3352C1459469D850C2ED67DA0ACF0",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83474731445312,
+        "latitude" : 33.580902099609375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83474731445312,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.580902099609375
+  },
+  "editingTime" : 47.593380928039551,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"I helped put away outdoor furniture with Jeff Hench, Kirkland and the missus. \"}],\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":645}}}",
+  "creationOSVersion" : "13.4.1",
+  "modifiedDate" : "2020-05-29T19:52:43Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n18 people\\. Maybe 1\/2 children\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-05-30T02:31:21Z",
+    "temperatureCelsius" : 41.700000762939453,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 260,
+    "sunriseDate" : "2020-05-29T12:19:01Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 10,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 41.700000762939453
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 8897
+  },
+  "creationDate" : "2020-05-30T02:09:38Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "D2CB16CC78344007882D8D81EF6C1EA6",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83470153808594,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83470153808594,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.5809326171875
+  },
+  "editingTime" : 20.537069082260132,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":645}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"18 people. Maybe 1\\\/2 children. \"}]}",
+  "creationOSVersion" : "13.4.1",
+  "modifiedDate" : "2020-05-30T02:10:09Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n8 adults",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-01T02:32:34Z",
+    "temperatureCelsius" : 39.400001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 260,
+    "sunriseDate" : "2020-05-31T12:18:23Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1005,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 10,
+    "windSpeedKPH" : 17,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 39.400001525878906
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 11145
+  },
+  "creationDate" : "2020-06-01T00:19:11Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "505788A894F04F6EAFD04246CE3FC8E2",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83462524414062,
+        "latitude" : 33.581024169921875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83462524414062,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581024169921875
+  },
+  "editingTime" : 10.291345000267029,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"8 adults\"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":645,\"platform\":\"com.bloombuilt.dayone-ios\"}}}",
+  "creationOSVersion" : "13.4.1",
+  "modifiedDate" : "2020-06-01T01:17:24Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n3 adults in Spa\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-01T02:32:34Z",
+    "temperatureCelsius" : 39.400001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 260,
+    "sunriseDate" : "2020-05-31T12:18:23Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1005,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 10,
+    "windSpeedKPH" : 17,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 39.400001525878906
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 12076
+  },
+  "creationDate" : "2020-06-01T01:16:54Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "15DF89E44CFA420CA0FEE29377627965",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83462524414062,
+        "latitude" : 33.581024169921875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83462524414062,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581024169921875
+  },
+  "editingTime" : 24.053095936775208,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"3 adults in Spa. \"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":645},\"version\":1,\"small-lines-removed\":true}}",
+  "creationOSVersion" : "13.4.1",
+  "modifiedDate" : "2020-06-01T01:17:38Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n3 adults\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-02T02:33:09Z",
+    "temperatureCelsius" : 38.900001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2020-06-01T12:18:07Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 13,
+    "windSpeedKPH" : 13,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 38.900001525878906
+  },
+  "duration" : 0,
+  "creationDate" : "2020-06-02T01:36:37Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "A407B84EDD8541B288D6D81E1E652901",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83454895019531,
+        "latitude" : 33.5810546875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83454895019531,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.5810546875
+  },
+  "editingTime" : 10.526986002922058,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":645}},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"3 adults. \"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "13.4.1",
+  "modifiedDate" : "2020-06-02T01:36:49Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n6 adults\\. Socially spaced",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-07T02:35:53Z",
+    "temperatureCelsius" : 23.299999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 280,
+    "sunriseDate" : "2020-06-06T12:17:08Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1009,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 48,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 23.299999237060547
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 2317
+  },
+  "creationDate" : "2020-06-06T14:00:41Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "5864D41AEE3F4C3386637B288D191B8F",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83460235595703,
+        "latitude" : 33.58087158203125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83460235595703,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.58087158203125
+  },
+  "editingTime" : 17.761633992195129,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"6 adults. Socially spaced\"}],\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":645},\"version\":1,\"small-lines-removed\":true}}",
+  "creationOSVersion" : "13.4.1",
+  "modifiedDate" : "2020-06-06T18:36:16Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n16 people",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-07T02:35:53Z",
+    "temperatureCelsius" : 30.600000381469727,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2020-06-06T12:17:08Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1005,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 24,
+    "windSpeedKPH" : 13,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 30.600000381469727
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 15394
+  },
+  "creationDate" : "2020-06-07T01:32:10Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "7C13CEAB4A3149978ECFB121DCA5AB97",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83390808105469,
+        "latitude" : 33.580532073974609
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83390808105469,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580532073974609
+  },
+  "editingTime" : 10.769253015518188,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":645},\"small-lines-removed\":true,\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"16 people \"}]}",
+  "creationOSVersion" : "13.4.1",
+  "modifiedDate" : "2020-06-07T13:32:43Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n8 adults",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-19T02:40:34Z",
+    "temperatureCelsius" : 36.099998474121094,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 160,
+    "sunriseDate" : "2020-06-18T12:17:24Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 9,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 36.099998474121094
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 9688
+  },
+  "creationDate" : "2020-06-18T21:30:32Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "07A6C79AFAE64DBA9B09E91D881131E4",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83468627929688,
+        "latitude" : 33.580902099609375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83468627929688,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.580902099609375
+  },
+  "editingTime" : 10.031981945037842,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"8 adults\"}],\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":650},\"version\":1}}",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-06-18T23:55:03Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n5 adults",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-20T02:40:50Z",
+    "temperatureCelsius" : 36.099998474121094,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : -1,
+    "sunriseDate" : "2020-06-19T12:17:35Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1007,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 7,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 36.099998474121094
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 6355
+  },
+  "creationDate" : "2020-06-19T21:30:27Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "F081B5BE9A7C4997A2B439122BF322E3",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83454895019531,
+        "latitude" : 33.581024169921875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83454895019531,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581024169921875
+  },
+  "editingTime" : 8.9169600009918213,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":650},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"5 adults\"}]}",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-06-19T23:54:57Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n11 adults\\. 2 children\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-21T02:41:04Z",
+    "temperatureCelsius" : 39.400001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 270,
+    "sunriseDate" : "2020-06-20T12:17:47Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 9,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 39.400001525878906
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 10865
+  },
+  "creationDate" : "2020-06-20T22:00:18Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "4C7C4E5BA7CF4AD0AB397271DB7FCBE7",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83467102050781,
+        "latitude" : 33.58087158203125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83467102050781,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.58087158203125
+  },
+  "editingTime" : 12.988611936569214,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":651,\"platform\":\"com.bloombuilt.dayone-ios\"}},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"11 adults. 2 children. \"}]}",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-06-21T00:01:49Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n4 young adults in the spa\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-25T02:41:45Z",
+    "temperatureCelsius" : 32.200000762939453,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 150,
+    "sunriseDate" : "2020-06-24T12:18:49Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 19,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 32.200000762939453
+  },
+  "duration" : 0,
+  "creationDate" : "2020-06-24T16:45:35Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "986B7B71BD4743BDA156ACCD4051BCE8",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83197021484375,
+        "latitude" : 33.58056640625
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83197021484375,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500 E Cochise Dr",
+    "latitude" : 33.58056640625
+  },
+  "editingTime" : 14.963075041770935,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":651,\"platform\":\"com.bloombuilt.dayone-ios\"}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"4 young adults in the spa. \"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-06-24T16:46:06Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool \n9 people\\. Well spread out\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-27T02:41:56Z",
+    "temperatureCelsius" : 40,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 250,
+    "sunriseDate" : "2020-06-26T12:19:28Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1005,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 8,
+    "windSpeedKPH" : 13,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 40
+  },
+  "duration" : 0,
+  "creationDate" : "2020-06-27T02:01:07Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "C545D88E94F74B929DFA8DB5AB3D49A3",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83455657958984,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83455657958984,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.5809326171875
+  },
+  "editingTime" : 20.830608010292053,
+  "starred" : false,
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool \\n\"},{\"text\":\"9 people. Well spread out. \"}],\"meta\":{\"version\":1,\"created\":{\"version\":651,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true}}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-06-27T02:01:37Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n5 children 4 adults\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-28T02:42:00Z",
+    "temperatureCelsius" : 39.400001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 280,
+    "sunriseDate" : "2020-06-27T12:19:49Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1003,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 11,
+    "windSpeedKPH" : 13,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 39.400001525878906
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 14479
+  },
+  "creationDate" : "2020-06-28T00:00:21Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "7F10E94065304FF9B2B5AA99DD1FA9CD",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83470153808594,
+        "latitude" : 33.580902099609375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83470153808594,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.580902099609375
+  },
+  "editingTime" : 24.195831060409546,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":651}},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"5 children 4 adults. \"}]}",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-06-28T01:09:05Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "# Century Link\nI talked to Charles Martinez\\. He said a rep will call me back in a couple days\\. He said I can call him back if I don’t hear from anybody at 855\\-263\\-9576\\. I pressed the number for corporate customers and told CM that I needed to talk to someone in Musti\\-Unit Dwelling",
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2020-06-30T02:42:02Z",
+    "temperatureCelsius" : 34.400001525878906,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 220,
+    "sunriseDate" : "2020-06-29T12:20:35Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1005,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 16,
+    "windSpeedKPH" : 15,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 34.400001525878906
+  },
+  "duration" : 0,
+  "creationDate" : "2020-06-29T20:39:40Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "DA9D62E6359945B5B08B8A495782497D",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83464813232422,
+        "latitude" : 33.5811767578125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83464813232422,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.5811767578125
+  },
+  "editingTime" : 124.62374806404114,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1190},\"small-lines-removed\":true},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Century Link\\n\"},{\"text\":\"I talked to Charles Martinez. He said a rep will call me back in a couple days. He said I can call him back if I don’t hear from anybody at 855-263-9576. I pressed the number for corporate customers and told CM that I needed to talk to someone in Musti-Unit Dwelling\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "10.15.5",
+  "modifiedDate" : "2020-06-29T20:42:15Z",
+  "creationOSName" : "macOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n15 people, about 1\/2 were children\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-06-30T02:42:02Z",
+    "temperatureCelsius" : 35.599998474121094,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2020-06-29T12:20:35Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1004,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 15,
+    "windSpeedKPH" : 26,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 35.599998474121094
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 11111
+  },
+  "creationDate" : "2020-06-29T21:30:06Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "294034FA5FD54CA89622563ECAE061E9",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83457183837891,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83457183837891,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.5809326171875
+  },
+  "editingTime" : 20.34617006778717,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":651},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"15 people, about 1\\\/2 were children. \"}]}",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-06-29T22:34:36Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "# Century Link\nA guy called me from a marketing company to try and sell me Internet services\\. I said I wanted Internet and phone bundled\\. He said that he couldn’t do that\\.",
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2020-07-01T02:42:01Z",
+    "temperatureCelsius" : 28.899999618530273,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 160,
+    "sunriseDate" : "2020-06-30T12:21:00Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1010,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 24,
+    "windSpeedKPH" : 13,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 28.899999618530273
+  },
+  "duration" : 0,
+  "creationDate" : "2020-06-30T15:02:17Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "E1814584242742D286F9B3031C7FA587",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83474731445312,
+        "latitude" : 33.5811767578125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83474731445312,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.5811767578125
+  },
+  "editingTime" : 78.483002901077271,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1190},\"version\":1},\"contents\":[{\"text\":\"Century Link\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"A guy called me from a marketing company to try and sell me Internet services. I said I wanted Internet and phone bundled. He said that he couldn’t do that.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "10.15.5",
+  "modifiedDate" : "2020-07-01T15:03:49Z",
+  "creationOSName" : "macOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n2 adults\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-07-01T02:42:01Z",
+    "temperatureCelsius" : 35,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 160,
+    "sunriseDate" : "2020-06-30T12:21:00Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1007,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 20,
+    "windSpeedKPH" : 17,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 35
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 8183
+  },
+  "creationDate" : "2020-06-30T22:31:44Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "4AB120CB21084571A8B069325C1A1073",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83443450927734,
+        "latitude" : 33.581047058105469
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83443450927734,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581047058105469
+  },
+  "editingTime" : 6.1888400316238403,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"2 adults. \"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":651}}}",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-07-01T23:35:19Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n7 adults",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-07-02T02:41:58Z",
+    "temperatureCelsius" : 37.799999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 230,
+    "sunriseDate" : "2020-07-01T12:21:26Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1007,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 15,
+    "windSpeedKPH" : 17,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 37.799999237060547
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 9802
+  },
+  "creationDate" : "2020-07-01T21:30:23Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "E5838FD290DB45EC8DAF51D05AC528B9",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83451080322266,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83451080322266,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.5809326171875
+  },
+  "editingTime" : 8.9609100818634033,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"version\":651,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"7 adults\"}]}",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-07-01T23:35:54Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool \n5 adults\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-07-03T02:41:54Z",
+    "temperatureCelsius" : 37.200000762939453,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2020-07-02T12:21:52Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1007,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 21,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 37.200000762939453
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 7839
+  },
+  "creationDate" : "2020-07-03T01:29:31Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "5E190046D22A4150B165D50570BE96BC",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83473205566406,
+        "latitude" : 33.581027984619141
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83473205566406,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.581027984619141
+  },
+  "editingTime" : 9.5605009794235229,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"contents\":[{\"text\":\"Pool \\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"5 adults. \"}],\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"version\":651,\"platform\":\"com.bloombuilt.dayone-ios\"}}}",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-07-03T01:29:42Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n3 adults 3 children\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-07-04T02:41:48Z",
+    "temperatureCelsius" : 38.299999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 300,
+    "sunriseDate" : "2020-07-03T12:22:20Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1009,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 22,
+    "windSpeedKPH" : 15,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 38.299999237060547
+  },
+  "duration" : 0,
+  "creationDate" : "2020-07-04T00:42:24Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "10E86A00C492418BB68337DF76A72AD9",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83470916748047,
+        "latitude" : 33.581001281738281
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83470916748047,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.581001281738281
+  },
+  "editingTime" : 19.087324976921082,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":651},\"version\":1},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"3 adults 3 children. \"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-07-04T00:42:44Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n20 people including about 8 children\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-07-05T02:41:41Z",
+    "temperatureCelsius" : 41.700000762939453,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 250,
+    "sunriseDate" : "2020-07-04T12:22:49Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1006,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 15,
+    "windSpeedKPH" : 15,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 41.700000762939453
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 14223
+  },
+  "creationDate" : "2020-07-05T00:45:17Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "32402B78066049C885BCF4FBEB9EF188",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83470916748047,
+        "latitude" : 33.58087158203125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83470916748047,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.58087158203125
+  },
+  "editingTime" : 25.291611075401306,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":651},\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"20 people including about 8 children. \"}]}",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-07-05T00:45:47Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Pool\n6 people\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-07-06T02:41:31Z",
+    "temperatureCelsius" : 42.799999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 290,
+    "sunriseDate" : "2020-07-05T12:23:18Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1004,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 12,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 42.799999237060547
+  },
+  "duration" : 0,
+  "creationDate" : "2020-07-06T00:38:04Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "91E1368AB4D24F6D9D944391E58BBFDE",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83453369140625,
+        "latitude" : 33.580959320068359
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83453369140625,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580959320068359
+  },
+  "editingTime" : 8.0286179780960083,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":651},\"small-lines-removed\":true},\"contents\":[{\"text\":\"Pool\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"6 people. \"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "13.5.1",
+  "modifiedDate" : "2020-07-06T00:38:14Z",
+  "creationOSName" : "iOS"
+},
+{
+  "creationDeviceType" : "iPhone",
+  "creationDate" : "2020-07-09T00:30:09Z",
+  "creationOSName" : "iOS",
+  "creationDevice" : "Jim’s iPhone",
+  "isAllDay" : false,
+  "richText" : "{\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Pool\\n\"},{\"text\":\"5 adults 4 children. \"}],\"meta\":{\"version\":1,\"created\":{\"version\":651,\"platform\":\"com.bloombuilt.dayone-ios\"},\"small-lines-removed\":true}}",
+  "text" : "# Pool\n5 adults 4 children\\.",
+  "weather" : {
+    "sunsetDate" : "2020-07-09T02:40:54Z",
+    "temperatureCelsius" : 41.700000762939453,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 290,
+    "sunriseDate" : "2020-07-08T12:24:52Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1004,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 14,
+    "windSpeedKPH" : 13,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 41.700000762939453
+  },
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 8987
+  },
+  "creationDeviceModel" : "iPhone11,8",
+  "duration" : 0,
+  "timeZone" : "America\/Phoenix",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "35156B15BBBF4D0C9CBB2223A0F93FBD",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83465576171875,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83465576171875,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.5809326171875
+  },
+  "creationOSVersion" : "13.5.1",
+  "editingTime" : 12.69071102142334,
+  "modifiedDate" : "2020-07-09T13:05:11Z"
+},
+{
+  "creationDeviceType" : "iPhone",
+  "creationDate" : "2020-08-29T02:39:03Z",
+  "creationOSName" : "iOS",
+  "creationDevice" : "Jim’s iPhone",
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":676}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Fitness room\\n\"},{\"text\":\"Opened today. Cunningham and Gollings want to keep it closed. \"}]}",
+  "text" : "# Fitness room\nOpened today\\. Cunningham and Gollings want to keep it closed\\.",
+  "weather" : {
+    "sunsetDate" : "2020-08-29T01:57:53Z",
+    "temperatureCelsius" : 40.599998474121094,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 260,
+    "sunriseDate" : "2020-08-28T12:59:26Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1003,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 15,
+    "windSpeedKPH" : 11,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 40.599998474121094
+  },
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 12167
+  },
+  "creationDeviceModel" : "iPhone11,8",
+  "duration" : 0,
+  "timeZone" : "America\/Phoenix",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "EE6DDDAD45A649B0A4F7155B9963D3DA",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.834716796875,
+        "latitude" : 33.58087158203125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.834716796875,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.58087158203125
+  },
+  "creationOSVersion" : "13.6.1",
+  "editingTime" : 52.868777871131897,
+  "modifiedDate" : "2020-08-29T02:42:40Z"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Dwight\nChecked out his place\\. We changed the battery in the smoke detector in the master bedroom\\. We discovered that the smoke detector in the guest bedroom did not have a battery nor was it plugged in\\. We told Dwight this\\.",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-08-29T01:57:53Z",
+    "temperatureCelsius" : 40.599998474121094,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 260,
+    "sunriseDate" : "2020-08-28T12:59:26Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1003,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 15,
+    "windSpeedKPH" : 11,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 40.599998474121094
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 12167
+  },
+  "creationDate" : "2020-08-29T02:40:16Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "F91E0FF3554F48AEA35199A5D8FA4E6B",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83469390869141,
+        "latitude" : 33.5809326171875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83469390869141,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.5809326171875
+  },
+  "editingTime" : 118.24075305461884,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":676}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Dwight\\n\"},{\"text\":\"Checked out his place. We changed the battery in the smoke detector in the master bedroom. We discovered that the smoke detector in the guest bedroom did not have a battery nor was it plugged in. We told Dwight this. \"}]}",
+  "creationOSVersion" : "13.6.1",
+  "modifiedDate" : "2020-08-29T02:42:41Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "# Century Link\n866\\-642\\-0444\\. \nTalked to Shahn\\. He will work up a solution to bring fibre to the complex then it splits\\. It will be through an expediter\\. Basic TV will have to be extra\\. Shahn direct \\# 866\\-874\\-6699 x 7253\\.",
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2020-09-25T01:21:08Z",
+    "temperatureCelsius" : 28.299999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2020-09-24T13:17:40Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1011,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 27,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 28.299999237060547
+  },
+  "duration" : 0,
+  "creationDate" : "2020-09-24T16:45:29Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "BBE122439B024156B22C4E97AC68F516",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83464813232422,
+        "latitude" : 33.58099365234375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83464813232422,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.58099365234375
+  },
+  "editingTime" : 122.96698904037476,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1220}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Century Link\\n\"},{\"text\":\"866-642-0444. \\nTalked to Shahn. He will work up a solution to bring fibre to the complex then it splits. It will be through an expediter. Basic TV will have to be extra. Shahn direct # 866-874-6699 x 7253.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "10.15.6",
+  "modifiedDate" : "2020-09-24T17:12:29Z",
+  "creationOSName" : "macOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "# Suspicious Car\nMonique from bldg 37 called to us because she saw a car with the motor running in the guest slot for bldg 36\\. She said the car had been running since she first saw it at 4am\\. The car was a gray VW Jetta\\(?\\) with blacked out windows and belongings stuffed in the front seat obscuring a view into the car\\. We approached the car and a back window opened partly\\. There was a man, dog and women in the back seat\\. There was a bag of trash by the right side passenger door and a pad partly under the car\\. The man in the car said there are waiting for their friends from the AirBnB, but didn’t say which building their friends were in\\. We continued our walk and after a few minutes saw the car leaving\\. Monique picked up the bag of trash after the car left\\.",
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2020-09-27T01:18:23Z",
+    "temperatureCelsius" : 23.299999237060547,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2020-09-26T13:19:03Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1011,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 34,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 23.299999237060547
+  },
+  "duration" : 0,
+  "creationDate" : "2020-09-26T13:30:10Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "BD542082B9B249209975B4F827CE61FF",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83440399169922,
+        "latitude" : 33.58087158203125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83440399169922,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.58087158203125
+  },
+  "editingTime" : 442.43758881092072,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1220}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Suspicious Car\\n\"},{\"text\":\"Monique from bldg 37 called to us because she saw a car with the motor running in the guest slot for bldg 36. She said the car had been running since she first saw it at 4am. The car was a gray VW Jetta(?) with blacked out windows and belongings stuffed in the front seat obscuring a view into the car. We approached the car and a back window opened partly. There was a man, dog and women in the back seat. There was a bag of trash by the right side passenger door and a pad partly under the car. The man in the car said there are waiting for their friends from the AirBnB, but didn’t say which building their friends were in. We continued our walk and after a few minutes saw the car leaving. Monique picked up the bag of trash after the car left.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "10.15.7",
+  "modifiedDate" : "2020-09-26T16:24:42Z",
+  "creationOSName" : "macOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# 16 tables 9 umbrellas",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2020-10-05T01:07:33Z",
+    "temperatureCelsius" : 20,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2020-10-04T13:24:43Z",
+    "conditionsDescription" : "Clear",
+    "pressureMB" : 1012,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 26,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear-night",
+    "windChillCelsius" : 20
+  },
+  "duration" : 0,
+  "userActivity" : {
+    "activityName" : "Walking",
+    "stepCount" : 531
+  },
+  "creationDate" : "2020-10-04T13:42:59Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "648950A44521465C939BFC59F54F0DFA",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83224487304688,
+        "latitude" : 33.580673217773438
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83224487304688,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500 E Cochise Dr",
+    "latitude" : 33.580673217773438
+  },
+  "editingTime" : 24.788150072097778,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":692}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"16 tables 9 umbrellas\"}]}",
+  "creationOSVersion" : "14.0.1",
+  "modifiedDate" : "2020-10-04T13:43:26Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "# Cox Installation\nGot a call from Tom Kalau, unit 1068, 480\\-980\\-3365\\. He couldn’t get his new remote to pair\\. I went there and found that he was trying to use rechargeable batteries\\. I told him to find another set of  batteries and he decided to use the ones that came with\\. It worked\\.",
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2021-04-28T02:07:56Z",
+    "temperatureCelsius" : 20.600000381469727,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 250,
+    "sunriseDate" : "2021-04-27T12:42:31Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 18,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 20.600000381469727
+  },
+  "duration" : 0,
+  "creationDate" : "2021-04-28T01:00:36Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "6C514A93D75941D086B45D04240EB80A",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83453369140625,
+        "latitude" : 33.581085205078125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83453369140625,
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581085205078125
+  },
+  "editingTime" : 120.98321604728699,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1271}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"19B9CEE0-0B88-4118-9886-603E9AE120CB\",\"header\":1}},\"text\":\"Cox Installation\\n\"},{\"text\":\"Got a call from Tom Kalau, unit 1068, 480-980-3365. He couldn’t get his new remote to pair. I went there and found that he was trying to use rechargeable batteries. I told him to find another set of  batteries and he decided to use the ones that came with. It worked.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "11.2.3",
+  "modifiedDate" : "2021-04-28T13:15:44Z",
+  "creationOSName" : "macOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "MacBookAir8,1",
+  "text" : "# Cox\nLynn and I went to the Cox Store on Scottsdale Rd and Frank Lloyd Wright\\. We talked to Erin about the problems when talking to Cox Phone Reps and with the extra $10 charge on our bills\\.\n\nErin talked to the manager then told us that they knew about the problems and are working on it\\. We are to tell our owners and residents to skip calling the Cox 800 number and to go directly to that store to get the right equipment\\.\n\nThere will be the $10 charge on bills until Cox billing figures it out\\.\n\nJeff H checked the Cox bill sent to FSI\\. The bill reflects the new charge\\.",
+  "creationDevice" : "Little Mac",
+  "weather" : {
+    "sunsetDate" : "2021-05-04T02:12:31Z",
+    "temperatureCelsius" : 30.600000381469727,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2021-05-03T12:36:28Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1004,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 11,
+    "windSpeedKPH" : 11,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 30.600000381469727
+  },
+  "duration" : 0,
+  "creationDate" : "2021-05-04T01:11:39Z",
+  "creationDeviceType" : "MacBook Air",
+  "isPinned" : false,
+  "uuid" : "E72D2BF1C5984BD99E9E24CD29A17442",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83453369140625,
+        "latitude" : 33.580940246582031
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83453369140625,
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.580940246582031
+  },
+  "editingTime" : 204.02170693874359,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1271}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"1070748F-EF7C-4290-8F6E-E4A6627E6184\",\"header\":1}},\"text\":\"Cox\\n\"},{\"text\":\"Lynn and I went to the Cox Store on Scottsdale Rd and Frank Lloyd Wright. We talked to Erin about the problems when talking to Cox Phone Reps and with the extra $10 charge on our bills.\\n\\nErin talked to the manager then told us that they knew about the problems and are working on it. We are to tell our owners and residents to skip calling the Cox 800 number and to go directly to that store to get the right equipment.\\n\\nThere will be the $10 charge on bills until Cox billing figures it out.\\n\\nJeff H checked the Cox bill sent to FSI. The bill reflects the new charge.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "11.2.3",
+  "modifiedDate" : "2021-05-04T01:15:10Z",
+  "creationOSName" : "macOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "# Cox Danny W returned\\!\nAnd the extra $10 disappeared from ours and Don S’s bills\\.",
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2021-05-06T02:14:03Z",
+    "temperatureCelsius" : 32.200000762939453,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 200,
+    "sunriseDate" : "2021-05-05T12:34:35Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1013,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 11,
+    "windSpeedKPH" : 9,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 32.200000762939453
+  },
+  "duration" : 0,
+  "creationDate" : "2021-05-05T18:16:03Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "FF433A71719D45548CB7D22D33B1C71C",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83466339111328,
+        "latitude" : 33.58111572265625
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83466339111328,
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.58111572265625
+  },
+  "editingTime" : 49.814700961112976,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1271}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"8CC3AB68-C67C-462F-8220-787C7041AD86\",\"header\":1}},\"text\":\"Cox Danny W returned!\\n\"},{\"text\":\"And the extra $10 disappeared from ours and Don S’s bills.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "11.2.3",
+  "modifiedDate" : "2021-05-06T18:16:50Z",
+  "creationOSName" : "macOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "# Cox and Austin Long\nI got an email from Jeff Hennick that AL contacted Cox and was told the new equipment would cost extra\\.\nI emailed Austin to ask him to contact me by phone\\.\nAL called me at 13:30\\. He said he called Cox at the 800 number and was told that the new equipment would cost extra\\. I told him that the new Contour 2 box is included in the package at no extra cost\\. He should go to the Cox store on Scottsdale Rd to get the new equipment\\. He should not worry about extra charges because they probably will not be charged or he will be refunded later\\. AL asked me how I liked the new equipment and said that he thought the new C2 box included a DVR\\. I told him that it did not and that a DVR costs more\\.",
+  "creationDevice" : "OliviHomeiMac",
+  "duration" : 0,
+  "creationDate" : "2021-05-18T20:38:28Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "4D13F074D2974B4E82BD2C2AD57A30B8",
+  "editingTime" : 257.11813902854919,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1279}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"EF48DCFA-B4FE-4193-B453-88D52164D8A3\",\"header\":1}},\"text\":\"Cox and Austin Long\\n\"},{\"text\":\"I got an email from Jeff Hennick that AL contacted Cox and was told the new equipment would cost extra.\\nI emailed Austin to ask him to contact me by phone.\\nAL called me at 13:30. He said he called Cox at the 800 number and was told that the new equipment would cost extra. I told him that the new Contour 2 box is included in the package at no extra cost. He should go to the Cox store on Scottsdale Rd to get the new equipment. He should not worry about extra charges because they probably will not be charged or he will be refunded later. AL asked me how I liked the new equipment and said that he thought the new C2 box included a DVR. I told him that it did not and that a DVR costs more.\"}]}",
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "11.3.1",
+  "modifiedDate" : "2021-05-18T20:43:09Z",
+  "creationOSName" : "macOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "# Cox\nMy bill came in at $122\\.77 \\(American Express Platinum\\) which is $9\\.82 too much\\.\n\nI called Cox and talked to Jerry\\. She said that the extra is due to a charge for a DVR\\. I told her that I got a DVR by mistake and brought it back the next day\\. She then said that I would get a credit of $9\\.82 on the next bill and the correct amount for bills going forward is $112\\.95\\.",
+  "creationDevice" : "OliviHomeiMac",
+  "duration" : 0,
+  "creationDate" : "2021-05-25T15:50:59Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "BA53C637B43D4107809DFAFF7F217C06",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83489227294922,
+        "latitude" : 33.58123779296875
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83489227294922,
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.58123779296875
+  },
+  "editingTime" : 172.82040297985077,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1279}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"7E2169AD-68AF-4DB3-93A9-6E5EAFCCCBA5\",\"header\":1}},\"text\":\"Cox\\n\"},{\"text\":\"My bill came in at $122.77 (American Express Platinum) which is $9.82 too much.\\n\\nI called Cox and talked to Jerry. She said that the extra is due to a charge for a DVR. I told her that I got a DVR by mistake and brought it back the next day. She then said that I would get a credit of $9.82 on the next bill and the correct amount for bills going forward is $112.95.\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "11.3.1",
+  "modifiedDate" : "2021-05-25T15:54:20Z",
+  "creationOSName" : "macOS"
+},
+{
+  "creationDeviceType" : "iMac",
+  "creationDate" : "2021-05-29T23:21:29Z",
+  "modifiedDate" : "2021-05-30T00:15:29Z",
+  "editingTime" : 1775.3241311311722,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1285}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"03321E48-AE1E-4E06-BC30-A643D0D61790\",\"header\":1}},\"text\":\"Lori Jacques\\n\"},{\"text\":\"RE: Email of 5\\\/28\\\/21\\n\\nI visited Lori on 5\\\/29\\\/21 at 4pm to discuss the incident that led to the email of 5\\\/28\\\/21.\\n\\nLori’s TV Installation:\\nShe has a fairly new LG smart TV connected to Cox bulk video via a Contour 2 box. \"},{\"attributes\":{\"italic\":true},\"text\":\"The TV is also connected to Lori’s home WiFi system, \"},{\"text\":\"and she has an Apple TV. The LG TV is connected to the Contour 2 box and Apple TV via HDMI.\\n\\nOn May 28, Lori tried to connect to HBO Max using the Contour voice activation feature. The LG TV reported to her that she was being directed to “another application.” My interpretation is that the TV switched to an Internet connection. She was directed to a screen asking her to sign-on to HBO Max or to sign up for a subscription. She chose to sign-on using her personal Cox account, and a code was displayed on her TV with directions to a web site that she displayed on her iPhone. She tried to enter the code with no success and after some confusing displays on her iPhone, a message was displayed stating that her account was locked. I’m not sure how this happened, but by this time, she had stumbled onto a scammer’s web site.\\n\\nShe was directed to call a number, and after a short conversation she became suspicious of the scammer due to his unreasonable demands. For example, he asked for the name of her bank, and he demanded that she use software that would allow him to control her phone. She then hung up on him. She did not divulge any personal information, like credit card numbers or bank account numbers.\\n\\nMy Recommendations:\\nI think that HBO Max is not  a regular cable channel and is available via the Internet. Residents can access the Internet via smart TV’s,  an Apple TV, a Roku, or an Amazon Fire. Residents should try to activate HBO Max using their Cox account, and they do not have to create a new account. If this method does not work, they should not go to any web sites displayed on their TV, computer or personal device, nor should they call a phone number displayed this way. They should call the Cox phone number from their Cox bill.\"}]}",
+  "text" : "# Lori Jacques\nRE: Email of 5\/28\/21\n\nI visited Lori on 5\/29\/21 at 4pm to discuss the incident that led to the email of 5\/28\/21\\.\n\nLori’s TV Installation:\nShe has a fairly new LG smart TV connected to Cox bulk video via a Contour 2 box\\. ​*The TV is also connected to Lori’s home WiFi system,*​ and she has an Apple TV\\. The LG TV is connected to the Contour 2 box and Apple TV via HDMI\\.\n\nOn May 28, Lori tried to connect to HBO Max using the Contour voice activation feature\\. The LG TV reported to her that she was being directed to “another application\\.” My interpretation is that the TV switched to an Internet connection\\. She was directed to a screen asking her to sign\\-on to HBO Max or to sign up for a subscription\\. She chose to sign\\-on using her personal Cox account, and a code was displayed on her TV with directions to a web site that she displayed on her iPhone\\. She tried to enter the code with no success and after some confusing displays on her iPhone, a message was displayed stating that her account was locked\\. I’m not sure how this happened, but by this time, she had stumbled onto a scammer’s web site\\.\n\nShe was directed to call a number, and after a short conversation she became suspicious of the scammer due to his unreasonable demands\\. For example, he asked for the name of her bank, and he demanded that she use software that would allow him to control her phone\\. She then hung up on him\\. She did not divulge any personal information, like credit card numbers or bank account numbers\\.\n\nMy Recommendations:\nI think that HBO Max is not  a regular cable channel and is available via the Internet\\. Residents can access the Internet via smart TV’s,  an Apple TV, a Roku, or an Amazon Fire\\. Residents should try to activate HBO Max using their Cox account, and they do not have to create a new account\\. If this method does not work, they should not go to any web sites displayed on their TV, computer or personal device, nor should they call a phone number displayed this way\\. They should call the Cox phone number from their Cox bill\\.",
+  "weather" : {
+    "sunsetDate" : "2021-05-30T02:31:12Z",
+    "temperatureCelsius" : 37.200000762939453,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 240,
+    "sunriseDate" : "2021-05-29T12:19:06Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1004,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 8,
+    "windSpeedKPH" : 22,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 37.200000762939453
+  },
+  "duration" : 0,
+  "creationDeviceModel" : "iMac19,2",
+  "timeZone" : "America\/Phoenix",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "6B3EDD4AFE074FEDAF2D1F7D506A411D",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83486938476562,
+        "latitude" : 33.581329345703125
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83486938476562,
+    "placeName" : "10501–10533 N 114th St",
+    "latitude" : 33.581329345703125
+  },
+  "creationOSVersion" : "11.4",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac"
+}
+]}

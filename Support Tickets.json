@@ -1,0 +1,184 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83432769775391,
+        "latitude" : 33.581012725830078
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83432769775391,
+    "administrativeArea" : "AZ",
+    "placeName" : "Mirage Crossing Condominiums",
+    "latitude" : 33.581012725830078
+  },
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "9E78E922DC6340CCA9CC7785F6666C59",
+  "isAllDay" : false,
+  "creationDeviceType" : "iMac",
+  "creationOSVersion" : "10.14.4",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-04-27T11:46:28Z",
+  "text" : "# KNitche\n\nKathi Ticho called\\. She installed a new version of Quickbooks and things started going badly\\. The initial call was to diagnose a problem which turned out to be a failure with the power supply on her bookkeeping PC\\.\n\nShe said that communications are failing, can’t transmit data from POS to bookkeeping and she can’t log into her email service\\.\n\nI called Jay Turner and Mattine Gallantine to help\\. Mattine called the next day and arranged for the PC to be delivered  to MG Computers where the power supply was fixed\\. All this happened before Jay could contact Kathi T and he didn’t contact her\\.",
+  "richText" : "{\"contents\":[{\"text\":\"KNitche\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"\\n\"},{\"text\":\"Kathi Ticho called. She installed a new version of Quickbooks and things started going badly. The initial call was to diagnose a problem which turned out to be a failure with the power supply on her bookkeeping PC.\\n\\nShe said that communications are failing, can’t transmit data from POS to bookkeeping and she can’t log into her email service.\\n\\nI called Jay Turner and Mattine Gallantine to help. Mattine called the next day and arranged for the PC to be delivered  to MG Computers where the power supply was fixed. All this happened before Jay could contact Kathi T and he didn’t contact her.\"}],\"meta\":{\"version\":1}}",
+  "creationDate" : "2019-04-24T22:00:18Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS",
+  "weather" : {
+    "sunsetDate" : "2019-04-25T02:05:51Z",
+    "temperatureCelsius" : 32,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 250,
+    "sunriseDate" : "2019-04-24T12:45:28Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 14,
+    "windSpeedKPH" : 19,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 33
+  }
+},
+{
+  "isPinned" : false,
+  "duration" : 0,
+  "uuid" : "0140F3F471D8408F86942A7CFCEA3DFD",
+  "creationDeviceType" : "iMac",
+  "isAllDay" : false,
+  "creationOSVersion" : "10.14.4",
+  "creationDeviceModel" : "iMac14,3",
+  "starred" : false,
+  "modifiedDate" : "2019-04-27T11:50:56Z",
+  "text" : "# Knitche\n\nKathi Ticho called\\. The power supply is fixed, but she can’t do emails\\. She thought the problem was in Quickbooks, but the problem is in authenticating with her email service\\.\n\nShe uses bizmail\\.yahoo\\.com where knitche\\.com email is hosted\\. She can get past the initial email password, but then something is asking for a “Master Password”\\. I was not able to  determine what service is asking for the Master Password\\. I Googled this information, and one response suggested that there was a hacking done that changed a password, but this is not certain\\.\n\nI left it with Kathi should call Quickbooks and Yahoo support\\. Quickbooks support suggested that we use Outlook for email\\.\n\nI left it with asking Kathi when does she have time to install an Outlook email client\\.",
+  "richText" : "{\"meta\":{\"version\":1},\"contents\":[{\"attributes\":{\"line\":{\"header\":1}},\"text\":\"Knitche\\n\"},{\"text\":\"\\n\"},{\"text\":\"Kathi Ticho called. The power supply is fixed, but she can’t do emails. She thought the problem was in Quickbooks, but the problem is in authenticating with her email service.\\n\\nShe uses bizmail.yahoo.com where knitche.com email is hosted. She can get past the initial email password, but then something is asking for a “Master Password”. I was not able to  determine what service is asking for the Master Password. I Googled this information, and one response suggested that there was a hacking done that changed a password, but this is not certain.\\n\\nI left it with Kathi should call Quickbooks and Yahoo support. Quickbooks support suggested that we use Outlook for email.\\n\\nI left it with asking Kathi when does she have time to install an Outlook email client.\"}]}",
+  "creationDate" : "2019-04-26T22:00:57Z",
+  "timeZone" : "America\/Phoenix",
+  "creationDevice" : "OliviHomeiMac",
+  "creationOSName" : "macOS"
+},
+{
+  "isPinned" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1271}},\"contents\":[{\"text\":\"Troubleshoot Elaine Spinato printer problem.\\n\\nI uninstalled a lot of apps, see DayOne. Explorer and Edge fail to print with “Let the app change my printer preferences. Your printer has experienced an unexpected configuration problem. 0x800700c1.\\n\\nI called Microsoft support. Ticker number 1471817715.\\n\\nWeb Site aka.ms\\\/1809\\n\\nDownload tool now. MediaCreationTool1809.exe then run it.\\n\\nWhen it’s done, click Finish. \\n\\nThe software tries to create a bootable DVD or USB Drive. I told it to update in place.\"}]}",
+  "editingTime" : 10.01019299030304,
+  "creationOSVersion" : "11.2.3",
+  "starred" : false,
+  "text" : "Troubleshoot Elaine Spinato printer problem\\.\n\nI uninstalled a lot of apps, see DayOne\\. Explorer and Edge fail to print with “Let the app change my printer preferences\\. Your printer has experienced an unexpected configuration problem\\. 0x800700c1\\.\n\nI called Microsoft support\\. Ticker number 1471817715\\.\n\nWeb Site aka\\.ms\/1809\n\nDownload tool now\\. MediaCreationTool1809\\.exe then run it\\.\n\nWhen it’s done, click Finish\\. \n\nThe software tries to create a bootable DVD or USB Drive\\. I told it to update in place\\.",
+  "duration" : 0,
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83506011962891,
+        "latitude" : 33.581634521484375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83506011962891,
+    "placeName" : "N 114th St",
+    "latitude" : 33.581634521484375
+  },
+  "creationDeviceModel" : "iMac19,2",
+  "creationOSName" : "macOS",
+  "timeZone" : "America\/Phoenix",
+  "modifiedDate" : "2021-04-20T12:49:54Z",
+  "creationDeviceType" : "iMac",
+  "uuid" : "25E7958767A548BF853597104F491EBD",
+  "creationDate" : "2019-05-15T12:49:31Z",
+  "weather" : {
+    "sunsetDate" : "2021-04-21T02:02:36Z",
+    "temperatureCelsius" : 15.600000381469727,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 0,
+    "sunriseDate" : "2021-04-20T12:50:19Z",
+    "conditionsDescription" : "Clear",
+    "pressureMB" : 1010,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 32,
+    "windSpeedKPH" : 0,
+    "weatherCode" : "clear-night",
+    "windChillCelsius" : 15.600000381469727
+  },
+  "isAllDay" : false,
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "modifiedDate" : "2019-05-16T12:42:38Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iPhone",
+  "creationDevice" : "Jim’s iPhone",
+  "text" : "# Spinato home\n\nMicrosoft support\\. Ticker number 1471817715\\.\nI disabled at startup\nBrstwnd\nCybrlink media library\nFirefox\nInternet security essentials\nOneDrive \nMui Startmenu\nSpotify\nWeb companion\n\nI uninstalled\nCandy Crush\nCCSDK\nFacebook\nGame bar\nInternet security essentials \nLenovo app explore\nLenovo family cloud server\nIntel security assist \nMarch of empire\nMinecraft\nSling\nSpotify\nSticky notes\nTwitter\nWeb companion\n\nAfter reboot, we printed from Firefox \n\nCalled Microsoft\\. They pointed me to a Windows RE\\-Install download\\. There was apparently a botched update #1809 that they re\\-released\\. It requires a RE\\-Install\\. \n\nExplorer and Edge fail to print with “Let the app change my printer preferences\\. Your printer has experienced an unexpected configuration problem\\. 0x800700c1\\.”\n\nWeb Site aka\\.ms\/1809\\. This web site had me download MediaCreationTool1809 which downloaded and created a windows repair Disk Image called Windows\\.iso\\. The software tries to create a bootable DVD or USB Drive\\. I told it to update in place\\. It took about 1\\.5 hours to complete\\.\n\nI copied MediaCreationTool1809 and Windows\\.iso to a data stick\\.",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.72427368164062,
+        "latitude" : 33.592113494873047
+      },
+      "radius" : 75
+    },
+    "localityName" : "Fountain Hills",
+    "country" : "United States",
+    "longitude" : -111.72427368164062,
+    "administrativeArea" : "AZ",
+    "placeName" : "16511 E Inca Ave",
+    "latitude" : 33.592113494873047
+  },
+  "starred" : false,
+  "uuid" : "01812CDD368F4318AD44E1454C301B6C",
+  "creationOSVersion" : "12.2",
+  "richText" : "{\"contents\":[{\"text\":\"Spinato home\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"\\n\"},{\"text\":\"Microsoft support. Ticker number 1471817715.\\nI disabled at startup\\nBrstwnd\\nCybrlink media library\\nFirefox\\nInternet security essentials\\nOneDrive \\nMui Startmenu\\nSpotify\\nWeb companion\\n\\nI uninstalled\\nCandy Crush\\nCCSDK\\nFacebook\\nGame bar\\nInternet security essentials \\nLenovo app explore\\nLenovo family cloud server\\nIntel security assist \\nMarch of empire\\nMinecraft\\nSling\\nSpotify\\nSticky notes\\nTwitter\\nWeb companion\\n\\nAfter reboot, we printed from Firefox \\n\\nCalled Microsoft. They pointed me to a Windows RE-Install download. There was apparently a botched update #1809 that they re-released. It requires a RE-Install. \\n\\nExplorer and Edge fail to print with “Let the app change my printer preferences. Your printer has experienced an unexpected configuration problem. 0x800700c1.”\\n\\nWeb Site aka.ms\\\/1809. This web site had me download MediaCreationTool1809 which downloaded and created a windows repair Disk Image called Windows.iso. The software tries to create a bootable DVD or USB Drive. I told it to update in place. It took about 1.5 hours to complete.\\n\\nI copied MediaCreationTool1809 and Windows.iso to a data stick.\\n\"}],\"meta\":{\"version\":1}}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-05-15T15:10:55Z",
+  "userActivity" : {
+    "activityName" : "Stationary",
+    "stepCount" : 4121
+  },
+  "weather" : {
+    "sunsetDate" : "2019-05-16T02:20:39Z",
+    "temperatureCelsius" : 27,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 130,
+    "sunriseDate" : "2019-05-15T12:25:48Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1009,
+    "visibilityKM" : 16.093439102172852,
+    "relativeHumidity" : 25,
+    "windSpeedKPH" : 15,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 27
+  },
+  "creationDeviceModel" : "iPhone11,8",
+  "creationOSName" : "iOS",
+  "isAllDay" : false
+},
+{
+  "modifiedDate" : "2019-06-17T15:05:19Z",
+  "duration" : 0,
+  "isPinned" : false,
+  "creationDeviceType" : "iMac",
+  "creationDevice" : "OliviHomeiMac",
+  "text" : "# Carol Wojnar\nWent to her house to check on various computer problems\\.\n1. I tried to remove the logon password, but did not because it was evidently attached to her Microsoft Account\n2. I set Firefox as the default browser\\.\n3. I checked her virus protection\\. It’s Cox\\-supplied McAfee and appears to be working properly\\. I ran a scan which came up clean\\.\n4. I helped her reset her Chase Bank login\\. There was too many failed login attempts and the account was locked\\. \n",
+  "uuid" : "04586AAA784E4BE6A9B347551112E6C4",
+  "starred" : false,
+  "creationOSVersion" : "10.14.5",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true},\"contents\":[{\"text\":\"Carol Wojnar\\n\",\"attributes\":{\"line\":{\"header\":1}}},{\"text\":\"Went to her house to check on various computer problems.\\n\"},{\"attributes\":{\"line\":{\"indentLevel\":1,\"listStyle\":\"numbered\",\"listIndex\":1}},\"text\":\"I tried to remove the logon password, but did not because it was evidently attached to her Microsoft Account\\n\"},{\"attributes\":{\"line\":{\"listIndex\":2,\"indentLevel\":1,\"listStyle\":\"numbered\"}},\"text\":\"I set Firefox as the default browser.\\n\"},{\"text\":\"I checked her virus protection. It’s Cox-supplied McAfee and appears to be working properly. I ran a scan which came up clean.\\n\",\"attributes\":{\"line\":{\"listIndex\":3,\"listStyle\":\"numbered\",\"indentLevel\":1}}},{\"text\":\"I helped her reset her Chase Bank login. There was too many failed login attempts and the account was locked. \\n\",\"attributes\":{\"line\":{\"listStyle\":\"numbered\",\"indentLevel\":1,\"listIndex\":4}}},{\"text\":\"\\n\"}]}",
+  "timeZone" : "America\/Phoenix",
+  "creationDate" : "2019-06-13T21:00:13Z",
+  "creationOSName" : "macOS",
+  "creationDeviceModel" : "iMac14,3",
+  "isAllDay" : false
+}
+]}

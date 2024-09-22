@@ -1,0 +1,56 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "# Articles\nhttps:\/\/variety\\.com\/2020\/tv\/news\/cable\\-tv\\-decline\\-streaming\\-cord\\-cutting\\-1234710007\/\nhttps:\/\/www\\.forbes\\.com\/sites\/blakemorgan\/2019\/07\/05\/what\\-is\\-the\\-future\\-of\\-television\/#501c377e59de\nhttps:\/\/www\\.cnbc\\.com\/2019\/03\/03\/cable\\-future\\-may\\-not\\-include\\-tv\\-as\\-cable\\-one\\-shows\\.html\nhttps:\/\/www\\.cox\\.com\/residential\/articles\/tales\\-reformed\\-cord\\-cutter\\.html",
+  "creationDevice" : "OliviHomeiMac",
+  "weather" : {
+    "sunsetDate" : "2020-10-23T00:45:20Z",
+    "temperatureCelsius" : 19.399999618530273,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 40,
+    "sunriseDate" : "2020-10-22T13:38:41Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 31,
+    "windSpeedKPH" : 6,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 19.399999618530273
+  },
+  "duration" : 0,
+  "creationDate" : "2020-10-22T14:34:43Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "399C66D0EFA442A5ABE14A3526F501A2",
+  "tags" : [
+    "501c377e59de"
+  ],
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83475494384766,
+        "latitude" : 33.581146240234375
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "longitude" : -111.83475494384766,
+    "administrativeArea" : "AZ",
+    "placeName" : "11500–11520 E Cochise Dr",
+    "latitude" : 33.581146240234375
+  },
+  "editingTime" : 51.655785083770752,
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1225}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"4763F17F-858A-44CA-A745-EC6FC8E3DABF\",\"header\":1}},\"text\":\"Articles\\n\"},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/variety.com\\\/2020\\\/tv\\\/news\\\/cable-tv-decline-streaming-cord-cutting-1234710007\\\/\"},{\"text\":\"\\n\"},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/www.forbes.com\\\/sites\\\/blakemorgan\\\/2019\\\/07\\\/05\\\/what-is-the-future-of-television\\\/#501c377e59de\"},{\"text\":\"\\n\"},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/www.cnbc.com\\\/2019\\\/03\\\/03\\\/cable-future-may-not-include-tv-as-cable-one-shows.html\"},{\"text\":\"\\n\"},{\"attributes\":{\"autolink\":true},\"text\":\"https:\\\/\\\/www.cox.com\\\/residential\\\/articles\\\/tales-reformed-cord-cutter.html\"}]}",
+  "creationOSVersion" : "10.15.7",
+  "modifiedDate" : "2020-10-22T14:53:14Z",
+  "creationOSName" : "macOS"
+}
+]}

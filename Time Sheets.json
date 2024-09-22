@@ -1,0 +1,78 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "CAF \nDesign Wed site for Indiana Rides system",
+  "creationDevice" : "OliviHomeiMac",
+  "duration" : 0,
+  "creationDate" : "2022-08-12T17:21:59Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "A4CB0EC761494505B4BF5ADF86D5AD2A",
+  "editingTime" : 26.18491792678833,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1409}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"01AC7E3B-455D-4A8D-A314-15C82890E16A\"}},\"text\":\"CAF \\n\"},{\"text\":\"Design Wed site for Indiana Rides system\\n\"}]}",
+  "starred" : false,
+  "timeZone" : "America\/Indiana\/Indianapolis",
+  "creationOSVersion" : "12.5",
+  "modifiedDate" : "2022-08-12T17:22:28Z",
+  "creationOSName" : "macOS"
+},
+{
+  "creationDeviceType" : "iMac",
+  "creationDate" : "2022-08-18T18:58:10Z",
+  "modifiedDate" : "2022-08-18T20:08:34Z",
+  "editingTime" : 39.743306040763855,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1412}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"65F64EF2-23C2-4D74-9483-A6B7126E8E2E\"}},\"text\":\"CAF\\n\"},{\"text\":\"Got Square Developer account\\nStarted Square sandbox App\\n\\nWhile working through the Sandbox app, I noticed that we can use Webhooks to get notified when a flight is booked\\n\\nI got the Sandbox API to work using the Square test platform.\\n\\nI’m now trying to get postman to work. Got it. I can get postman to call the Square Sandbox and get test responses.\\n\"}]}",
+  "text" : "CAF\nGot Square Developer account\nStarted Square sandbox App\n\nWhile working through the Sandbox app, I noticed that we can use Webhooks to get notified when a flight is booked\n\nI got the Sandbox API to work using the Square test platform\\.\n\nI’m now trying to get postman to work\\. Got it\\. I can get postman to call the Square Sandbox and get test responses\\.",
+  "duration" : 0,
+  "creationDeviceModel" : "iMac19,2",
+  "timeZone" : "America\/Indiana\/Indianapolis",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "6ADF8308B35E47FDA6B798675DFBADC2",
+  "creationOSVersion" : "12.5",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "creationDeviceType" : "iMac",
+  "creationDate" : "2022-08-18T20:09:59Z",
+  "modifiedDate" : "2022-08-18T20:10:34Z",
+  "editingTime" : 0,
+  "isAllDay" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1412}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"175C58D9-9539-4DF3-B9B6-9FECD46D9FFA\"}},\"text\":\"CAF\\n\"},{\"text\":\"End IndyCAF session: get Postman to work with Square API\"}]}",
+  "text" : "CAF\nEnd IndyCAF session: get Postman to work with Square API",
+  "duration" : 0,
+  "creationDeviceModel" : "iMac19,2",
+  "timeZone" : "America\/Indiana\/Indianapolis",
+  "starred" : false,
+  "isPinned" : false,
+  "uuid" : "6329DEF698914C46AE43E0076FB74297",
+  "creationOSVersion" : "12.5",
+  "creationOSName" : "macOS",
+  "creationDevice" : "OliviHomeiMac"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iMac19,2",
+  "text" : "IndyCAF\nGot Squareup API to work in PostMan\\. See IndyCAF Accounting Environment and GET ListTransactions URL\n\nApprox 1 hr",
+  "creationDevice" : "OliviHomeiMac",
+  "duration" : 0,
+  "creationDate" : "2022-08-22T19:51:09Z",
+  "creationDeviceType" : "iMac",
+  "isPinned" : false,
+  "uuid" : "08B1EB1A8B7B4D94A57A06756C40853C",
+  "editingTime" : 106.00818812847137,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-mac\",\"version\":1412}},\"contents\":[{\"attributes\":{\"line\":{\"header\":1,\"identifier\":\"65AAFA5A-AD8F-4353-BA62-6642F42344A4\"}},\"text\":\"IndyCAF\\n\"},{\"text\":\"Got Squareup API to work in PostMan. See IndyCAF Accounting Environment and GET ListTransactions URL\\n\\nApprox 1 hr\"}]}",
+  "starred" : false,
+  "timeZone" : "America\/Indiana\/Indianapolis",
+  "creationOSVersion" : "12.5.1",
+  "modifiedDate" : "2022-08-22T19:53:11Z",
+  "creationOSName" : "macOS"
+}
+]}

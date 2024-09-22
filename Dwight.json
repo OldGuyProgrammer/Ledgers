@@ -1,0 +1,71 @@
+{
+"metadata" : {
+  "version" : "1.0"
+},
+"entries" : [
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "text" : "# Left for Canada",
+  "creationDevice" : "Jim’s iPhone",
+  "duration" : 0,
+  "creationDate" : "2021-04-15T15:00:00Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "5EAAFAFD3A224D96B9BF6A65D63FD9F9",
+  "editingTime" : 10.774259924888611,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":760}},\"contents\":[{\"attributes\":{\"line\":{\"identifier\":\"08897A37-743C-4459-B9B4-38E577494441\",\"header\":1}},\"text\":\"Left for Canada\"}]}",
+  "starred" : false,
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "14.4.2",
+  "modifiedDate" : "2021-04-17T03:18:36Z",
+  "creationOSName" : "iOS"
+},
+{
+  "isAllDay" : false,
+  "creationDeviceModel" : "iPhone11,8",
+  "creationDevice" : "Jim’s iPhone",
+  "weather" : {
+    "sunsetDate" : "2021-05-16T02:21:34Z",
+    "temperatureCelsius" : 31.100000381469727,
+    "weatherServiceName" : "HAMweather",
+    "windBearing" : 200,
+    "sunriseDate" : "2021-05-15T12:26:29Z",
+    "conditionsDescription" : "Sunny",
+    "pressureMB" : 1008,
+    "visibilityKM" : 16.093399047851562,
+    "relativeHumidity" : 12,
+    "windSpeedKPH" : 17,
+    "weatherCode" : "clear",
+    "windChillCelsius" : 31.100000381469727
+  },
+  "duration" : 0,
+  "creationDate" : "2021-05-15T18:52:55Z",
+  "creationDeviceType" : "iPhone",
+  "isPinned" : false,
+  "uuid" : "2D8980869B0646BBBE94733CCF4FD724",
+  "location" : {
+    "region" : {
+      "center" : {
+        "longitude" : -111.83213043212891,
+        "latitude" : 33.580528259277344
+      },
+      "radius" : 75
+    },
+    "localityName" : "Scottsdale",
+    "country" : "United States",
+    "timeZoneName" : "America\/Phoenix",
+    "administrativeArea" : "AZ",
+    "longitude" : -111.83213043212891,
+    "placeName" : "11500 E Cochise Dr",
+    "latitude" : 33.580528259277344
+  },
+  "editingTime" : 0,
+  "starred" : false,
+  "richText" : "{\"meta\":{\"version\":1,\"small-lines-removed\":true,\"created\":{\"platform\":\"com.bloombuilt.dayone-ios\",\"version\":769}},\"contents\":[]}",
+  "timeZone" : "America\/Phoenix",
+  "creationOSVersion" : "14.4.2",
+  "modifiedDate" : "2021-05-15T18:53:05Z",
+  "creationOSName" : "iOS"
+}
+]}
