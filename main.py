@@ -1,13 +1,15 @@
 #
 # Journals Inerpreter
 #
-# Take a Journals program exported data, hopefully in JSON format,
-# Parse it into a python dictionary and store it.
+# Take a Journals program exported data.
+# Parse it into JSON format
 #
-# Jim Olivi 2024
+# Jim Olivi 2025
 
-from ReadJournalFile import ReadJournalFile
+from ReadJournalFiles import ReadJournalFiles
+from getFiles import GetJournalEntries
 
 print("Start Journals interpreter")
-ReadJournalFile()
+journalFiles = ReadJournalFiles("AppleJournalEntries/Entries")
+GetJournalEntries(journalFiles)
 print("End Journals Interpreter")
