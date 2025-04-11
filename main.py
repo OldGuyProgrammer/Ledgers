@@ -6,10 +6,16 @@
 #
 # Jim Olivi 2025
 
-from ReadJournalFiles import ReadJournalFiles
-from getFiles import GetJournalEntries
+from ReadJournalFiles import read_journal_files as rjf
+from getFiles import get_journal_entries as gje
+from pandas_svcs import PandasSvcs
 
 print("Start Journals interpreter")
-journalFiles = ReadJournalFiles("AppleJournalEntries/Entries")
-GetJournalEntries(journalFiles)
+
+ps = PandasSvcs()
+journalFiles = rjf("AppleJournalEntries/Entries")
+for htmlfile in journalFiles:
+    entry = gje(htmlfile)
+    ps.add_row(entry)
+
 print("End Journals Interpreter")
